@@ -1,0 +1,2567 @@
+Order ID,Customer Name,Category,Sub Category,City,Order Date,Region,Sales,Discount,Profit,State
+,Hussain,Food Grains,Atta & Flour,Perambalur,06-12-2017,West,2360.0,0.21,165.2,Tamil Nadu
+OD6,Adavan,Food Grains,Organic Staples,Dharmapuri,06-09-2015,West,2305.0,0.26,,Tamil Nadu
+OD9,Hafiz,Bakery,Biscuits,Tirunelveli,06-09-2015,West,791.0,0.23,,Tamil Nadu
+OD10,,,Cakes,Chennai,06-09-2015,West,,0.27,484.65,
+OD11,Ganesh,,Chocolates,Karur,06-09-2015,West,1903.0,0.13,,
+OD14,Peer,Fruits & Veggies,Fresh Vegetables,Kanyakumari,,West,1277.0,0.25,63.85,Tamil Nadu
+OD18,Arutra,Beverages,,Bodi,5/13/2015,West,1617.0,0.19,113.19,Tamil Nadu
+,Verma,Beverages,,Kanyakumari,8/27/2015,West,,0.29,159.16,Tamil Nadu
+OD21,,Beverages,Health Drinks,Vellore,8/27/2015,West,522.0,0.19,208.8,Tamil Nadu
+OD25,Sharon,,Eggs,Ooty,9/25/2016,West,,,495.0,Tamil Nadu
+OD27,Muneer,Snacks,,Trichy,1/16/2017,West,541.0,0.12,43.28,Tamil Nadu
+OD43,Sharon,,Cookies,Bodi,7/17/2017,West,1017.0,0.25,345.78,Tamil Nadu
+OD64,Yusuf,Fruits & Veggies,,Trichy,,West,1741.0,0.31,661.58,Tamil Nadu
+OD65,Willams,"Eggs, Meat & Fish",Eggs,Madurai,11/24/2016,West,607.0,0.22,,Tamil Nadu
+,Muneer,"Eggs, Meat & Fish",Mutton,Tirunelveli,11/24/2016,West,1824.0,0.25,766.08,Tamil Nadu
+OD68,Roshan,Fruits & Veggies,Fresh Vegetables,Pudukottai,,West,1160.0,,510.4,Tamil Nadu
+OD83,Komal,Oil & Masala,Spices,,10-12-2015,West,990.0,0.26,227.7,Tamil Nadu
+,Krithika,,Dals & Pulses,Madurai,9/17/2017,West,1878.0,0.12,450.72,Tamil Nadu
+OD96,,,Fish,Virudhunagar,11-06-2018,West,1230.0,,,Tamil Nadu
+OD98,Sharon,Fruits & Veggies,Fresh Fruits,Trichy,6/17/2018,West,545.0,0.31,125.35,Tamil Nadu
+OD105,Suresh,Food Grains,Dals & Pulses,Karur,,West,2300.0,0.14,1035.0,Tamil Nadu
+OD106,Komal,Oil & Masala,Masalas,Kanyakumari,11/13/2016,West,,,78.75,Tamil Nadu
+OD118,Arvind,,Organic Vegetables,Viluppuram,03-02-2016,West,,0.11,186.77,Tamil Nadu
+OD127,Shah,"Eggs, Meat & Fish",Mutton,,,West,,0.17,,
+OD128,Harish,Oil & Masala,Spices,Tirunelveli,11-05-2018,West,1293.0,0.23,336.18,Tamil Nadu
+OD129,Sharon,,Rice,Bodi,11-06-2017,West,1458.0,0.29,597.78,Tamil Nadu
+OD130,Peer,Food Grains,,Coimbatore,11-06-2017,West,1801.0,0.22,126.07,Tamil Nadu
+,Shah,,,,10/13/2017,West,,0.12,315.02,Tamil Nadu
+OD135,,Beverages,Health Drinks,Ramanadhapuram,10/13/2017,West,2373.0,0.18,,Tamil Nadu
+OD136,Veena,Fruits & Veggies,Organic Fruits,Cumbum,10/13/2017,West,1430.0,0.19,514.8,Tamil Nadu
+OD137,Sundar,Oil & Masala,Spices,Viluppuram,10/13/2017,West,,0.3,674.28,
+,Jackson,"Eggs, Meat & Fish",Eggs,Theni,10/13/2017,West,867.0,0.14,329.46,
+OD139,,Snacks,Noodles,Theni,10/13/2017,West,1101.0,,,
+OD140,Hussain,"Eggs, Meat & Fish",Mutton,Ooty,,West,1088.0,0.28,,
+OD142,,Oil & Masala,Masalas,Tirunelveli,9/18/2018,West,2483.0,0.14,223.47,Tamil Nadu
+OD143,Surya,,Atta & Flour,,,West,1335.0,,293.7,Tamil Nadu
+OD144,Sharon,"Eggs, Meat & Fish",,Tenkasi,,West,,0.24,252.45,Tamil Nadu
+OD146,Malik,Oil & Masala,,Coimbatore,09-07-2016,West,,0.13,573.87,Tamil Nadu
+OD152,Jackson,,Chocolates,Pudukottai,3/13/2017,West,1016.0,0.34,335.28,Tamil Nadu
+OD153,Amy,Snacks,Cookies,Namakkal,,West,852.0,,,Tamil Nadu
+OD154,Ram,Food Grains,Organic Staples,Ramanadhapuram,5/31/2016,West,1233.0,,234.27,Tamil Nadu
+OD155,,Snacks,Noodles,Pudukottai,5/31/2016,West,2236.0,0.14,,Tamil Nadu
+OD156,Ramesh,,,,5/31/2016,West,2188.0,0.32,809.56,Tamil Nadu
+,,Oil & Masala,Edible Oil & Ghee,Salem,,West,1774.0,0.15,620.9,Tamil Nadu
+,Yadav,Beverages,Soft Drinks,Ooty,,West,713.0,,192.51,Tamil Nadu
+OD164,,Snacks,Cookies,,11-07-2017,West,1516.0,0.32,121.28,Tamil Nadu
+OD172,Sabeela,Beverages,Health Drinks,Tirunelveli,08-05-2015,West,1412.0,0.11,564.8,Tamil Nadu
+OD174,Alan,,Organic Vegetables,Viluppuram,08-05-2015,West,2476.0,0.33,420.92,
+OD195,Peer,"Eggs, Meat & Fish",Eggs,Tirunelveli,10/31/2016,West,,,340.75,Tamil Nadu
+OD203,Jackson,Food Grains,Organic Staples,,08-03-2015,West,,0.24,404.1,Tamil Nadu
+OD219,Sabeela,Fruits & Veggies,Organic Fruits,Virudhunagar,10/28/2017,West,2368.0,,876.16,Tamil Nadu
+OD237,,Bakery,Cakes,Bodi,11-12-2018,West,,0.16,,
+OD250,,Beverages,Health Drinks,,12-10-2017,West,2133.0,0.26,959.85,
+OD266,Harish,Fruits & Veggies,Organic Vegetables,Tirunelveli,11-10-2016,West,1167.0,,,Tamil Nadu
+OD272,Krithika,Snacks,Noodles,,7/30/2016,West,,,282.88,Tamil Nadu
+OD273,Muneer,Fruits & Veggies,,Viluppuram,,West,2443.0,,781.76,
+OD274,Hafiz,Bakery,Cakes,Vellore,7/30/2016,West,1147.0,,137.64,Tamil Nadu
+OD276,Amrish,Bakery,Cakes,,9/16/2018,West,744.0,0.11,66.96,Tamil Nadu
+OD283,,,Soft Drinks,Chennai,11-02-2016,West,1007.0,0.24,433.01,Tamil Nadu
+,Amrish,,Biscuits,Kanyakumari,9/26/2016,West,1544.0,,138.96,
+OD286,Ridhesh,,,Ooty,9/26/2016,West,1530.0,0.18,168.3,Tamil Nadu
+,Muneer,,Rice,Dharmapuri,12/26/2015,West,,0.25,184.8,Tamil Nadu
+OD297,Aditi,Oil & Masala,,Krishnagiri,12/26/2015,West,1820.0,0.21,527.8,Tamil Nadu
+OD310,Vinne,Snacks,,Namakkal,09-12-2017,West,,,196.14,Tamil Nadu
+,,Oil & Masala,Edible Oil & Ghee,Viluppuram,09-12-2017,West,678.0,0.29,189.84,Tamil Nadu
+OD312,Harish,Snacks,Chocolates,Vellore,09-12-2017,West,2417.0,0.28,,
+,Willams,Beverages,Soft Drinks,,09-12-2017,West,2211.0,0.18,641.19,
+OD323,,Bakery,,Pudukottai,9/19/2015,West,672.0,0.16,141.12,Tamil Nadu
+OD324,Anu,,Health Drinks,Dindigul,4/23/2017,West,848.0,,228.96,Tamil Nadu
+OD325,,Fruits & Veggies,Fresh Vegetables,,4/23/2017,West,,0.21,914.32,Tamil Nadu
+OD335,,Oil & Masala,Spices,Perambalur,09-01-2016,West,,,442.08,Tamil Nadu
+OD336,,Food Grains,Rice,Perambalur,09-01-2016,West,1501.0,0.24,210.14,Tamil Nadu
+OD338,,Bakery,,Dharmapuri,07-12-2015,West,1179.0,0.2,,Tamil Nadu
+,Willams,Bakery,Biscuits,Namakkal,6/22/2016,West,601.0,0.26,234.39,
+OD346,Willams,,Breads & Buns,,6/15/2018,West,2068.0,0.32,165.44,Tamil Nadu
+OD375,Sharon,Oil & Masala,Spices,Vellore,7/23/2015,West,905.0,0.32,,Tamil Nadu
+,Hussain,,Mutton,Theni,,West,2271.0,0.35,,
+OD382,Ram,,Masalas,Namakkal,10/28/2017,West,1727.0,0.27,224.51,
+,Mathew,,Mutton,,10/28/2017,West,1051.0,0.34,378.36,Tamil Nadu
+OD393,Hussain,Food Grains,Atta & Flour,Dharmapuri,9/21/2015,West,1797.0,0.3,,Tamil Nadu
+OD395,,Food Grains,Rice,Bodi,6/30/2018,West,1865.0,0.11,354.35,Tamil Nadu
+OD406,Kumar,Food Grains,Atta & Flour,Perambalur,12-08-2018,West,762.0,0.31,198.12,
+OD407,Sharon,Food Grains,Rice,Tenkasi,12-08-2018,West,904.0,0.17,63.28,
+OD408,Ravi,Fruits & Veggies,Fresh Fruits,Krishnagiri,12-08-2018,West,958.0,0.18,182.02,Tamil Nadu
+OD409,Surya,Beverages,Soft Drinks,Trichy,,West,2193.0,0.33,899.13,
+OD410,Krithika,"Eggs, Meat & Fish",Eggs,Krishnagiri,12-08-2018,West,830.0,0.14,66.4,Tamil Nadu
+OD412,Harish,Snacks,Cookies,,12-08-2018,West,,0.14,753.6,Tamil Nadu
+OD413,Jonas,Oil & Masala,Edible Oil & Ghee,Perambalur,,West,,0.19,256.76,Tamil Nadu
+OD416,Arvind,Food Grains,Dals & Pulses,Salem,11-03-2018,West,2130.0,0.23,937.2,Tamil Nadu
+OD417,,Snacks,Cookies,Dindigul,,West,2461.0,0.18,393.76,
+OD418,Amrish,Beverages,Soft Drinks,Cumbum,4/14/2017,West,1863.0,0.1,,Tamil Nadu
+OD420,Hussain,Beverages,Health Drinks,Tirunelveli,,West,807.0,0.32,88.77,Tamil Nadu
+OD457,Ridhesh,,,Tirunelveli,,West,2142.0,0.26,664.02,Tamil Nadu
+OD460,Krithika,,Atta & Flour,Viluppuram,12/15/2016,West,1213.0,0.28,,Tamil Nadu
+OD461,,Food Grains,Atta & Flour,Namakkal,12/15/2016,West,,0.1,101.4,Tamil Nadu
+OD464,Amrish,,Organic Staples,,4/22/2017,West,2200.0,0.23,,Tamil Nadu
+OD465,Krithika,Fruits & Veggies,Fresh Vegetables,,4/22/2017,West,1238.0,0.27,,Tamil Nadu
+OD466,Veena,Beverages,Soft Drinks,Bodi,4/22/2017,West,1962.0,0.22,,
+OD467,Alan,Snacks,Chocolates,Pudukottai,4/22/2017,West,580.0,0.26,139.2,
+OD472,,Bakery,Breads & Buns,Perambalur,11-09-2015,West,2271.0,0.23,658.59,Tamil Nadu
+OD473,Amrish,,Chicken,Chennai,11-09-2015,West,1977.0,0.33,514.02,
+OD474,Yadav,Beverages,Soft Drinks,Perambalur,11-09-2015,West,,0.34,208.2,Tamil Nadu
+OD475,Esther,"Eggs, Meat & Fish",Fish,,11-09-2015,West,,0.19,359.55,Tamil Nadu
+OD476,Haseena,Oil & Masala,Masalas,Krishnagiri,11-09-2015,West,1976.0,0.18,790.4,Tamil Nadu
+,Hussain,Bakery,Breads & Buns,Perambalur,11-09-2015,West,1323.0,0.22,251.37,Tamil Nadu
+OD478,Rumaiza,,Organic Staples,Perambalur,07-12-2017,West,,0.25,255.6,Tamil Nadu
+OD486,,Snacks,Cookies,,06-10-2018,West,,0.14,777.2,
+OD487,Harish,Fruits & Veggies,Organic Fruits,Coimbatore,06-10-2018,West,,0.14,649.44,Tamil Nadu
+OD494,Sheeba,Beverages,Soft Drinks,Cumbum,05-09-2017,West,937.0,0.33,327.95,Tamil Nadu
+OD497,Komal,Food Grains,Atta & Flour,Karur,,West,,0.26,545.22,Tamil Nadu
+OD498,,,Health Drinks,,7/25/2017,West,1070.0,,53.5,Tamil Nadu
+OD499,Vidya,Fruits & Veggies,Organic Vegetables,Virudhunagar,,West,1948.0,0.25,818.16,Tamil Nadu
+,Komal,"Eggs, Meat & Fish",Mutton,Kanyakumari,7/25/2017,West,702.0,,161.46,Tamil Nadu
+OD501,Veena,Beverages,,Nagercoil,5/30/2017,West,,0.23,722.61,Tamil Nadu
+OD502,Arvind,"Eggs, Meat & Fish",Fish,,5/30/2017,West,548.0,0.15,115.08,Tamil Nadu
+OD503,,Snacks,,Bodi,5/30/2017,West,,0.17,624.64,Tamil Nadu
+OD505,Esther,Bakery,Breads & Buns,,5/30/2017,West,2292.0,0.16,114.6,Tamil Nadu
+,Verma,Beverages,,Ooty,12/21/2018,West,2352.0,0.27,564.48,Tamil Nadu
+OD516,Arvind,"Eggs, Meat & Fish",Eggs,Bodi,1/22/2018,West,,0.24,151.91,Tamil Nadu
+OD518,Ramesh,Snacks,Noodles,Tenkasi,1/22/2018,West,1815.0,0.12,272.25,Tamil Nadu
+OD519,,"Eggs, Meat & Fish",Eggs,Coimbatore,1/22/2018,West,595.0,0.21,89.25,Tamil Nadu
+OD524,Jonas,Oil & Masala,Masalas,Bodi,5/21/2017,West,737.0,0.29,221.1,Tamil Nadu
+OD525,Amy,"Eggs, Meat & Fish",Eggs,Kanyakumari,5/21/2017,West,,0.29,,
+OD532,,"Eggs, Meat & Fish",Chicken,Coimbatore,11-07-2016,West,1245.0,0.2,,
+OD533,Veena,Snacks,Noodles,Ooty,09-07-2018,West,1902.0,0.13,,Tamil Nadu
+OD542,Sudha,Fruits & Veggies,Organic Fruits,Dharmapuri,7/14/2017,West,,0.12,,Tamil Nadu
+,Arutra,Oil & Masala,Spices,Perambalur,6/29/2018,West,1904.0,0.26,628.32,Tamil Nadu
+OD557,Yusuf,Fruits & Veggies,,Karur,06-10-2017,West,1505.0,0.29,,Tamil Nadu
+OD558,,"Eggs, Meat & Fish",Eggs,Nagercoil,06-10-2017,West,,0.19,608.94,
+OD559,Esther,,Noodles,Coimbatore,06-10-2017,West,1826.0,0.22,,Tamil Nadu
+,Kumar,"Eggs, Meat & Fish",Fish,Tirunelveli,,West,768.0,0.25,,Tamil Nadu
+OD561,Yadav,Bakery,Breads & Buns,Perambalur,11/20/2018,West,,,511.83,Tamil Nadu
+OD564,,Fruits & Veggies,,Vellore,12-07-2016,West,777.0,0.25,186.48,
+OD565,Akash,Beverages,Health Drinks,Virudhunagar,12-07-2016,West,2179.0,0.31,326.85,
+OD566,Amrish,Fruits & Veggies,Fresh Fruits,Namakkal,12-07-2018,West,1527.0,0.16,,Tamil Nadu
+OD567,Ridhesh,Bakery,,Virudhunagar,10-01-2018,West,2207.0,0.33,132.42,Tamil Nadu
+OD568,Surya,"Eggs, Meat & Fish",Eggs,Trichy,10-01-2018,West,1879.0,0.28,563.7,
+OD569,Yusuf,Oil & Masala,Edible Oil & Ghee,Theni,,West,1668.0,0.1,283.56,Tamil Nadu
+,,,Eggs,Madurai,11-03-2017,West,2017.0,0.21,322.72,Tamil Nadu
+OD581,Ridhesh,,Organic Fruits,Dharmapuri,,West,2403.0,0.14,480.6,Tamil Nadu
+OD582,Suresh,,Soft Drinks,Viluppuram,12-01-2018,West,822.0,0.13,98.64,Tamil Nadu
+OD583,Ramesh,Food Grains,Atta & Flour,Bodi,12-01-2018,West,,0.16,165.0,
+OD584,,Fruits & Veggies,Fresh Fruits,,12-01-2018,West,,0.29,281.77,Tamil Nadu
+OD589,Amy,Food Grains,,,,West,,0.29,428.16,
+OD590,Veronica,Bakery,Cakes,Coimbatore,3/20/2017,West,1586.0,0.31,650.26,Tamil Nadu
+,,,Masalas,Tenkasi,3/20/2017,West,,0.24,,Tamil Nadu
+OD596,,Food Grains,,,,West,1770.0,0.19,177.0,Tamil Nadu
+OD597,Yusuf,Beverages,Health Drinks,Vellore,,West,1298.0,0.3,272.58,Tamil Nadu
+OD598,Kumar,"Eggs, Meat & Fish",Eggs,Nagercoil,08-08-2015,West,,0.12,652.86,Tamil Nadu
+OD628,Alan,Fruits & Veggies,,Perambalur,5/19/2018,West,,0.28,128.28,Tamil Nadu
+OD629,Esther,,Soft Drinks,Coimbatore,12/17/2018,West,566.0,0.2,215.08,Tamil Nadu
+OD630,Harish,Beverages,Soft Drinks,Dharmapuri,12/17/2018,West,1551.0,0.27,155.1,Tamil Nadu
+OD631,,"Eggs, Meat & Fish",Chicken,Coimbatore,12-11-2017,West,,,,Tamil Nadu
+OD632,Willams,Bakery,Biscuits,,12-11-2017,West,745.0,0.26,208.6,Tamil Nadu
+OD633,Rumaiza,,Rice,Dindigul,,West,540.0,0.17,32.4,Tamil Nadu
+,Shree,Bakery,Breads & Buns,Vellore,8/15/2017,West,,0.28,240.76,Tamil Nadu
+,Vidya,,,Theni,5/20/2017,West,1419.0,0.34,,
+,Vinne,,Cookies,Tenkasi,5/20/2017,West,534.0,0.16,101.46,
+OD642,,Food Grains,Atta & Flour,Vellore,,West,966.0,0.13,183.54,Tamil Nadu
+OD643,Veena,Food Grains,Atta & Flour,Dharmapuri,7/30/2018,West,,0.21,427.5,
+OD647,Malik,Snacks,Noodles,,04-01-2017,West,,0.25,202.65,Tamil Nadu
+OD648,Aditi,Beverages,Health Drinks,Ooty,04-01-2017,West,992.0,0.33,109.12,Tamil Nadu
+OD650,,Snacks,,Viluppuram,12-11-2017,West,,0.23,,Tamil Nadu
+OD651,,Food Grains,Rice,Chennai,12-11-2017,West,1082.0,0.28,,
+,James,Bakery,Breads & Buns,Ramanadhapuram,,West,713.0,0.28,,Tamil Nadu
+OD703,Vince,Oil & Masala,Spices,Tirunelveli,,West,,0.18,268.06,Tamil Nadu
+OD716,Amy,Food Grains,Dals & Pulses,Bodi,07-01-2015,West,1596.0,0.34,,Tamil Nadu
+OD720,Sharon,Fruits & Veggies,Fresh Vegetables,Tenkasi,06-02-2015,West,1271.0,0.3,152.52,
+,Sabeela,Beverages,Soft Drinks,Karur,,West,762.0,0.18,129.54,Tamil Nadu
+OD733,Yadav,Bakery,Breads & Buns,Virudhunagar,,West,,0.14,252.9,Tamil Nadu
+OD735,Arvind,Oil & Masala,,,1/21/2018,West,2158.0,0.28,366.86,
+,,Snacks,Noodles,Perambalur,,West,,0.26,307.78,Tamil Nadu
+OD737,,Snacks,Cookies,Pudukottai,1/21/2018,West,1333.0,0.23,199.95,
+,Vidya,"Eggs, Meat & Fish",Eggs,Pudukottai,04-07-2017,West,1641.0,0.32,,Tamil Nadu
+OD755,Veena,Bakery,Cakes,Perambalur,12-07-2016,West,1586.0,0.16,697.84,Tamil Nadu
+,Veena,Food Grains,Rice,Trichy,8/21/2016,West,1273.0,0.32,152.76,Tamil Nadu
+OD779,,,Dals & Pulses,Salem,,West,,,,Tamil Nadu
+OD780,Harish,"Eggs, Meat & Fish",Eggs,,8/21/2016,West,,0.2,430.56,Tamil Nadu
+OD781,Vince,Bakery,Cakes,Tenkasi,8/21/2016,West,,0.26,604.48,Tamil Nadu
+OD787,,Bakery,Breads & Buns,Coimbatore,,West,1787.0,0.21,268.05,Tamil Nadu
+OD795,Sheeba,Oil & Masala,,Karur,9/20/2015,West,979.0,,78.32,
+OD800,,Fruits & Veggies,Organic Vegetables,Vellore,11/27/2016,West,2018.0,0.34,,
+OD801,Vince,Snacks,Cookies,Namakkal,2/20/2018,West,1983.0,0.33,456.09,Tamil Nadu
+OD802,Aditi,Fruits & Veggies,Organic Vegetables,Bodi,2/20/2018,West,,0.3,385.51,Tamil Nadu
+,Hafiz,Bakery,Cakes,Trichy,4/22/2018,West,1736.0,,86.8,
+OD806,Akash,Snacks,,Coimbatore,11-01-2015,West,1843.0,0.12,313.31,Tamil Nadu
+OD807,Ganesh,Food Grains,,,11-01-2015,West,,,529.2,Tamil Nadu
+,,Fruits & Veggies,Fresh Fruits,Bodi,,West,1900.0,0.34,722.0,Tamil Nadu
+,Ram,"Eggs, Meat & Fish",,,10/13/2015,West,1471.0,0.16,147.1,
+OD812,Yadav,,Fish,Cumbum,10/13/2015,West,874.0,,367.08,Tamil Nadu
+,Arutra,Bakery,Breads & Buns,Virudhunagar,10/13/2015,West,1259.0,0.24,415.47,Tamil Nadu
+OD814,Malik,,Noodles,Ramanadhapuram,,West,,0.29,83.5,Tamil Nadu
+OD815,Adavan,Fruits & Veggies,Organic Fruits,,5/14/2018,West,1801.0,0.32,468.26,Tamil Nadu
+OD826,Vinne,Snacks,,Virudhunagar,05-09-2015,West,1291.0,0.24,477.67,Tamil Nadu
+OD843,Ravi,"Eggs, Meat & Fish",Chicken,,11-07-2017,West,680.0,0.35,108.8,Tamil Nadu
+OD844,Akash,Food Grains,Rice,Madurai,11-07-2017,West,2386.0,0.29,858.96,Tamil Nadu
+OD845,,Beverages,Soft Drinks,Ramanadhapuram,11-07-2017,West,2280.0,0.27,615.6,
+OD846,Suresh,Beverages,Health Drinks,Madurai,11-07-2017,West,2008.0,0.24,,Tamil Nadu
+OD851,Sudha,Beverages,Health Drinks,Chennai,6/20/2017,West,1100.0,0.15,308.0,Tamil Nadu
+OD852,,,Fish,Karur,6/20/2017,West,,0.34,211.08,Tamil Nadu
+OD862,,Bakery,Breads & Buns,Karur,,West,1263.0,0.13,88.41,Tamil Nadu
+OD883,Arvind,Bakery,Breads & Buns,Theni,,West,2137.0,,512.88,
+OD886,Suresh,Oil & Masala,,Dharmapuri,,West,1436.0,0.29,,
+OD895,Malik,Oil & Masala,Masalas,Trichy,11-10-2017,West,1778.0,0.34,266.7,Tamil Nadu
+OD896,Rumaiza,Food Grains,Atta & Flour,Dindigul,11-10-2017,West,783.0,0.19,195.75,Tamil Nadu
+OD904,,Oil & Masala,Edible Oil & Ghee,Dharmapuri,04-08-2017,West,,,116.8,Tamil Nadu
+OD906,,Snacks,Noodles,Kanyakumari,,West,951.0,0.26,85.59,Tamil Nadu
+OD938,Haseena,Bakery,Cakes,Madurai,11-05-2018,West,1972.0,0.24,138.04,Tamil Nadu
+,Yadav,Oil & Masala,,Karur,12/13/2016,West,,,255.45,
+OD941,,Fruits & Veggies,Fresh Vegetables,Perambalur,6/19/2017,West,1208.0,0.28,,Tamil Nadu
+,,,Masalas,Krishnagiri,12/13/2017,West,1681.0,0.21,151.29,Tamil Nadu
+OD944,Alan,Food Grains,Atta & Flour,,5/29/2016,West,2135.0,,,
+OD945,James,Fruits & Veggies,Organic Fruits,Nagercoil,,West,1254.0,0.33,,Tamil Nadu
+OD947,Vinne,Fruits & Veggies,Fresh Vegetables,Chennai,7/26/2016,West,,,273.6,Tamil Nadu
+OD957,Ravi,"Eggs, Meat & Fish",Eggs,Ooty,5/15/2018,West,,0.15,148.8,Tamil Nadu
+OD958,Akash,"Eggs, Meat & Fish",Chicken,Perambalur,5/15/2018,West,1702.0,0.22,408.48,Tamil Nadu
+OD959,Alan,"Eggs, Meat & Fish",Chicken,Kanyakumari,5/15/2018,West,,0.31,,Tamil Nadu
+,,Bakery,Biscuits,Tirunelveli,9/22/2016,West,945.0,0.33,425.25,Tamil Nadu
+,Yusuf,Snacks,,Karur,,West,1161.0,0.32,441.18,
+OD963,,Bakery,Breads & Buns,,09-01-2017,West,2319.0,0.1,417.42,Tamil Nadu
+OD977,,Fruits & Veggies,Fresh Vegetables,Madurai,07-09-2018,West,1205.0,0.3,494.05,Tamil Nadu
+,Ram,,Dals & Pulses,Dharmapuri,,West,911.0,0.24,91.1,Tamil Nadu
+,Haseena,Oil & Masala,,Dindigul,11-11-2015,West,,0.21,,Tamil Nadu
+,Ram,Beverages,,Chennai,11-11-2015,West,1660.0,0.33,315.4,Tamil Nadu
+OD993,Roshan,Bakery,Biscuits,Karur,8/26/2017,West,2297.0,0.3,895.83,
+OD994,Jackson,Beverages,Health Drinks,Ramanadhapuram,8/26/2017,West,1534.0,0.11,475.54,Tamil Nadu
+OD1100,Aditi,,Masalas,Ramanadhapuram,9/29/2018,West,,,337.04,Tamil Nadu
+OD1102,Arutra,Snacks,,Tirunelveli,10/30/2018,West,1673.0,0.34,602.28,Tamil Nadu
+OD1103,Surya,Fruits & Veggies,Organic Fruits,Kanyakumari,12-08-2018,West,1108.0,0.25,409.96,Tamil Nadu
+OD1104,,Beverages,Health Drinks,Trichy,,West,1637.0,0.33,343.77,Tamil Nadu
+OD1105,Vince,Oil & Masala,Masalas,Dharmapuri,10/14/2018,West,2389.0,0.35,238.9,Tamil Nadu
+OD1106,Surya,,,Viluppuram,09-07-2018,West,566.0,0.31,249.04,
+,,Beverages,Soft Drinks,,11/15/2015,West,2410.0,,241.0,Tamil Nadu
+OD1109,Arvind,Fruits & Veggies,Fresh Fruits,Virudhunagar,7/20/2015,West,1008.0,0.29,372.96,Tamil Nadu
+OD1110,Haseena,,Health Drinks,,4/21/2018,West,1734.0,0.2,173.4,Tamil Nadu
+OD1111,,,Cookies,Tirunelveli,08-12-2018,West,1066.0,0.3,234.52,
+OD1112,Ramesh,Snacks,Cookies,Virudhunagar,8/21/2018,West,1197.0,0.12,418.95,Tamil Nadu
+OD1113,Malik,Bakery,Cakes,Salem,11/24/2015,West,758.0,0.11,90.96,Tamil Nadu
+OD1114,,Food Grains,Atta & Flour,Dindigul,5/27/2018,West,,0.12,,Tamil Nadu
+OD1116,Vinne,"Eggs, Meat & Fish",Chicken,Madurai,07-04-2017,West,2439.0,0.3,1097.55,
+OD1117,Krithika,"Eggs, Meat & Fish",Fish,Theni,12-03-2017,West,1226.0,,294.24,Tamil Nadu
+,Ram,Fruits & Veggies,,Bodi,,West,834.0,0.11,366.96,
+OD1120,,Fruits & Veggies,Organic Fruits,Kanyakumari,6/17/2017,West,,0.1,210.2,
+OD1122,Vinne,Bakery,Biscuits,Nagercoil,,West,1088.0,0.27,108.8,Tamil Nadu
+OD1123,Esther,Oil & Masala,Masalas,Cumbum,9/29/2018,West,1555.0,0.1,279.9,Tamil Nadu
+OD1124,,Snacks,Cookies,Coimbatore,03-07-2015,West,610.0,0.21,,Tamil Nadu
+OD1125,,Snacks,,Madurai,10-02-2016,West,2440.0,0.12,,Tamil Nadu
+OD1126,,"Eggs, Meat & Fish",,Ooty,8/22/2018,West,1167.0,0.17,,
+OD1127,,,,Kanyakumari,11/23/2015,West,,0.19,74.04,Tamil Nadu
+OD1128,Suresh,Fruits & Veggies,,Kanyakumari,11-03-2017,West,1389.0,0.28,555.6,Tamil Nadu
+OD1129,Ram,,Fish,Tirunelveli,10-11-2015,West,1285.0,0.17,385.5,
+OD1130,Suresh,Oil & Masala,Masalas,Namakkal,6/20/2017,West,,0.29,322.14,Tamil Nadu
+OD1131,Yadav,,Breads & Buns,Dindigul,10/30/2018,West,1831.0,,109.86,Tamil Nadu
+OD1132,Arutra,Beverages,Soft Drinks,Karur,12/20/2015,West,1605.0,0.29,497.55,Tamil Nadu
+,Peer,Oil & Masala,Spices,Ooty,04-12-2017,West,,0.21,67.2,
+OD1135,Komal,,Soft Drinks,,4/23/2018,West,2467.0,0.23,888.12,
+OD1136,,Snacks,,Chennai,6/17/2017,West,,0.23,100.4,
+OD1137,Komal,Fruits & Veggies,,,05-05-2017,West,,0.18,252.97,
+OD1138,Sudeep,Bakery,Cakes,Perambalur,8/21/2018,West,,0.21,710.36,Tamil Nadu
+,Veronica,Fruits & Veggies,Fresh Fruits,,10-01-2017,West,732.0,0.34,175.68,Tamil Nadu
+OD1141,Kumar,"Eggs, Meat & Fish",,Salem,6/17/2017,West,,0.18,317.2,Tamil Nadu
+OD1142,Ram,Oil & Masala,Masalas,,,West,1425.0,0.12,384.75,Tamil Nadu
+OD1143,Anu,Snacks,Chocolates,Chennai,,West,1018.0,0.11,,Tamil Nadu
+OD1144,,Snacks,Noodles,Trichy,6/16/2018,West,1810.0,,307.7,Tamil Nadu
+OD1145,James,"Eggs, Meat & Fish",Chicken,Virudhunagar,,West,621.0,,111.78,Tamil Nadu
+,Aditi,Beverages,Health Drinks,Nagercoil,05-05-2018,West,2300.0,0.12,805.0,
+OD1147,Yusuf,Snacks,Chocolates,Bodi,1/19/2015,West,,0.12,,Tamil Nadu
+OD1196,Sudeep,Oil & Masala,Masalas,,09-04-2017,West,2264.0,0.28,226.4,
+OD1197,Jonas,Oil & Masala,Spices,Ramanadhapuram,9/13/2015,West,,,94.44,Tamil Nadu
+OD1198,Surya,,Chocolates,Cumbum,10/22/2017,West,2292.0,,252.12,Tamil Nadu
+OD1199,,Food Grains,,Karur,09-11-2018,West,,0.24,,Tamil Nadu
+OD1200,,Fruits & Veggies,,Theni,9/24/2018,West,1229.0,,405.57,Tamil Nadu
+OD1201,Hafiz,Food Grains,Atta & Flour,Tirunelveli,,West,2409.0,0.18,505.89,Tamil Nadu
+OD1202,,Fruits & Veggies,,Virudhunagar,08-08-2016,West,2338.0,0.32,,Tamil Nadu
+,Anu,Snacks,Chocolates,,09-08-2017,West,505.0,0.14,45.45,Tamil Nadu
+,Sharon,,Chicken,Ramanadhapuram,11/24/2018,West,1888.0,0.15,415.36,Tamil Nadu
+OD1206,Vidya,Oil & Masala,,,11/24/2018,West,1170.0,0.27,362.7,Tamil Nadu
+OD1207,Mathew,Snacks,Cookies,Salem,4/14/2017,West,858.0,0.31,,Tamil Nadu
+OD1208,Malik,,Mutton,Salem,10/31/2016,West,1335.0,0.19,307.05,Tamil Nadu
+OD1209,Yusuf,Bakery,Biscuits,Salem,12-11-2017,West,1088.0,0.2,,
+OD1210,Ramesh,Beverages,Health Drinks,,3/22/2017,West,2129.0,,830.31,Tamil Nadu
+,Suresh,Food Grains,,Krishnagiri,12-11-2017,West,1120.0,0.13,56.0,Tamil Nadu
+OD1351,Rumaiza,"Eggs, Meat & Fish",,Karur,3/24/2015,West,,0.2,158.22,Tamil Nadu
+,,Oil & Masala,Spices,Madurai,06-11-2018,West,1195.0,0.16,,
+OD1356,Roshan,"Eggs, Meat & Fish",Chicken,Krishnagiri,12-12-2015,West,2230.0,0.29,802.8,Tamil Nadu
+,James,,Organic Fruits,Nagercoil,12-12-2015,West,1889.0,0.27,302.24,Tamil Nadu
+OD1358,Peer,Snacks,Cookies,,,West,2424.0,0.25,896.88,Tamil Nadu
+OD1359,,"Eggs, Meat & Fish",,,,West,,0.33,307.8,Tamil Nadu
+,Alan,"Eggs, Meat & Fish",Eggs,,,West,1074.0,0.12,311.46,Tamil Nadu
+OD1362,Shah,,Organic Vegetables,Coimbatore,,West,2115.0,0.18,803.7,
+,,Fruits & Veggies,Organic Fruits,Virudhunagar,7/27/2018,West,541.0,,27.05,Tamil Nadu
+OD1364,Arvind,Oil & Masala,Masalas,Dindigul,5/16/2017,West,723.0,0.2,253.05,Tamil Nadu
+OD1365,Harish,Food Grains,Atta & Flour,Dindigul,11-11-2017,West,1261.0,0.2,226.98,Tamil Nadu
+OD1366,,Food Grains,Atta & Flour,Madurai,06-09-2016,West,2359.0,0.28,518.98,Tamil Nadu
+OD1367,Ravi,"Eggs, Meat & Fish",,,11/30/2016,West,1385.0,0.12,110.8,Tamil Nadu
+OD1369,Malik,Snacks,,Perambalur,12-10-2018,West,563.0,0.35,95.71,Tamil Nadu
+OD1370,Roshan,Food Grains,Atta & Flour,Kanyakumari,6/25/2018,West,,0.2,95.67,
+OD1371,,,Rice,Bodi,7/25/2016,West,2331.0,,,Tamil Nadu
+OD1372,Sabeela,Bakery,Biscuits,Namakkal,3/30/2018,West,2159.0,0.31,734.06,Tamil Nadu
+OD1373,,"Eggs, Meat & Fish",Mutton,Bodi,,West,1299.0,0.29,389.7,
+,Hussain,Food Grains,Atta & Flour,Namakkal,7/17/2017,West,1395.0,0.1,571.95,Tamil Nadu
+,Amrish,Oil & Masala,Masalas,,06-03-2015,West,799.0,0.26,,
+,Rumaiza,Oil & Masala,,Dharmapuri,7/25/2015,West,500.0,0.11,220.0,Tamil Nadu
+OD1379,Sheeba,Oil & Masala,Edible Oil & Ghee,Madurai,,West,2472.0,,593.28,Tamil Nadu
+OD1380,Aditi,Bakery,,Cumbum,,West,1253.0,0.18,488.67,Tamil Nadu
+OD1381,Vinne,"Eggs, Meat & Fish",Eggs,Tenkasi,12/18/2018,West,2474.0,0.27,692.72,
+OD1382,Rumaiza,Beverages,Soft Drinks,Kanyakumari,7/17/2016,West,2307.0,0.23,115.35,Tamil Nadu
+OD1383,Jonas,,Mutton,Kanyakumari,,West,1686.0,0.21,236.04,Tamil Nadu
+OD1384,Ravi,Beverages,Health Drinks,Pudukottai,12-12-2015,West,867.0,0.29,286.11,Tamil Nadu
+OD1387,James,,Health Drinks,Tirunelveli,11/24/2015,West,1400.0,0.34,,Tamil Nadu
+OD1388,Yadav,Beverages,Health Drinks,Perambalur,10/23/2016,West,555.0,0.11,94.35,Tamil Nadu
+OD1389,,,Mutton,,12-03-2018,West,567.0,0.14,164.43,Tamil Nadu
+OD1390,Arutra,Bakery,,Coimbatore,,West,1764.0,0.35,740.88,Tamil Nadu
+OD1391,Amrish,,Cookies,Virudhunagar,9/26/2015,West,2368.0,0.18,568.32,Tamil Nadu
+,Alan,Oil & Masala,Edible Oil & Ghee,Coimbatore,11-05-2017,West,1439.0,0.15,316.58,Tamil Nadu
+OD1394,Suresh,Snacks,Chocolates,Perambalur,7/25/2016,West,,0.26,663.18,Tamil Nadu
+OD1395,Krithika,Snacks,Chocolates,Chennai,4/13/2016,West,568.0,0.3,39.76,Tamil Nadu
+OD1396,Hafiz,,,Cumbum,05-05-2017,West,924.0,0.35,101.64,Tamil Nadu
+OD1397,Sudeep,,Biscuits,Madurai,10/23/2016,West,668.0,,133.6,Tamil Nadu
+OD1398,,Beverages,Health Drinks,Pudukottai,7/22/2015,West,1188.0,,,Tamil Nadu
+OD1399,Jonas,Bakery,Breads & Buns,Karur,09-02-2017,West,2181.0,,283.53,
+OD1400,Adavan,Fruits & Veggies,Organic Fruits,,,West,1946.0,0.32,252.98,
+OD1402,Roshan,"Eggs, Meat & Fish",Eggs,,07-07-2017,West,1473.0,0.19,559.74,Tamil Nadu
+OD1403,Sheeba,Beverages,Health Drinks,,10/22/2018,West,1313.0,0.34,144.43,Tamil Nadu
+,Arvind,"Eggs, Meat & Fish",Eggs,Karur,09-09-2018,West,2468.0,0.27,518.28,Tamil Nadu
+OD1406,,,,Salem,12-08-2015,West,,0.1,121.12,Tamil Nadu
+OD1409,,,Noodles,,12-12-2015,West,1811.0,0.11,796.84,Tamil Nadu
+OD1411,Yusuf,Beverages,Soft Drinks,Namakkal,10/23/2016,West,1603.0,,,Tamil Nadu
+OD1412,,Bakery,Breads & Buns,,09-04-2018,West,2272.0,0.26,,Tamil Nadu
+OD1413,Peer,Fruits & Veggies,,Kanyakumari,12-12-2015,West,,0.14,,Tamil Nadu
+OD1414,Veena,Fruits & Veggies,Fresh Fruits,Tenkasi,,West,,0.14,312.52,Tamil Nadu
+OD1415,Sheeba,Oil & Masala,Spices,Namakkal,12/22/2018,West,1426.0,0.17,171.12,Tamil Nadu
+OD1416,Vince,Food Grains,Rice,Dharmapuri,11/18/2015,West,,0.14,36.4,
+OD1417,Sharon,Food Grains,Organic Staples,Karur,3/19/2017,West,,0.35,,Tamil Nadu
+OD1418,Vinne,Snacks,Noodles,Madurai,7/14/2016,West,1972.0,,847.96,Tamil Nadu
+OD1419,,,Fresh Fruits,,11/20/2016,West,1200.0,0.16,360.0,Tamil Nadu
+,,,,Krishnagiri,12-12-2015,West,2494.0,0.13,847.96,Tamil Nadu
+,Haseena,Food Grains,Dals & Pulses,Salem,11-06-2018,West,1857.0,,631.38,
+OD1802,Ravi,Beverages,Soft Drinks,Chennai,11/19/2018,West,1364.0,0.35,409.2,Tamil Nadu
+OD1803,Anu,,,Nagercoil,08-07-2018,West,1201.0,0.31,312.26,Tamil Nadu
+,Mathew,,Breads & Buns,Ooty,5/26/2016,West,,0.15,236.21,
+OD1805,Ridhesh,,Cakes,Pudukottai,09-08-2017,West,1147.0,0.18,344.1,Tamil Nadu
+OD1806,Ridhesh,Fruits & Veggies,,Ramanadhapuram,2/13/2018,West,1757.0,0.24,140.56,Tamil Nadu
+,,Snacks,Chocolates,,,West,1143.0,0.32,,Tamil Nadu
+OD1808,Esther,Bakery,Biscuits,,,West,2429.0,0.11,1093.05,
+OD1810,Roshan,Oil & Masala,Edible Oil & Ghee,,7/29/2018,West,2168.0,0.24,238.48,
+OD1811,Akash,Bakery,Breads & Buns,Kanyakumari,12-01-2018,West,,0.28,642.63,Tamil Nadu
+OD1812,Surya,,Health Drinks,Tenkasi,2/26/2018,West,1554.0,0.2,295.26,Tamil Nadu
+OD1813,Mathew,Bakery,Biscuits,Tenkasi,12/15/2017,West,1641.0,0.23,180.51,Tamil Nadu
+OD1814,,Fruits & Veggies,Organic Vegetables,Kanyakumari,,West,1273.0,0.31,165.49,Tamil Nadu
+OD1815,Malik,Oil & Masala,Spices,Trichy,9/29/2015,West,879.0,,,Tamil Nadu
+OD1816,Verma,Snacks,Noodles,Virudhunagar,10/21/2017,West,913.0,0.23,155.21,Tamil Nadu
+OD1817,,"Eggs, Meat & Fish",,Perambalur,02-02-2018,West,976.0,0.11,409.92,Tamil Nadu
+,Krithika,Fruits & Veggies,Fresh Vegetables,Cumbum,8/28/2016,West,1105.0,,198.9,Tamil Nadu
+OD1819,Esther,"Eggs, Meat & Fish",Mutton,,1/20/2015,West,,0.3,242.0,Tamil Nadu
+OD1820,,,Organic Staples,Chennai,12/22/2017,West,2442.0,,708.18,Tamil Nadu
+OD1821,Harish,Beverages,,Krishnagiri,,West,,0.14,,
+OD1822,,Beverages,Health Drinks,Dindigul,,West,2296.0,0.15,1010.24,Tamil Nadu
+OD1823,Krithika,Fruits & Veggies,Organic Vegetables,,11-10-2015,West,1363.0,0.15,558.83,Tamil Nadu
+OD1824,Ravi,Fruits & Veggies,Fresh Fruits,Madurai,10-02-2018,West,1549.0,0.25,309.8,Tamil Nadu
+OD1826,Ram,,Eggs,Tenkasi,,West,1485.0,0.24,623.7,Tamil Nadu
+OD1827,Surya,,Atta & Flour,Madurai,12/29/2018,West,865.0,0.19,311.4,
+OD1828,Krithika,Beverages,,,,West,645.0,,103.2,Tamil Nadu
+OD1829,Alan,Bakery,,Virudhunagar,9/17/2015,West,1887.0,0.14,358.53,
+OD1831,Arutra,,,Dharmapuri,07-03-2018,West,,,235.2,Tamil Nadu
+OD1832,Hussain,"Eggs, Meat & Fish",Chicken,,,West,,0.28,140.8,
+OD1833,,,Rice,Chennai,,West,,0.2,193.2,
+OD1835,Surya,Oil & Masala,Edible Oil & Ghee,Virudhunagar,9/28/2018,West,1119.0,0.18,436.41,
+OD1836,Vidya,,Eggs,Karur,,West,,,119.83,Tamil Nadu
+OD1837,Suresh,Food Grains,Organic Staples,Tirunelveli,11/16/2018,West,1072.0,,,Tamil Nadu
+OD1838,,Bakery,Cakes,Nagercoil,11/16/2018,West,,,156.5,
+,Sheeba,Food Grains,,Viluppuram,,West,1245.0,0.13,,Tamil Nadu
+,Anu,,Rice,Dindigul,11/16/2018,West,2012.0,0.21,,Tamil Nadu
+,,Bakery,Biscuits,Ooty,11/17/2016,West,1888.0,0.11,509.76,Tamil Nadu
+OD1842,,Fruits & Veggies,Fresh Vegetables,Theni,6/26/2017,West,689.0,0.28,303.16,Tamil Nadu
+OD1843,Veronica,Fruits & Veggies,Fresh Fruits,Coimbatore,11/20/2016,West,,0.31,219.25,
+,Anu,"Eggs, Meat & Fish",,Virudhunagar,5/23/2017,West,1607.0,0.19,691.01,Tamil Nadu
+OD1845,Rumaiza,Bakery,Cakes,Nagercoil,08-12-2015,West,2289.0,0.31,389.13,Tamil Nadu
+OD1846,Veronica,Food Grains,Atta & Flour,,12-01-2015,West,1900.0,0.14,,
+,,Oil & Masala,Masalas,,12-12-2016,West,2307.0,0.23,184.56,Tamil Nadu
+OD1848,,,Spices,Vellore,7/14/2018,West,2021.0,0.1,323.36,Tamil Nadu
+OD1849,Arutra,Oil & Masala,Masalas,Chennai,7/14/2018,West,1264.0,0.29,,
+OD1851,Arutra,"Eggs, Meat & Fish",Fish,Bodi,11-08-2016,West,2358.0,0.24,801.72,Tamil Nadu
+OD1852,Harish,"Eggs, Meat & Fish",Fish,,,West,2157.0,,237.27,Tamil Nadu
+OD1854,Vinne,,Health Drinks,,05-06-2017,West,,0.22,275.94,Tamil Nadu
+,Hussain,Snacks,Cookies,Krishnagiri,09-07-2018,West,,0.13,219.25,
+OD1856,,,Masalas,Bodi,,West,1016.0,,,
+,Yusuf,Snacks,Noodles,,,West,1241.0,,248.2,
+OD1858,Malik,,Organic Vegetables,Salem,4/20/2015,West,801.0,0.17,,Tamil Nadu
+,Anu,Bakery,Cakes,,04-08-2017,West,1244.0,0.26,,Tamil Nadu
+OD1864,Vince,,Atta & Flour,Perambalur,11-10-2015,West,1896.0,,701.52,Tamil Nadu
+OD1865,Akash,Oil & Masala,Edible Oil & Ghee,Madurai,6/25/2016,West,,0.14,262.4,Tamil Nadu
+OD1866,,Bakery,Biscuits,Bodi,,West,783.0,,180.09,Tamil Nadu
+OD1867,Sheeba,,,Tirunelveli,9/15/2018,West,1815.0,,326.7,Tamil Nadu
+OD1868,,Beverages,Soft Drinks,Nagercoil,07-07-2017,West,,0.17,151.36,Tamil Nadu
+OD1869,,Fruits & Veggies,Fresh Vegetables,,9/14/2016,West,2410.0,0.14,482.0,Tamil Nadu
+OD1870,Vidya,"Eggs, Meat & Fish",Mutton,Dharmapuri,12/25/2017,West,,,381.6,Tamil Nadu
+,Harish,Oil & Masala,Spices,Dharmapuri,12-04-2016,West,2207.0,,684.17,Tamil Nadu
+OD1872,,,Cakes,,,West,2484.0,0.31,819.72,Tamil Nadu
+OD1873,Amrish,Beverages,Health Drinks,Perambalur,,West,790.0,0.2,244.9,Tamil Nadu
+OD1874,Sudha,Snacks,Noodles,Theni,11-02-2016,West,2207.0,0.24,220.7,
+OD1876,Sabeela,Food Grains,Rice,Ooty,1/23/2017,West,2054.0,,,
+OD1877,Shah,Bakery,Biscuits,,10/20/2016,West,1567.0,0.18,,Tamil Nadu
+OD1879,Vince,Beverages,Health Drinks,Bodi,8/15/2016,West,,0.3,144.08,Tamil Nadu
+OD1880,Willams,Snacks,Noodles,Cumbum,,West,,,257.6,Tamil Nadu
+OD1882,Hafiz,"Eggs, Meat & Fish",Fish,Pudukottai,4/27/2018,West,,0.3,368.28,Tamil Nadu
+OD1883,,Food Grains,Organic Staples,Kanyakumari,,West,761.0,0.27,,Tamil Nadu
+OD1884,,"Eggs, Meat & Fish",,Ooty,11-09-2018,West,1838.0,0.29,,Tamil Nadu
+OD1885,Amy,,Health Drinks,,12/13/2018,West,1816.0,0.35,,
+OD1886,Veena,,Edible Oil & Ghee,,1/13/2016,West,2491.0,0.24,846.94,Tamil Nadu
+OD1887,Veronica,,Atta & Flour,,09-02-2017,West,,0.17,219.0,Tamil Nadu
+OD1888,,,Health Drinks,Namakkal,7/26/2015,West,2349.0,0.24,,Tamil Nadu
+OD1889,Haseena,Snacks,Chocolates,,07-03-2018,West,2396.0,,,
+OD1890,Vidya,,Soft Drinks,,01-01-2018,West,2341.0,0.25,632.07,Tamil Nadu
+OD1891,Sudeep,,,Salem,4/16/2018,West,1875.0,0.3,825.0,Tamil Nadu
+OD1892,Sudeep,Fruits & Veggies,Organic Fruits,Pudukottai,,West,2452.0,0.25,,Tamil Nadu
+OD1894,James,Bakery,,Salem,12-03-2017,West,1863.0,0.12,,Tamil Nadu
+OD1895,,Bakery,Cakes,Tenkasi,10-07-2018,West,1878.0,0.26,,Tamil Nadu
+,Malik,Oil & Masala,Edible Oil & Ghee,Trichy,3/30/2015,West,,0.29,267.15,Tamil Nadu
+OD1897,Roshan,Beverages,,Bodi,4/17/2017,West,885.0,0.32,238.95,Tamil Nadu
+,Adavan,Snacks,Noodles,,11-02-2016,West,,0.2,150.5,Tamil Nadu
+OD1900,Mathew,Food Grains,Dals & Pulses,Cumbum,1/13/2015,West,610.0,0.32,134.2,
+OD1901,Adavan,Beverages,Health Drinks,Ramanadhapuram,12-03-2016,West,2112.0,0.28,760.32,Tamil Nadu
+OD1902,Alan,Bakery,Breads & Buns,Ooty,11/25/2018,West,1262.0,,340.74,Tamil Nadu
+OD1903,Ravi,Bakery,,Perambalur,11/13/2016,West,2492.0,0.28,,Tamil Nadu
+,Ganesh,Food Grains,Atta & Flour,,09-05-2016,West,2012.0,0.25,,Tamil Nadu
+OD1905,,Oil & Masala,Masalas,Namakkal,,West,2193.0,0.2,394.74,
+,Hussain,Food Grains,,,11/26/2017,West,2063.0,0.31,928.35,
+,Jonas,Bakery,Breads & Buns,Viluppuram,6/18/2018,West,737.0,,,Tamil Nadu
+OD1908,Vidya,"Eggs, Meat & Fish",Mutton,Ramanadhapuram,,West,2213.0,,840.94,Tamil Nadu
+OD1909,Mathew,Bakery,Cakes,,10/30/2018,West,905.0,0.21,208.15,Tamil Nadu
+OD1910,Hafiz,"Eggs, Meat & Fish",Fish,Madurai,05-10-2015,West,,0.23,896.72,Tamil Nadu
+OD1911,James,Fruits & Veggies,Fresh Vegetables,Viluppuram,08-07-2018,West,971.0,0.12,368.98,Tamil Nadu
+OD1912,Veronica,,Spices,Coimbatore,5/15/2018,West,,0.32,844.56,Tamil Nadu
+OD1913,Hafiz,Oil & Masala,Edible Oil & Ghee,Perambalur,,West,1910.0,,592.1,Tamil Nadu
+OD1915,,,Fresh Vegetables,,,West,,0.14,555.12,Tamil Nadu
+OD1916,Rumaiza,Beverages,,Ooty,5/26/2015,West,,0.19,192.4,
+OD1918,Verma,Snacks,Cookies,Namakkal,09-07-2018,West,,0.19,169.2,Tamil Nadu
+OD1919,,Beverages,Soft Drinks,,7/21/2018,West,,,681.72,
+OD1920,Ravi,,Fresh Fruits,Coimbatore,11/17/2016,West,1362.0,,272.4,Tamil Nadu
+OD1921,Mathew,Snacks,Chocolates,Dindigul,,West,1374.0,0.25,,Tamil Nadu
+OD1922,Mathew,Food Grains,Atta & Flour,Salem,12/20/2016,West,1643.0,,624.34,Tamil Nadu
+,James,Oil & Masala,Edible Oil & Ghee,,12/24/2016,West,940.0,0.1,,Tamil Nadu
+OD1924,Esther,Food Grains,Rice,,,West,1316.0,0.22,592.2,Tamil Nadu
+OD1925,Veronica,Fruits & Veggies,,Bodi,6/24/2015,West,2032.0,0.15,,Tamil Nadu
+OD1928,Adavan,Food Grains,Atta & Flour,Pudukottai,03-03-2018,West,687.0,0.18,,Tamil Nadu
+,Alan,Fruits & Veggies,,,07-06-2018,West,2264.0,,679.2,Tamil Nadu
+,Suresh,Oil & Masala,,Krishnagiri,4/17/2018,West,1393.0,,139.3,Tamil Nadu
+OD1931,Yadav,Oil & Masala,Edible Oil & Ghee,Namakkal,,West,1464.0,0.28,658.8,
+,Esther,Oil & Masala,Spices,Virudhunagar,,West,,0.32,130.2,Tamil Nadu
+OD1934,Malik,Oil & Masala,Spices,Coimbatore,,West,786.0,0.12,165.06,
+OD1935,Anu,Beverages,Soft Drinks,Perambalur,07-06-2016,West,,0.25,196.16,
+OD1936,Adavan,Beverages,Soft Drinks,Dindigul,,West,696.0,0.1,,Tamil Nadu
+OD1938,,,Health Drinks,Dindigul,11-11-2017,West,801.0,0.25,72.09,
+,Peer,Beverages,,,12/27/2015,West,1099.0,0.19,,Tamil Nadu
+OD1940,Veronica,,Organic Fruits,Dindigul,9/15/2018,West,2123.0,0.28,106.15,Tamil Nadu
+OD1941,Harish,Food Grains,Dals & Pulses,Theni,07-08-2017,West,1331.0,0.11,572.33,Tamil Nadu
+OD1942,Sudha,Bakery,,Bodi,7/26/2015,West,1118.0,0.16,167.7,Tamil Nadu
+OD1943,Sudha,Oil & Masala,Spices,Kanyakumari,11/14/2016,West,2055.0,,883.65,
+OD1944,Adavan,,,,06-08-2015,West,1008.0,0.29,262.08,Tamil Nadu
+OD1946,Vince,Fruits & Veggies,Organic Vegetables,Cumbum,8/23/2015,West,,0.26,96.04,Tamil Nadu
+OD1947,Suresh,Food Grains,Dals & Pulses,Tenkasi,,West,811.0,0.24,308.18,
+OD1948,Kumar,Food Grains,Atta & Flour,,8/14/2018,West,1142.0,0.14,376.86,Tamil Nadu
+OD1950,James,Bakery,Biscuits,Trichy,,West,1650.0,0.11,181.5,
+OD1952,Sabeela,Snacks,Noodles,,,West,1999.0,,,
+OD1953,Amrish,,Soft Drinks,,06-11-2017,West,590.0,0.35,,Tamil Nadu
+OD1954,Vince,"Eggs, Meat & Fish",Chicken,Vellore,12-03-2017,West,1515.0,,424.2,Tamil Nadu
+,Veronica,Food Grains,Organic Staples,,4/13/2016,West,912.0,,72.96,
+OD1956,,Fruits & Veggies,,Perambalur,1/27/2015,West,1394.0,,97.58,
+OD1957,,Beverages,Soft Drinks,Perambalur,03-03-2015,West,2413.0,0.28,,Tamil Nadu
+OD1958,Yusuf,Oil & Masala,Masalas,Madurai,,West,,,,Tamil Nadu
+OD1959,,Beverages,,Tirunelveli,9/25/2017,West,1016.0,0.22,,Tamil Nadu
+OD1960,Ram,Bakery,,Salem,11/25/2015,West,1819.0,,218.28,
+OD1961,Ramesh,Oil & Masala,Spices,Virudhunagar,12/29/2018,West,2284.0,0.2,433.96,
+OD1962,,,Spices,Trichy,8/15/2015,West,1219.0,0.27,377.89,Tamil Nadu
+,Krithika,Food Grains,Atta & Flour,,11/21/2017,West,2387.0,0.12,119.35,Tamil Nadu
+OD1965,Roshan,,,Salem,10-05-2016,West,1213.0,0.11,,Tamil Nadu
+,Mathew,Fruits & Veggies,Fresh Vegetables,Kanyakumari,07-12-2015,West,571.0,0.24,148.46,
+OD1967,Vidya,Snacks,,,,West,1572.0,0.28,550.2,
+,Jonas,"Eggs, Meat & Fish",Eggs,Karur,08-08-2015,West,1835.0,0.1,,Tamil Nadu
+OD1969,Jackson,Bakery,,Viluppuram,12/22/2017,West,1531.0,,153.1,Tamil Nadu
+OD1970,Veena,Oil & Masala,Masalas,Nagercoil,11-03-2018,West,2404.0,0.24,,Tamil Nadu
+OD1971,Veena,Food Grains,Rice,,,West,1751.0,0.22,525.3,Tamil Nadu
+OD1972,,"Eggs, Meat & Fish",Mutton,Namakkal,,West,927.0,0.18,83.43,Tamil Nadu
+OD1974,Hussain,Oil & Masala,Edible Oil & Ghee,,12/16/2017,West,,0.34,554.32,Tamil Nadu
+,Peer,Beverages,Health Drinks,,02-09-2016,West,530.0,0.25,201.4,Tamil Nadu
+,,Beverages,Soft Drinks,Ooty,11/20/2018,West,722.0,0.15,267.14,Tamil Nadu
+OD1977,Arutra,Bakery,,Dharmapuri,9/27/2015,West,534.0,0.21,112.14,Tamil Nadu
+OD1978,Peer,Snacks,Noodles,,09-10-2015,West,1016.0,0.19,111.76,Tamil Nadu
+OD1981,Sudha,Food Grains,Rice,Trichy,12/19/2018,West,1665.0,0.2,599.4,Tamil Nadu
+OD1982,,Beverages,,Karur,,West,782.0,0.19,250.24,Tamil Nadu
+OD1983,Shah,Oil & Masala,,,5/26/2017,West,2344.0,,726.64,Tamil Nadu
+OD1985,Shree,Food Grains,,,8/23/2017,West,1880.0,0.34,357.2,Tamil Nadu
+OD1986,,Snacks,Chocolates,Kanyakumari,6/15/2016,West,1743.0,0.34,331.17,Tamil Nadu
+OD1987,,Snacks,,Namakkal,12-06-2016,West,1030.0,0.26,247.2,Tamil Nadu
+OD1988,Sharon,Snacks,Cookies,Theni,12/17/2017,West,1875.0,,300.0,Tamil Nadu
+OD1989,Yadav,Fruits & Veggies,Organic Vegetables,Vellore,04-12-2017,West,,0.19,,Tamil Nadu
+OD1990,Hafiz,,Masalas,,8/27/2018,West,1206.0,0.22,,Tamil Nadu
+OD1991,Sheeba,Fruits & Veggies,,Salem,,West,1517.0,0.11,530.95,Tamil Nadu
+OD1992,Willams,"Eggs, Meat & Fish",Fish,,9/25/2017,West,2266.0,0.12,906.4,Tamil Nadu
+OD1993,,,Fresh Fruits,,08-02-2016,West,981.0,0.26,245.25,Tamil Nadu
+,Sundar,Oil & Masala,Masalas,Nagercoil,7/18/2018,West,,,287.36,Tamil Nadu
+,Sudeep,Oil & Masala,Edible Oil & Ghee,Tenkasi,12-11-2016,West,,0.24,112.02,Tamil Nadu
+OD1996,Hafiz,Beverages,Health Drinks,Madurai,10-05-2016,West,1773.0,0.23,531.9,Tamil Nadu
+OD1999,Shah,Bakery,Breads & Buns,Karur,,West,2399.0,0.12,1079.55,Tamil Nadu
+OD2000,Mathew,Beverages,,Viluppuram,12/24/2016,West,2314.0,,509.08,
+OD2001,Amy,Bakery,Breads & Buns,Nagercoil,,West,,,382.14,Tamil Nadu
+,Amy,,,Pudukottai,12/24/2015,West,2092.0,0.18,,Tamil Nadu
+OD2276,Jackson,Bakery,Cakes,Kanyakumari,09-07-2018,West,611.0,0.19,30.55,Tamil Nadu
+OD2277,Rumaiza,Bakery,Cakes,Ramanadhapuram,7/20/2015,West,2304.0,0.33,852.48,Tamil Nadu
+OD2278,Sudha,,Cookies,Ooty,,West,904.0,0.18,,
+OD2279,Sheeba,Snacks,Chocolates,,11-10-2017,West,1557.0,,,
+,,Food Grains,,Cumbum,11/16/2018,West,,0.29,239.1,Tamil Nadu
+OD2281,Arutra,"Eggs, Meat & Fish",Fish,Cumbum,,West,1450.0,0.26,594.5,Tamil Nadu
+OD2282,Harish,Bakery,,,6/20/2017,West,1996.0,0.19,,Tamil Nadu
+OD2283,Suresh,Food Grains,Organic Staples,Karur,,West,1069.0,,,Tamil Nadu
+OD2284,,,Fresh Vegetables,,,West,,0.3,190.32,Tamil Nadu
+OD2289,Ravi,Food Grains,Dals & Pulses,,12-12-2016,West,1450.0,0.13,435.0,
+OD2290,Sudeep,"Eggs, Meat & Fish",Mutton,Madurai,11/18/2018,West,901.0,,342.38,Tamil Nadu
+OD2291,Ram,Food Grains,,Dharmapuri,12/18/2018,West,1255.0,0.16,263.55,Tamil Nadu
+,Hussain,Fruits & Veggies,Organic Fruits,Dindigul,07-03-2017,West,,0.13,,Tamil Nadu
+,,Fruits & Veggies,,,09-05-2017,West,2306.0,0.22,899.34,Tamil Nadu
+OD2294,,,Cakes,Pudukottai,6/16/2018,West,,0.33,471.12,Tamil Nadu
+OD2295,Hussain,Food Grains,Atta & Flour,Pudukottai,01-03-2017,West,1241.0,0.2,260.61,
+OD2296,Kumar,Bakery,Cakes,Vellore,,West,575.0,,,
+OD2297,Surya,Beverages,Soft Drinks,Chennai,7/31/2018,West,2197.0,0.28,637.13,Tamil Nadu
+OD2298,Ganesh,Oil & Masala,,Salem,3/23/2018,West,1749.0,0.32,349.8,Tamil Nadu
+OD2299,Mathew,,Organic Staples,,11/15/2015,West,1010.0,0.13,313.1,Tamil Nadu
+OD2300,Peer,Beverages,Soft Drinks,Theni,08-12-2018,West,1976.0,0.33,276.64,Tamil Nadu
+,Vidya,,,Madurai,06-11-2018,West,2147.0,0.22,751.45,Tamil Nadu
+OD2302,Ravi,Bakery,Cakes,Chennai,8/21/2018,West,,0.11,475.92,Tamil Nadu
+OD2303,Veronica,Snacks,Cookies,Salem,11/28/2015,West,1589.0,0.18,492.59,Tamil Nadu
+OD2305,Peer,Fruits & Veggies,Organic Vegetables,Krishnagiri,4/27/2018,West,,0.1,889.2,Tamil Nadu
+OD2306,,Oil & Masala,Masalas,Dindigul,12-07-2015,West,,0.14,372.24,
+OD2307,Veronica,,Cakes,Dharmapuri,11/14/2017,West,1624.0,0.18,487.2,Tamil Nadu
+OD2308,Amrish,Food Grains,Atta & Flour,,05-03-2016,West,1702.0,0.19,221.26,Tamil Nadu
+,Haseena,Oil & Masala,Masalas,Chennai,,West,2014.0,0.27,463.22,
+,James,Food Grains,Rice,,11/23/2015,West,1343.0,0.2,564.06,Tamil Nadu
+OD2311,Yadav,Fruits & Veggies,Organic Fruits,Vellore,,West,843.0,,143.31,Tamil Nadu
+OD2312,Yusuf,Food Grains,Organic Staples,Kanyakumari,05-08-2017,West,685.0,0.14,,Tamil Nadu
+OD2313,Willams,"Eggs, Meat & Fish",Eggs,Dindigul,04-12-2017,West,1507.0,,587.73,Tamil Nadu
+OD2314,Harish,"Eggs, Meat & Fish",Chicken,Perambalur,2/22/2015,West,1618.0,0.16,258.88,Tamil Nadu
+OD2315,Yusuf,Bakery,,Virudhunagar,7/20/2015,West,1393.0,,139.3,Tamil Nadu
+OD2317,Sabeela,,Breads & Buns,Kanyakumari,12-08-2018,West,1657.0,0.27,347.97,Tamil Nadu
+OD2318,Akash,Food Grains,Dals & Pulses,,6/29/2018,West,,,231.71,Tamil Nadu
+OD2319,Adavan,Bakery,Breads & Buns,Kanyakumari,6/20/2017,West,1029.0,0.35,133.77,Tamil Nadu
+OD2321,Peer,,Breads & Buns,Pudukottai,03-07-2015,West,578.0,0.21,,Tamil Nadu
+,Sheeba,Beverages,Health Drinks,Perambalur,11/18/2018,West,,0.1,399.12,Tamil Nadu
+OD2324,Hafiz,,Edible Oil & Ghee,Coimbatore,11-03-2017,West,713.0,0.27,,Tamil Nadu
+OD2325,,Food Grains,Rice,,,West,2138.0,0.31,641.4,Tamil Nadu
+OD2326,Ridhesh,Bakery,Biscuits,Dharmapuri,06-05-2017,West,1438.0,0.22,86.28,Tamil Nadu
+,Willams,"Eggs, Meat & Fish",Fish,Chennai,,West,,,297.39,Tamil Nadu
+,Hafiz,Bakery,,Karur,8/21/2018,West,929.0,0.3,,Tamil Nadu
+OD2329,Harish,,Health Drinks,,,West,2335.0,,887.3,Tamil Nadu
+OD2330,Surya,,Atta & Flour,Salem,6/17/2017,West,1675.0,0.32,418.75,Tamil Nadu
+,Rumaiza,Oil & Masala,Masalas,Perambalur,7/20/2015,West,,0.32,339.36,Tamil Nadu
+OD2332,Verma,,Eggs,Pudukottai,10-11-2015,West,2052.0,0.29,287.28,Tamil Nadu
+OD2333,Alan,Oil & Masala,Edible Oil & Ghee,,9/18/2016,West,1579.0,0.17,615.81,
+OD2335,Ram,Snacks,Noodles,Dharmapuri,06-10-2018,West,894.0,0.32,169.86,
+OD2336,Sudeep,Food Grains,Organic Staples,,9/29/2018,West,,0.13,1025.64,
+OD2337,Anu,,Rice,Kanyakumari,,West,2310.0,0.27,,Tamil Nadu
+OD2338,Arutra,,Health Drinks,,8/21/2018,West,2055.0,0.22,924.75,Tamil Nadu
+,Rumaiza,Beverages,,,12/18/2018,West,1347.0,0.24,552.27,Tamil Nadu
+OD2340,Aditi,,,,10-09-2018,West,1717.0,0.25,291.89,
+OD2341,,Food Grains,,,09-08-2016,West,2069.0,,558.63,
+OD2343,,Food Grains,Rice,Vellore,12-05-2015,West,2232.0,0.14,848.16,Tamil Nadu
+OD2344,Muneer,Fruits & Veggies,Fresh Vegetables,Perambalur,6/17/2017,West,1554.0,0.16,,Tamil Nadu
+OD2345,,Food Grains,Atta & Flour,,,West,629.0,0.11,69.19,
+,Arvind,,Masalas,Dindigul,11/16/2018,West,,,138.58,Tamil Nadu
+OD2347,Veena,Oil & Masala,Spices,Dindigul,09-08-2016,West,1998.0,0.26,459.54,
+OD2348,,Fruits & Veggies,Organic Vegetables,Perambalur,11/18/2018,West,603.0,0.12,229.14,Tamil Nadu
+OD2349,Peer,Bakery,Breads & Buns,Dindigul,5/22/2018,West,1331.0,0.1,199.65,Tamil Nadu
+,Malik,Beverages,Soft Drinks,Ramanadhapuram,,West,2451.0,0.29,269.61,
+,Rumaiza,Food Grains,,Cumbum,11-03-2017,West,1880.0,0.31,,Tamil Nadu
+,Sudeep,Snacks,Noodles,Bodi,6/20/2017,West,,0.17,246.51,Tamil Nadu
+OD2353,Harish,,,Virudhunagar,12-12-2016,West,609.0,,,Tamil Nadu
+OD2354,Sheeba,Snacks,Chocolates,Namakkal,3/25/2018,West,1495.0,0.21,,Tamil Nadu
+OD2355,James,Beverages,Soft Drinks,Kanyakumari,,West,2394.0,0.11,502.74,Tamil Nadu
+OD2358,Anu,"Eggs, Meat & Fish",Chicken,Ramanadhapuram,1/30/2017,West,,0.21,,Tamil Nadu
+OD2360,Alan,Fruits & Veggies,Organic Fruits,Ooty,4/24/2017,West,645.0,,174.15,Tamil Nadu
+OD2361,Amy,"Eggs, Meat & Fish",Eggs,Viluppuram,10-01-2018,West,1080.0,0.11,,Tamil Nadu
+,Malik,,Dals & Pulses,,12/26/2017,West,584.0,0.23,,
+OD2363,Shah,,,,,West,689.0,0.16,103.35,Tamil Nadu
+,Sundar,Snacks,,Chennai,12-12-2016,West,1715.0,0.25,102.9,Tamil Nadu
+,,Oil & Masala,Spices,Salem,11-05-2017,West,1495.0,0.35,523.25,Tamil Nadu
+OD2368,James,Fruits & Veggies,Organic Fruits,Chennai,05-03-2016,West,1751.0,0.23,472.77,Tamil Nadu
+OD2369,Surya,Fruits & Veggies,Fresh Vegetables,Coimbatore,05-03-2016,West,744.0,0.18,96.72,Tamil Nadu
+OD2370,Ravi,Snacks,Noodles,Theni,1/30/2017,West,1217.0,0.33,170.38,Tamil Nadu
+OD2371,Willams,"Eggs, Meat & Fish",Mutton,Theni,11/18/2018,West,,0.13,698.1,Tamil Nadu
+OD2372,Anu,Snacks,Chocolates,Madurai,4/23/2018,West,,0.31,441.94,Tamil Nadu
+OD2373,Sheeba,"Eggs, Meat & Fish",,Bodi,12/20/2015,West,,0.24,295.92,Tamil Nadu
+OD2374,Hussain,Food Grains,Rice,Tirunelveli,11/28/2018,West,1575.0,0.33,598.5,Tamil Nadu
+OD2375,Akash,Snacks,Cookies,Perambalur,,West,2354.0,,847.44,Tamil Nadu
+OD2376,Suresh,"Eggs, Meat & Fish",Mutton,Bodi,6/13/2016,West,2380.0,0.26,999.6,Tamil Nadu
+OD2377,Arutra,Fruits & Veggies,Organic Vegetables,Namakkal,,West,1520.0,0.21,,Tamil Nadu
+OD2378,Shah,Fruits & Veggies,Organic Vegetables,Tirunelveli,04-12-2017,West,,0.27,854.04,Tamil Nadu
+OD2379,Ridhesh,Bakery,Breads & Buns,Trichy,7/23/2018,West,2309.0,,253.99,
+,,,Noodles,Nagercoil,6/20/2017,West,609.0,0.12,243.6,Tamil Nadu
+OD2381,Sudeep,"Eggs, Meat & Fish",Chicken,Dindigul,08-01-2015,West,772.0,0.27,54.04,
+,Kumar,,Noodles,,11-06-2016,West,683.0,0.22,157.09,Tamil Nadu
+,Vince,"Eggs, Meat & Fish",Mutton,Namakkal,,West,1754.0,0.32,87.7,Tamil Nadu
+,Harish,Bakery,Breads & Buns,Tirunelveli,,West,1717.0,,772.65,Tamil Nadu
+,Peer,,Chicken,Trichy,10-02-2016,West,1450.0,0.18,72.5,Tamil Nadu
+OD2387,Willams,Oil & Masala,Masalas,,05-05-2017,West,1382.0,0.21,248.76,
+OD2388,,Snacks,Chocolates,Tirunelveli,,West,564.0,0.15,33.84,Tamil Nadu
+OD2389,James,,Spices,Chennai,11/16/2017,West,2394.0,0.25,,Tamil Nadu
+OD2390,,Snacks,Chocolates,Vellore,12/13/2016,West,,0.32,481.8,Tamil Nadu
+,Shah,,Health Drinks,Perambalur,11/24/2017,West,2246.0,0.21,965.78,Tamil Nadu
+OD2393,Amy,Bakery,Breads & Buns,Viluppuram,1/19/2015,West,2205.0,,,Tamil Nadu
+OD2395,,Beverages,Health Drinks,Nagercoil,3/19/2018,West,1527.0,0.2,488.64,Tamil Nadu
+OD2396,Ramesh,Bakery,Cakes,Theni,7/20/2015,West,,0.13,221.22,Tamil Nadu
+,Akash,"Eggs, Meat & Fish",Fish,Vellore,06-05-2017,West,2181.0,0.34,,Tamil Nadu
+OD2399,Veena,,Soft Drinks,Pudukottai,05-05-2018,West,1839.0,0.24,717.21,Tamil Nadu
+OD2401,James,Bakery,Cakes,Madurai,7/19/2016,West,1506.0,,451.8,Tamil Nadu
+OD2405,,,Fresh Fruits,Salem,05-05-2018,West,,0.14,74.41,Tamil Nadu
+OD2406,Rumaiza,Beverages,Health Drinks,Ooty,,West,743.0,0.13,,Tamil Nadu
+OD2534,Veronica,Bakery,Cakes,Dharmapuri,7/21/2018,West,,0.18,149.76,
+OD2535,Muneer,Food Grains,,Karur,12-11-2017,West,2111.0,0.26,232.21,Tamil Nadu
+OD2536,Haseena,Food Grains,Dals & Pulses,Dharmapuri,,West,2323.0,,1045.35,Tamil Nadu
+,,Oil & Masala,Spices,Tirunelveli,11/24/2018,West,2396.0,0.17,431.28,
+OD2538,Sundar,Food Grains,Organic Staples,Salem,9/13/2015,West,1479.0,0.13,,Tamil Nadu
+OD2539,,Beverages,Health Drinks,Karur,,West,1474.0,0.23,,Tamil Nadu
+OD2541,Amrish,Food Grains,Rice,Madurai,9/13/2015,West,984.0,0.13,,Tamil Nadu
+OD2543,Harish,,Cakes,Vellore,3/30/2018,West,,0.19,157.82,Tamil Nadu
+OD2544,Veena,Fruits & Veggies,Fresh Vegetables,,06-04-2016,West,,0.18,71.04,Tamil Nadu
+OD2546,Shah,Food Grains,Dals & Pulses,Dindigul,10-08-2017,West,,,118.32,Tamil Nadu
+OD2547,Muneer,Snacks,Chocolates,Perambalur,9/17/2018,West,1499.0,0.28,119.92,Tamil Nadu
+OD2548,Esther,Food Grains,Rice,Vellore,10/17/2016,West,1925.0,,,Tamil Nadu
+OD2549,Sabeela,Food Grains,Rice,Perambalur,10/31/2016,West,670.0,0.15,154.1,Tamil Nadu
+OD2552,Esther,,,Chennai,10/31/2016,West,1136.0,0.29,454.4,Tamil Nadu
+OD2553,Arvind,"Eggs, Meat & Fish",Eggs,Madurai,8/13/2018,West,2464.0,,813.12,Tamil Nadu
+,Jonas,,Organic Vegetables,Bodi,05-11-2018,West,2361.0,0.23,,Tamil Nadu
+OD2557,Ram,,Spices,Vellore,06-11-2018,West,,0.11,359.2,
+,,,Atta & Flour,Dharmapuri,12-11-2017,West,,0.2,131.64,Tamil Nadu
+OD2562,Haseena,Food Grains,,Dindigul,9/26/2017,West,,0.2,169.13,Tamil Nadu
+OD2563,,"Eggs, Meat & Fish",Mutton,Kanyakumari,8/13/2018,West,1958.0,,215.38,
+,Ravi,Oil & Masala,,,12/13/2018,West,,0.31,184.41,Tamil Nadu
+OD2565,Ganesh,Snacks,Noodles,Karur,10/31/2016,West,2171.0,,434.2,Tamil Nadu
+OD2566,Amrish,Bakery,Breads & Buns,Bodi,11-04-2017,West,,0.28,188.16,
+OD2568,,Food Grains,Organic Staples,Nagercoil,8/13/2018,West,,0.18,88.4,Tamil Nadu
+OD2570,Vidya,Beverages,,Dindigul,9/26/2017,West,734.0,,176.16,Tamil Nadu
+OD2571,Peer,Bakery,Biscuits,,10/31/2016,West,,0.15,110.6,Tamil Nadu
+OD2572,Willams,Food Grains,Atta & Flour,Salem,,West,2206.0,,,Tamil Nadu
+OD2573,Amy,Bakery,Cakes,Trichy,9/26/2017,West,2216.0,0.24,642.64,Tamil Nadu
+OD2574,Adavan,,Organic Vegetables,Karur,05-11-2018,West,1702.0,0.31,374.44,Tamil Nadu
+OD2575,Sabeela,Food Grains,Dals & Pulses,Vellore,8/13/2018,West,1753.0,0.17,,Tamil Nadu
+OD2576,,Snacks,Chocolates,Karur,04-05-2016,West,,0.23,,Tamil Nadu
+,Veena,Oil & Masala,,Dharmapuri,09-11-2018,West,1027.0,0.22,92.43,Tamil Nadu
+OD2579,Mathew,Fruits & Veggies,Organic Fruits,Dindigul,08-08-2016,West,1278.0,0.17,319.5,Tamil Nadu
+OD2580,Adavan,Fruits & Veggies,Organic Fruits,,08-08-2016,West,585.0,0.26,175.5,Tamil Nadu
+OD2581,Esther,Oil & Masala,Edible Oil & Ghee,Theni,05-11-2018,West,1083.0,0.25,,Tamil Nadu
+OD2582,Sundar,"Eggs, Meat & Fish",Chicken,Chennai,12-11-2017,West,,0.27,196.56,Tamil Nadu
+OD2585,,Snacks,,Dindigul,,West,2002.0,0.18,740.74,Tamil Nadu
+OD2586,Amy,Fruits & Veggies,Fresh Fruits,Salem,4/14/2017,West,782.0,0.14,,
+OD2587,Kumar,"Eggs, Meat & Fish",,Ramanadhapuram,,West,1757.0,0.13,404.11,Tamil Nadu
+OD2588,,Bakery,Cakes,Salem,11/18/2017,West,639.0,0.28,261.99,
+,Sudeep,Fruits & Veggies,Organic Vegetables,,12-11-2017,West,,0.15,478.4,Tamil Nadu
+OD2591,Muneer,Food Grains,Dals & Pulses,Chennai,6/21/2015,West,2370.0,0.32,568.8,Tamil Nadu
+OD2592,Veronica,Food Grains,Dals & Pulses,Bodi,,West,,0.17,243.7,Tamil Nadu
+,,Food Grains,,Theni,6/22/2015,West,1173.0,0.32,129.03,
+OD2594,,Food Grains,Organic Staples,Trichy,07-10-2016,West,1561.0,,249.76,Tamil Nadu
+OD2595,,"Eggs, Meat & Fish",,Ooty,12-02-2018,West,1471.0,,88.26,Tamil Nadu
+OD2596,Willams,,Noodles,Tirunelveli,6/21/2015,West,615.0,0.15,92.25,Tamil Nadu
+OD2961,Ramesh,Bakery,Biscuits,Theni,12-12-2016,West,2181.0,0.17,,Tamil Nadu
+OD2962,,"Eggs, Meat & Fish",Eggs,Tirunelveli,,West,1591.0,0.19,556.85,Tamil Nadu
+,Sudeep,"Eggs, Meat & Fish",,Tenkasi,01-07-2018,West,970.0,,48.5,Tamil Nadu
+OD2964,Jackson,Beverages,Health Drinks,Dharmapuri,,West,,0.31,256.5,
+OD2966,Sundar,Oil & Masala,Spices,Salem,,West,530.0,0.3,190.8,Tamil Nadu
+,Haseena,Fruits & Veggies,Fresh Vegetables,Tenkasi,,West,1779.0,0.23,142.32,Tamil Nadu
+OD2968,Jackson,Beverages,Soft Drinks,Salem,6/24/2017,West,1586.0,0.2,,Tamil Nadu
+OD2969,Vinne,Bakery,Breads & Buns,Karur,6/23/2017,West,,0.13,234.36,Tamil Nadu
+OD2972,Ganesh,,,Karur,6/17/2018,West,,0.21,61.68,Tamil Nadu
+OD2973,Verma,Beverages,Health Drinks,Krishnagiri,4/13/2016,West,814.0,,48.84,Tamil Nadu
+,Akash,Fruits & Veggies,Fresh Fruits,,05-04-2018,West,892.0,,240.84,
+OD2975,Veronica,Oil & Masala,,Virudhunagar,11-12-2018,West,1931.0,0.16,617.92,Tamil Nadu
+OD2976,Anu,Food Grains,,Cumbum,9/23/2018,West,1210.0,0.1,217.8,Tamil Nadu
+OD2978,Ganesh,Oil & Masala,Spices,,12/20/2015,West,2406.0,,529.32,Tamil Nadu
+,Peer,Food Grains,,Ooty,10-12-2018,West,661.0,,257.79,Tamil Nadu
+,Sheeba,Oil & Masala,Edible Oil & Ghee,Tenkasi,7/25/2016,West,1283.0,0.26,346.41,
+OD2984,,"Eggs, Meat & Fish",,Karur,04-01-2015,West,827.0,,49.62,Tamil Nadu
+OD2985,Esther,Food Grains,,,04-11-2016,West,1808.0,0.2,216.96,Tamil Nadu
+OD2986,,Snacks,Chocolates,Bodi,,West,2167.0,0.14,303.38,Tamil Nadu
+OD2987,Malik,Snacks,Cookies,Madurai,11/22/2016,West,1449.0,0.15,,Tamil Nadu
+OD2988,Ganesh,Beverages,,,11-12-2018,West,2351.0,0.32,399.67,Tamil Nadu
+OD2989,Alan,Fruits & Veggies,Fresh Vegetables,Krishnagiri,10/23/2016,West,1818.0,0.25,199.98,Tamil Nadu
+OD2990,James,Fruits & Veggies,Fresh Fruits,Cumbum,2/19/2017,West,785.0,0.28,78.5,Tamil Nadu
+OD2991,Sharon,Beverages,Soft Drinks,,12-10-2018,West,2481.0,0.28,372.15,Tamil Nadu
+OD2993,Sudha,,Breads & Buns,Karur,10/18/2015,West,,0.15,87.76,Tamil Nadu
+,Shah,Beverages,Health Drinks,,06-11-2018,West,607.0,0.35,,Tamil Nadu
+OD2995,Muneer,Fruits & Veggies,Organic Fruits,Perambalur,,West,,0.35,,Tamil Nadu
+OD2996,Sharon,"Eggs, Meat & Fish",Eggs,Karur,7/25/2016,West,,0.3,,Tamil Nadu
+OD2997,Shah,,Organic Staples,Virudhunagar,3/23/2015,West,1151.0,0.35,,Tamil Nadu
+OD2998,Vince,"Eggs, Meat & Fish",Chicken,Kanyakumari,12-08-2017,West,,0.17,,Tamil Nadu
+OD2999,Veena,Oil & Masala,Spices,Coimbatore,06-11-2018,West,,,67.69,Tamil Nadu
+,,Snacks,,Cumbum,7/17/2017,West,2200.0,0.26,396.0,Tamil Nadu
+OD3002,Alan,,Soft Drinks,Perambalur,6/24/2017,West,2367.0,0.15,1065.15,Tamil Nadu
+,Veena,Food Grains,Atta & Flour,Theni,09-01-2015,West,1306.0,0.1,195.9,Tamil Nadu
+OD3005,Vinne,Food Grains,Organic Staples,,,West,985.0,0.33,,Tamil Nadu
+,Komal,Oil & Masala,Spices,Karur,09-02-2017,West,2194.0,,987.3,Tamil Nadu
+,,Food Grains,Dals & Pulses,Viluppuram,,West,1196.0,0.22,,Tamil Nadu
+OD3009,Haseena,Oil & Masala,Masalas,Kanyakumari,6/23/2017,West,579.0,0.16,208.44,
+OD3010,Sheeba,Fruits & Veggies,Fresh Fruits,Ramanadhapuram,2/15/2016,West,,0.35,,Tamil Nadu
+OD3011,Peer,Oil & Masala,,,11-10-2017,West,2048.0,0.21,655.36,Tamil Nadu
+OD3012,Ridhesh,"Eggs, Meat & Fish",Mutton,Theni,5/16/2017,West,2461.0,0.21,,
+OD3013,,Snacks,Noodles,Bodi,09-12-2018,West,2088.0,0.11,647.28,
+OD3014,Sundar,Oil & Masala,Masalas,Coimbatore,,West,2259.0,0.35,112.95,
+,Komal,Food Grains,,Namakkal,12-05-2018,West,,,542.1,Tamil Nadu
+OD3016,James,Fruits & Veggies,Fresh Fruits,,12/25/2016,West,,0.14,276.76,Tamil Nadu
+,Hussain,Food Grains,Dals & Pulses,Theni,12/25/2016,West,1253.0,0.27,,
+,,Bakery,Cakes,Madurai,3/29/2016,West,2093.0,0.28,732.55,Tamil Nadu
+OD3019,Ram,"Eggs, Meat & Fish",Eggs,,3/26/2017,West,1915.0,,210.65,Tamil Nadu
+OD3020,Anu,Bakery,Cakes,Coimbatore,06-12-2018,West,2144.0,0.14,,Tamil Nadu
+OD3021,Ramesh,"Eggs, Meat & Fish",,Cumbum,07-11-2016,West,2387.0,0.19,930.93,Tamil Nadu
+,Rumaiza,Beverages,Health Drinks,Bodi,,West,739.0,0.35,162.58,Tamil Nadu
+OD3023,,Oil & Masala,Masalas,Salem,08-03-2018,West,,0.27,244.64,Tamil Nadu
+OD3024,,Snacks,Chocolates,Ramanadhapuram,11/22/2016,West,1174.0,0.16,117.4,Tamil Nadu
+OD3025,Adavan,,Chocolates,Ooty,12-12-2015,West,2230.0,0.19,,Tamil Nadu
+OD3026,,Oil & Masala,Spices,Vellore,11-06-2017,West,1325.0,0.14,79.5,Tamil Nadu
+OD3028,Suresh,"Eggs, Meat & Fish",,Cumbum,12-08-2017,West,2290.0,0.21,137.4,Tamil Nadu
+,Ganesh,Oil & Masala,Masalas,,4/16/2017,West,,0.29,,Tamil Nadu
+OD3031,Arutra,Food Grains,Dals & Pulses,Salem,11-10-2017,West,1935.0,0.34,832.05,Tamil Nadu
+OD3032,Amy,Oil & Masala,Masalas,,05-08-2018,West,1163.0,,,
+OD3034,,Oil & Masala,Edible Oil & Ghee,Namakkal,7/22/2015,West,1924.0,0.25,269.36,Tamil Nadu
+,,"Eggs, Meat & Fish",Chicken,Bodi,10/25/2016,West,2232.0,,,Tamil Nadu
+OD3036,Vinne,Bakery,Cakes,Dharmapuri,12-12-2016,West,2031.0,,162.48,
+OD3037,Verma,Snacks,Noodles,Tenkasi,,West,716.0,0.33,150.36,Tamil Nadu
+,Sharon,Food Grains,Dals & Pulses,Dindigul,12-12-2016,West,988.0,0.23,,Tamil Nadu
+,,Oil & Masala,Spices,,,West,1547.0,0.12,,Tamil Nadu
+,Sabeela,"Eggs, Meat & Fish",Chicken,,11/30/2016,West,1259.0,0.12,176.26,Tamil Nadu
+OD3044,,"Eggs, Meat & Fish",Mutton,Madurai,,West,1677.0,0.35,,Tamil Nadu
+OD3045,Suresh,Fruits & Veggies,Organic Vegetables,Madurai,11-10-2017,West,520.0,0.33,104.0,Tamil Nadu
+OD3046,,Food Grains,Rice,Bodi,3/21/2018,West,,0.21,405.81,Tamil Nadu
+OD3047,,Oil & Masala,Spices,Bodi,6/23/2017,West,1198.0,0.13,419.3,
+OD3050,,Bakery,Biscuits,,12/17/2016,West,1989.0,0.31,735.93,Tamil Nadu
+,Veronica,Bakery,Breads & Buns,Tirunelveli,11-10-2017,West,,,702.74,Tamil Nadu
+OD3053,Ravi,Food Grains,Organic Staples,Madurai,08-04-2015,West,,,200.39,Tamil Nadu
+OD3055,Suresh,Oil & Masala,Masalas,Coimbatore,08-03-2018,West,995.0,,427.85,Tamil Nadu
+OD3056,Roshan,,Atta & Flour,,11-10-2017,West,,0.16,435.96,Tamil Nadu
+OD3057,,"Eggs, Meat & Fish",Mutton,Trichy,6/16/2017,West,2011.0,0.34,744.07,Tamil Nadu
+OD3058,Arvind,"Eggs, Meat & Fish",Mutton,Tenkasi,,West,1565.0,0.28,469.5,Tamil Nadu
+,,Fruits & Veggies,Fresh Fruits,Salem,7/25/2015,West,2263.0,0.21,271.56,Tamil Nadu
+OD3060,,Beverages,,Namakkal,2/15/2016,West,2035.0,,468.05,
+OD3061,Ram,Fruits & Veggies,Fresh Vegetables,Perambalur,8/14/2018,West,759.0,0.18,98.67,Tamil Nadu
+OD3063,,Food Grains,Atta & Flour,Tirunelveli,,West,,0.35,,Tamil Nadu
+OD3064,,Bakery,Breads & Buns,Pudukottai,3/29/2016,West,2366.0,0.21,425.88,Tamil Nadu
+,,,Spices,Bodi,7/17/2017,West,1986.0,,,Tamil Nadu
+,James,Oil & Masala,Masalas,Madurai,,West,1485.0,0.14,386.1,Tamil Nadu
+OD3068,Rumaiza,Fruits & Veggies,Organic Vegetables,,08-04-2015,West,1025.0,,133.25,Tamil Nadu
+OD3069,Adavan,Beverages,,Theni,9/14/2018,West,,,302.64,
+,Aditi,Bakery,Biscuits,Tenkasi,5/16/2017,West,1258.0,0.16,364.82,Tamil Nadu
+,Harish,Fruits & Veggies,Fresh Vegetables,Theni,7/22/2015,West,2331.0,,186.48,Tamil Nadu
+OD3074,,Food Grains,Dals & Pulses,Karur,,West,1368.0,,615.6,
+OD3076,Yadav,"Eggs, Meat & Fish",Fish,,10/29/2017,West,2244.0,,201.96,Tamil Nadu
+OD3077,Harish,Bakery,Cakes,,,West,539.0,0.25,59.29,Tamil Nadu
+OD3078,Sudeep,Fruits & Veggies,Fresh Vegetables,Tenkasi,11/15/2017,West,1256.0,,514.96,Tamil Nadu
+OD3079,Jonas,Snacks,Cookies,Madurai,08-04-2015,West,2158.0,0.26,258.96,Tamil Nadu
+OD3081,,Snacks,Cookies,Virudhunagar,9/23/2018,West,,,679.0,Tamil Nadu
+,,Oil & Masala,Masalas,Ramanadhapuram,9/24/2016,West,561.0,0.22,140.25,Tamil Nadu
+OD3084,Sundar,Bakery,Cakes,Ramanadhapuram,,West,1375.0,0.18,316.25,Tamil Nadu
+OD3085,,,Soft Drinks,,12/20/2015,West,1589.0,0.33,349.58,
+,Verma,Bakery,Cakes,Viluppuram,,West,639.0,0.32,210.87,
+OD3087,Sabeela,"Eggs, Meat & Fish",,Vellore,3/21/2018,West,2194.0,,416.86,Tamil Nadu
+OD3088,Kumar,,,Namakkal,09-10-2017,West,,0.34,114.87,Tamil Nadu
+OD3089,,,Dals & Pulses,Perambalur,4/25/2018,West,1642.0,0.14,229.88,Tamil Nadu
+OD3090,,Fruits & Veggies,,Ramanadhapuram,12/19/2018,West,1721.0,0.2,653.98,
+OD3091,Veronica,Oil & Masala,,Coimbatore,02-03-2015,West,1015.0,0.22,152.25,
+OD3092,,Beverages,Health Drinks,Tenkasi,09-02-2018,West,1226.0,0.14,416.84,Tamil Nadu
+OD3094,Anu,,Edible Oil & Ghee,,11-10-2017,West,2097.0,0.23,650.07,
+OD3095,Peer,Food Grains,Organic Staples,Chennai,3/21/2018,West,1622.0,0.22,486.6,Tamil Nadu
+,,"Eggs, Meat & Fish",Fish,Ooty,4/19/2017,West,2004.0,,340.68,Tamil Nadu
+OD3099,Veena,Bakery,Breads & Buns,Ooty,9/24/2016,West,531.0,0.3,127.44,Tamil Nadu
+OD3100,,Oil & Masala,,Madurai,02-03-2015,West,1546.0,0.28,448.34,Tamil Nadu
+OD3101,Haseena,,Cookies,Nagercoil,,West,746.0,0.27,164.12,Tamil Nadu
+OD3102,Veronica,,Organic Fruits,Bodi,12/29/2017,West,621.0,0.1,,Tamil Nadu
+,Rumaiza,Beverages,,Bodi,3/20/2016,West,1621.0,0.17,664.61,Tamil Nadu
+OD3106,Willams,Beverages,Soft Drinks,Dindigul,11-07-2015,West,1874.0,,787.08,Tamil Nadu
+OD3107,Haseena,Beverages,Soft Drinks,Viluppuram,,West,,0.28,147.0,Tamil Nadu
+OD3108,Shah,Oil & Masala,Masalas,Ramanadhapuram,04-01-2015,West,,0.27,369.28,Tamil Nadu
+OD3109,Alan,Beverages,,Tirunelveli,7/14/2016,West,1103.0,0.27,485.32,Tamil Nadu
+OD3110,,Snacks,Noodles,Ooty,11/18/2015,West,,,,Tamil Nadu
+OD3111,Willams,,Cakes,Ramanadhapuram,8/20/2018,West,2289.0,,618.03,Tamil Nadu
+OD3112,Krithika,Beverages,Soft Drinks,Theni,2/15/2016,West,687.0,0.34,240.45,Tamil Nadu
+OD3113,Alan,Food Grains,Atta & Flour,Coimbatore,,West,,0.14,213.84,Tamil Nadu
+OD3114,Sudeep,Beverages,Soft Drinks,,12/20/2015,West,1669.0,,550.77,Tamil Nadu
+OD3115,,Bakery,Biscuits,Perambalur,11-01-2018,West,506.0,0.29,70.84,Tamil Nadu
+OD3116,Malik,Oil & Masala,Edible Oil & Ghee,Karur,,West,,0.27,,Tamil Nadu
+,Vidya,Oil & Masala,Spices,Perambalur,11-07-2015,West,1640.0,0.18,656.0,
+OD3118,Arutra,Beverages,Health Drinks,Krishnagiri,,West,2093.0,,941.85,
+OD3119,Amrish,Oil & Masala,,Viluppuram,4/23/2018,West,1223.0,0.15,61.15,Tamil Nadu
+OD3120,,,,,09-04-2018,West,,0.34,,Tamil Nadu
+OD3121,Esther,,Cakes,Namakkal,06-11-2018,West,505.0,0.13,,Tamil Nadu
+OD3122,Adavan,,,,06-02-2018,West,2145.0,0.31,600.6,Tamil Nadu
+OD3123,Sundar,Bakery,,Perambalur,9/24/2016,West,1933.0,0.32,753.87,Tamil Nadu
+OD3124,Sudha,,Biscuits,Cumbum,3/19/2018,West,2060.0,,,Tamil Nadu
+OD3125,Jonas,Bakery,Cakes,Namakkal,,West,,,499.46,Tamil Nadu
+OD3126,Malik,Fruits & Veggies,,,12-03-2018,West,523.0,0.14,120.29,Tamil Nadu
+,Hussain,,Breads & Buns,Dharmapuri,11/24/2018,West,,0.13,229.92,Tamil Nadu
+OD3128,James,Food Grains,Organic Staples,,9/15/2018,West,1513.0,0.28,181.56,Tamil Nadu
+,Alan,Food Grains,Rice,Virudhunagar,11/24/2018,West,1756.0,0.25,684.84,Tamil Nadu
+OD3130,Surya,,Organic Vegetables,,,West,,0.19,857.16,Tamil Nadu
+,,Fruits & Veggies,Fresh Vegetables,Coimbatore,10/22/2018,West,,,,Tamil Nadu
+OD3132,,Food Grains,Rice,,11/20/2016,West,1784.0,0.26,267.6,Tamil Nadu
+OD4278,Shree,Food Grains,,Karur,,West,979.0,0.23,58.74,Tamil Nadu
+OD4279,Anu,Beverages,Health Drinks,,,West,1091.0,0.35,349.12,
+OD4280,Sudha,Bakery,Breads & Buns,Chennai,6/15/2018,West,850.0,,161.5,Tamil Nadu
+OD4281,Veena,,Cakes,Dharmapuri,08-11-2015,West,2482.0,0.23,843.88,Tamil Nadu
+OD4282,,Oil & Masala,Spices,Viluppuram,10-11-2015,West,,0.3,30.3,Tamil Nadu
+,Muneer,Beverages,Health Drinks,Dindigul,12-06-2017,West,663.0,0.16,99.45,Tamil Nadu
+OD4284,,Food Grains,Atta & Flour,,9/25/2017,West,2470.0,0.25,123.5,Tamil Nadu
+OD4285,,Fruits & Veggies,Organic Fruits,Dindigul,,West,1024.0,0.22,,
+OD4286,Ramesh,Food Grains,Rice,Virudhunagar,08-09-2015,West,1423.0,0.15,,Tamil Nadu
+,Adavan,"Eggs, Meat & Fish",Chicken,Vellore,9/29/2015,West,2499.0,0.24,324.87,Tamil Nadu
+OD4294,Peer,,Biscuits,Ooty,1/27/2015,West,2370.0,,971.7,Tamil Nadu
+OD4295,,Snacks,Cookies,Nagercoil,11/25/2018,West,,0.28,364.54,Tamil Nadu
+OD4296,Ramesh,Beverages,Health Drinks,Bodi,,West,,0.27,320.88,Tamil Nadu
+OD4297,Krithika,Beverages,Soft Drinks,Theni,06-10-2018,West,1790.0,0.19,626.5,
+OD4298,,Beverages,Soft Drinks,Dharmapuri,1/29/2018,West,,0.11,281.88,Tamil Nadu
+OD4299,,Food Grains,Organic Staples,Ramanadhapuram,5/28/2017,West,,0.21,192.0,Tamil Nadu
+OD4300,James,"Eggs, Meat & Fish",Eggs,Chennai,12/27/2016,West,,0.27,372.9,Tamil Nadu
+OD4301,Shah,Fruits & Veggies,Organic Fruits,Viluppuram,11/26/2017,West,,0.33,395.36,Tamil Nadu
+OD4302,,Food Grains,Dals & Pulses,Karur,11-03-2017,West,2171.0,,,Tamil Nadu
+OD4303,Arutra,Oil & Masala,Masalas,Tenkasi,,West,601.0,0.3,114.19,Tamil Nadu
+OD4304,Yusuf,Snacks,Noodles,,3/31/2015,West,1055.0,0.25,,
+OD4307,Surya,Fruits & Veggies,Organic Vegetables,Viluppuram,,West,1320.0,,92.4,Tamil Nadu
+OD4308,Alan,Food Grains,Rice,Nagercoil,9/25/2017,West,2050.0,0.19,348.5,
+OD4309,,Fruits & Veggies,,,6/25/2016,West,,0.23,106.32,Tamil Nadu
+OD4312,Muneer,Beverages,Health Drinks,Coimbatore,,West,2137.0,,683.84,Tamil Nadu
+OD4313,Sabeela,"Eggs, Meat & Fish",Eggs,,3/25/2015,West,1951.0,0.27,312.16,Tamil Nadu
+OD4315,Haseena,Snacks,Cookies,Viluppuram,08-05-2015,West,1558.0,0.11,233.7,
+OD4316,Adavan,Bakery,,Tenkasi,11/25/2018,West,771.0,,246.72,Tamil Nadu
+,Komal,Snacks,Cookies,Chennai,07-07-2017,West,874.0,0.26,305.9,Tamil Nadu
+OD4319,Peer,,Eggs,Viluppuram,09-08-2015,West,786.0,,,Tamil Nadu
+OD4321,Jonas,,Atta & Flour,Nagercoil,11-06-2018,West,1797.0,,,Tamil Nadu
+OD4322,,Beverages,Health Drinks,Tirunelveli,9/21/2015,West,1887.0,0.28,434.01,Tamil Nadu
+OD4323,Akash,Bakery,,,7/26/2016,West,563.0,0.1,50.67,Tamil Nadu
+OD4324,Malik,Oil & Masala,Spices,Dindigul,05-05-2018,West,2302.0,,,Tamil Nadu
+OD4325,Jackson,"Eggs, Meat & Fish",Eggs,Coimbatore,4/18/2015,West,,,812.26,Tamil Nadu
+OD4327,Ramesh,Bakery,Breads & Buns,Dharmapuri,08-11-2015,West,2301.0,0.14,,
+OD4328,Ram,,Health Drinks,Tirunelveli,9/25/2017,West,,0.22,373.62,Tamil Nadu
+OD4329,Verma,"Eggs, Meat & Fish",,Dharmapuri,,West,1044.0,0.2,281.88,Tamil Nadu
+OD4330,James,Oil & Masala,Edible Oil & Ghee,Virudhunagar,4/17/2018,West,744.0,0.22,74.4,
+,Vince,Food Grains,Dals & Pulses,,5/22/2016,West,1989.0,0.32,676.26,
+OD4332,Vinne,,Health Drinks,Theni,3/19/2016,West,562.0,0.28,241.66,Tamil Nadu
+,Ganesh,Food Grains,Rice,Tenkasi,12-10-2016,West,1075.0,0.17,419.25,
+OD4335,,,Health Drinks,Vellore,11/14/2017,West,2475.0,0.32,272.25,Tamil Nadu
+OD4336,Sharon,Oil & Masala,,Ooty,09-10-2017,West,2398.0,0.34,287.76,Tamil Nadu
+OD4337,,Food Grains,,Kanyakumari,,West,1593.0,0.24,461.97,
+OD4338,Hussain,Bakery,Biscuits,,11-12-2018,West,,,448.36,Tamil Nadu
+OD4340,Amy,Bakery,Breads & Buns,Ramanadhapuram,03-12-2017,West,,0.29,848.75,Tamil Nadu
+OD4341,,"Eggs, Meat & Fish",Fish,Tirunelveli,11-12-2015,West,,,,Tamil Nadu
+OD4342,,Beverages,Soft Drinks,Pudukottai,5/27/2017,West,2231.0,0.18,468.51,Tamil Nadu
+OD4344,Jonas,Oil & Masala,Edible Oil & Ghee,Coimbatore,5/26/2018,West,1720.0,0.28,309.6,Tamil Nadu
+,Sudeep,Bakery,Biscuits,,6/17/2017,West,661.0,0.23,52.88,
+,Ramesh,Bakery,Breads & Buns,Krishnagiri,11-05-2018,West,1509.0,0.24,,Tamil Nadu
+OD4349,Harish,Fruits & Veggies,Fresh Vegetables,Karur,6/19/2018,West,1135.0,,465.35,Tamil Nadu
+,Yadav,Oil & Masala,Spices,,12/13/2018,West,1444.0,,,
+OD4351,Vinne,"Eggs, Meat & Fish",Eggs,Vellore,4/17/2016,West,524.0,0.28,31.44,Tamil Nadu
+OD4352,Arutra,"Eggs, Meat & Fish",Eggs,Chennai,10/30/2018,West,1108.0,,487.52,
+OD4353,,"Eggs, Meat & Fish",,Theni,05-10-2015,West,950.0,0.18,,Tamil Nadu
+OD4355,Akash,"Eggs, Meat & Fish",Chicken,,07-07-2017,West,1964.0,0.14,549.92,Tamil Nadu
+OD4356,Sudha,Bakery,Biscuits,,5/23/2015,West,520.0,,135.2,
+,Komal,Bakery,Biscuits,Virudhunagar,09-10-2017,West,885.0,0.26,115.05,Tamil Nadu
+OD4358,Shah,Food Grains,Dals & Pulses,Trichy,,West,1546.0,0.31,170.06,Tamil Nadu
+,Suresh,,Organic Vegetables,Dindigul,05-10-2017,West,1320.0,0.34,343.2,Tamil Nadu
+OD4360,Veronica,Bakery,Biscuits,Bodi,,West,816.0,,81.6,
+,Sabeela,Snacks,Noodles,Virudhunagar,,West,2352.0,0.16,1011.36,Tamil Nadu
+OD4363,Amy,Beverages,,Tenkasi,12-12-2016,West,533.0,0.26,,Tamil Nadu
+OD4365,Vinne,"Eggs, Meat & Fish",,Madurai,09-04-2018,West,,0.19,162.75,Tamil Nadu
+OD4366,,Fruits & Veggies,Fresh Fruits,Coimbatore,,West,1851.0,,296.16,Tamil Nadu
+OD4367,Roshan,"Eggs, Meat & Fish",Chicken,Kanyakumari,3/14/2015,West,1882.0,,319.94,Tamil Nadu
+OD4368,Vinne,Oil & Masala,Spices,Trichy,5/31/2016,West,2435.0,0.35,681.8,Tamil Nadu
+OD4369,Shah,Bakery,Biscuits,Viluppuram,,West,1439.0,0.26,532.43,Tamil Nadu
+OD4372,Veronica,Oil & Masala,Edible Oil & Ghee,Krishnagiri,05-01-2016,West,1404.0,,126.36,
+,Anu,,,Namakkal,6/25/2017,West,1382.0,0.28,179.66,Tamil Nadu
+,Vince,,Atta & Flour,Bodi,,West,,,54.24,
+OD4376,Arutra,Fruits & Veggies,Fresh Fruits,,,West,2168.0,0.13,802.16,Tamil Nadu
+OD4378,,Fruits & Veggies,Organic Vegetables,Dharmapuri,,West,1602.0,0.28,288.36,Tamil Nadu
+OD4379,Peer,Oil & Masala,Masalas,,12-10-2017,West,,0.2,377.27,
+OD4380,Ram,Snacks,Cookies,,11/25/2015,West,619.0,0.3,179.51,
+OD4381,James,Beverages,Health Drinks,,11-11-2015,West,2342.0,0.23,819.7,Tamil Nadu
+OD4384,Arvind,Bakery,Biscuits,Krishnagiri,05-02-2018,West,733.0,0.29,183.25,Tamil Nadu
+OD4385,,Fruits & Veggies,Fresh Fruits,,,West,,0.32,500.28,Tamil Nadu
+OD4387,Kumar,Bakery,,,9/21/2015,West,,0.18,771.96,
+OD4388,Krithika,"Eggs, Meat & Fish",,Dharmapuri,1/29/2018,West,2411.0,,554.53,Tamil Nadu
+OD4389,,,Chicken,Ooty,01-03-2018,West,506.0,,192.28,
+,Jackson,,,,,West,785.0,,196.25,Tamil Nadu
+OD4391,Malik,Fruits & Veggies,Fresh Fruits,Coimbatore,09-02-2018,West,1937.0,0.12,561.73,Tamil Nadu
+OD4392,,,Soft Drinks,Dindigul,10-09-2015,West,1823.0,0.12,255.22,Tamil Nadu
+OD4393,Ramesh,Oil & Masala,Spices,Viluppuram,9/15/2018,West,2350.0,0.32,,
+,Arvind,Fruits & Veggies,,,11-12-2018,West,2184.0,,414.96,Tamil Nadu
+OD4396,Ramesh,Bakery,Biscuits,Trichy,9/17/2015,West,798.0,0.16,231.42,Tamil Nadu
+OD4397,Akash,,,Ramanadhapuram,,West,,,,Tamil Nadu
+OD4398,Vidya,Beverages,Health Drinks,Karur,12/30/2016,West,,,265.54,Tamil Nadu
+OD4399,Sudha,Bakery,Biscuits,Theni,4/23/2017,West,,,101.25,Tamil Nadu
+OD4400,Peer,Fruits & Veggies,,,8/16/2017,West,2363.0,0.19,897.94,Tamil Nadu
+OD4401,Komal,Beverages,Health Drinks,Perambalur,05-10-2015,West,1525.0,,76.25,Tamil Nadu
+OD4403,Malik,,Cakes,Salem,12-05-2015,West,1283.0,,102.64,
+OD4405,Alan,Bakery,Breads & Buns,Madurai,07-07-2018,West,1312.0,0.18,314.88,Tamil Nadu
+OD4406,Ravi,Fruits & Veggies,Fresh Fruits,,5/26/2017,West,1312.0,0.16,91.84,
+OD4407,Ridhesh,Bakery,Biscuits,,11-08-2016,West,763.0,0.14,160.23,Tamil Nadu
+OD4408,Veronica,"Eggs, Meat & Fish",Fish,,2/19/2018,West,2164.0,0.14,,Tamil Nadu
+OD4409,Suresh,Food Grains,,Pudukottai,09-12-2017,West,918.0,,64.26,Tamil Nadu
+,Krithika,Fruits & Veggies,,,10/15/2018,West,2002.0,,,Tamil Nadu
+,Sharon,Oil & Masala,,Dharmapuri,,West,697.0,0.19,271.83,
+,Anu,"Eggs, Meat & Fish",Fish,Bodi,09-11-2016,West,791.0,0.15,110.74,Tamil Nadu
+OD4413,Arvind,"Eggs, Meat & Fish",Chicken,,02-05-2017,West,2390.0,0.19,215.1,Tamil Nadu
+,Ravi,Bakery,Biscuits,Karur,,West,2092.0,0.19,732.2,Tamil Nadu
+,Hussain,,Mutton,Salem,12-06-2016,West,1537.0,0.15,537.95,
+OD4417,Hussain,Oil & Masala,Spices,Vellore,12/20/2015,West,1436.0,0.18,,Tamil Nadu
+OD4420,Krithika,Beverages,Soft Drinks,Dindigul,12/15/2018,West,2265.0,,453.0,Tamil Nadu
+,Mathew,Beverages,Health Drinks,Trichy,,West,1030.0,0.11,309.0,
+OD4423,Anu,Food Grains,Organic Staples,Ramanadhapuram,,West,2445.0,0.11,415.65,Tamil Nadu
+,Muneer,Food Grains,,,11-11-2018,West,1436.0,0.34,373.36,Tamil Nadu
+OD4425,Arutra,"Eggs, Meat & Fish",Eggs,Madurai,,West,806.0,0.18,,Tamil Nadu
+,,Fruits & Veggies,Fresh Vegetables,Tirunelveli,8/14/2017,West,1932.0,0.15,,Tamil Nadu
+,Sudha,Bakery,,Viluppuram,11-04-2015,West,,0.3,,
+,James,Oil & Masala,Spices,,12/30/2016,West,1990.0,0.25,139.3,Tamil Nadu
+OD4429,,Food Grains,,Chennai,11-03-2017,West,1720.0,0.25,688.0,Tamil Nadu
+OD4430,Anu,Snacks,Cookies,,11-03-2017,West,1797.0,0.25,628.95,Tamil Nadu
+OD4432,,Beverages,Soft Drinks,Madurai,10/21/2017,West,2181.0,,479.82,Tamil Nadu
+OD4433,Ramesh,Snacks,Chocolates,Namakkal,,West,1596.0,0.28,383.04,Tamil Nadu
+OD4434,Yusuf,"Eggs, Meat & Fish",Mutton,Cumbum,9/21/2015,West,1864.0,,801.52,Tamil Nadu
+OD4435,Suresh,,Eggs,Bodi,5/18/2017,West,2092.0,0.1,271.96,Tamil Nadu
+OD4436,Vince,Beverages,Health Drinks,Bodi,8/15/2015,West,1169.0,0.33,,Tamil Nadu
+,Shah,Beverages,Health Drinks,Salem,05-12-2016,West,1997.0,0.31,678.98,Tamil Nadu
+OD4439,Yadav,Fruits & Veggies,Fresh Vegetables,,11-02-2018,West,775.0,0.33,178.25,
+,Willams,"Eggs, Meat & Fish",Chicken,Dharmapuri,11-08-2016,West,1625.0,0.2,276.25,Tamil Nadu
+OD4441,Verma,,,Tenkasi,,West,1845.0,0.16,,
+OD4442,Akash,Oil & Masala,Spices,Viluppuram,8/15/2017,West,803.0,,216.81,Tamil Nadu
+OD4443,Yadav,Oil & Masala,Spices,Tenkasi,09-02-2017,West,2448.0,,930.24,
+OD4444,Rumaiza,"Eggs, Meat & Fish",,Vellore,6/25/2016,West,1220.0,0.23,500.2,Tamil Nadu
+OD4445,,Snacks,Chocolates,Ramanadhapuram,10/21/2017,West,1923.0,,,
+,Ridhesh,Food Grains,Rice,Ramanadhapuram,12/30/2016,West,,0.33,90.87,Tamil Nadu
+OD4447,,Beverages,Soft Drinks,,12-03-2017,West,,,399.9,
+OD4448,Rumaiza,Beverages,Soft Drinks,Krishnagiri,,West,2199.0,0.18,571.74,Tamil Nadu
+OD4449,,,,Perambalur,8/15/2016,West,1103.0,0.16,463.26,Tamil Nadu
+OD4450,Vinne,"Eggs, Meat & Fish",Fish,,02-05-2017,West,,0.21,236.36,Tamil Nadu
+,,Food Grains,Organic Staples,,10/21/2017,West,876.0,0.15,289.08,Tamil Nadu
+OD4453,Alan,Bakery,Cakes,Trichy,05-01-2016,West,1951.0,0.16,195.1,
+OD4454,Vinne,Food Grains,Rice,Theni,5/18/2017,West,1802.0,,774.86,Tamil Nadu
+OD4455,Aditi,Beverages,Health Drinks,Tenkasi,04-10-2017,West,1708.0,0.1,341.6,
+OD4457,Malik,,Eggs,Virudhunagar,09-11-2017,West,,,334.4,Tamil Nadu
+OD4458,Mathew,Fruits & Veggies,Organic Fruits,Cumbum,9/17/2015,West,,0.21,,Tamil Nadu
+OD4459,Sabeela,Bakery,Biscuits,Perambalur,,West,950.0,0.22,161.5,Tamil Nadu
+OD4460,Rumaiza,Beverages,Health Drinks,Cumbum,11/13/2018,West,2130.0,0.34,,Tamil Nadu
+OD4463,,Bakery,Biscuits,,11-12-2018,West,1472.0,0.13,588.8,Tamil Nadu
+OD4465,Jackson,Snacks,Chocolates,Theni,,West,761.0,0.27,312.01,Tamil Nadu
+OD4466,Harish,,Fresh Fruits,Cumbum,3/29/2016,West,645.0,,277.35,Tamil Nadu
+,Sudha,Fruits & Veggies,Organic Vegetables,,4/18/2015,West,2044.0,0.14,633.64,
+,Arutra,Beverages,,,1/27/2015,West,540.0,0.34,156.6,Tamil Nadu
+,Surya,,Masalas,Dindigul,,West,1137.0,0.13,295.62,Tamil Nadu
+OD4470,Suresh,Oil & Masala,,Karur,,West,,,289.85,Tamil Nadu
+OD4471,Mathew,Fruits & Veggies,,Cumbum,7/14/2018,West,1287.0,0.26,,Tamil Nadu
+OD4473,Sabeela,Oil & Masala,Masalas,Dindigul,12/24/2016,West,1113.0,0.31,,Tamil Nadu
+OD4475,Krithika,"Eggs, Meat & Fish",Fish,,,West,1669.0,0.16,,Tamil Nadu
+,Vidya,Snacks,Noodles,Virudhunagar,06-10-2018,West,862.0,0.27,370.66,Tamil Nadu
+OD4477,Ganesh,Food Grains,Rice,Dindigul,10-04-2015,West,,,518.32,
+OD4479,Malik,Beverages,,Theni,8/15/2017,West,528.0,0.26,,
+OD4480,Veena,,Fresh Fruits,Dindigul,8/20/2018,West,1575.0,,425.25,Tamil Nadu
+OD4481,Shree,"Eggs, Meat & Fish",Mutton,Viluppuram,12-05-2015,West,1646.0,0.3,329.2,Tamil Nadu
+,Arvind,Bakery,Breads & Buns,Theni,12-02-2017,West,2048.0,0.13,512.0,Tamil Nadu
+OD4483,,Fruits & Veggies,Organic Fruits,Dindigul,05-03-2018,West,2440.0,0.28,780.8,Tamil Nadu
+,,Snacks,,Dharmapuri,12-10-2017,West,1724.0,0.29,293.08,Tamil Nadu
+OD4486,,,Soft Drinks,Vellore,,West,2045.0,0.27,490.8,
+OD4487,Hafiz,,Health Drinks,Tenkasi,5/14/2016,West,,,456.23,
+OD4488,Sharon,Bakery,Breads & Buns,Dindigul,02-02-2018,West,1019.0,0.27,305.7,Tamil Nadu
+OD4489,Veena,"Eggs, Meat & Fish",Mutton,Dharmapuri,12-03-2017,West,,0.15,508.2,Tamil Nadu
+,Haseena,Snacks,Chocolates,Kanyakumari,,West,2246.0,0.24,336.9,Tamil Nadu
+OD4492,Vidya,"Eggs, Meat & Fish",,Dharmapuri,8/23/2017,West,902.0,0.1,324.72,Tamil Nadu
+OD4494,Aditi,Fruits & Veggies,Organic Fruits,Pudukottai,,West,611.0,0.35,85.54,Tamil Nadu
+OD4495,Krithika,Food Grains,Dals & Pulses,Tirunelveli,08-07-2018,West,1079.0,0.12,53.95,Tamil Nadu
+OD4496,Sharon,Food Grains,Organic Staples,Theni,,West,725.0,0.18,,Tamil Nadu
+OD4497,James,"Eggs, Meat & Fish",Fish,Ramanadhapuram,11-10-2018,West,2339.0,,,
+OD4498,Vidya,"Eggs, Meat & Fish",Eggs,Viluppuram,8/23/2017,West,1805.0,0.17,812.25,Tamil Nadu
+OD4499,Shah,Oil & Masala,,Kanyakumari,09-02-2018,West,1287.0,0.14,244.53,Tamil Nadu
+,Sharon,Food Grains,Rice,Pudukottai,11/24/2016,West,755.0,0.26,302.0,Tamil Nadu
+OD4502,Ridhesh,Bakery,,,4/18/2015,West,,0.29,93.94,Tamil Nadu
+OD4503,Vidya,Oil & Masala,Spices,Theni,1/13/2015,West,1594.0,0.29,,Tamil Nadu
+,Arutra,Fruits & Veggies,Organic Vegetables,,1/20/2018,West,1379.0,0.2,137.9,Tamil Nadu
+OD4506,Vinne,Beverages,Soft Drinks,Tenkasi,9/15/2017,West,1504.0,0.25,,Tamil Nadu
+OD4507,Surya,Bakery,Breads & Buns,Perambalur,9/21/2015,West,1555.0,,684.2,Tamil Nadu
+OD4510,Ram,Beverages,,Ooty,4/17/2018,West,639.0,,146.97,Tamil Nadu
+OD4511,,Food Grains,,Madurai,11/29/2015,West,1154.0,0.21,138.48,Tamil Nadu
+OD4513,Jackson,,Chocolates,Virudhunagar,6/17/2015,West,674.0,0.32,141.54,Tamil Nadu
+OD4515,,Bakery,,Ramanadhapuram,11/28/2018,West,1221.0,0.26,231.99,Tamil Nadu
+OD4516,Yadav,"Eggs, Meat & Fish",,Ramanadhapuram,,West,,0.29,419.1,Tamil Nadu
+OD4517,Haseena,Beverages,Health Drinks,Coimbatore,10-04-2015,West,1985.0,0.27,277.9,Tamil Nadu
+OD4518,Komal,Oil & Masala,Spices,Ooty,,West,1143.0,0.26,102.87,Tamil Nadu
+OD4519,Ramesh,,Cookies,,8/16/2017,West,795.0,,,Tamil Nadu
+OD4521,Anu,Snacks,Noodles,Pudukottai,1/14/2018,West,,,942.59,Tamil Nadu
+OD4522,Yusuf,Beverages,,Theni,6/30/2018,West,,0.29,178.16,
+OD4523,Haseena,,Health Drinks,,05-02-2018,West,540.0,0.15,,Tamil Nadu
+OD4524,Vinne,"Eggs, Meat & Fish",Mutton,Namakkal,05-02-2018,West,1813.0,0.18,507.64,Tamil Nadu
+OD4525,Sundar,Bakery,Biscuits,Trichy,11/17/2016,West,2364.0,0.21,,Tamil Nadu
+OD4526,Alan,Beverages,Soft Drinks,Coimbatore,,West,2215.0,0.16,708.8,
+OD4527,Rumaiza,Food Grains,Dals & Pulses,Chennai,08-07-2018,West,1167.0,0.21,245.07,Tamil Nadu
+,Ravi,,Chocolates,Pudukottai,12-06-2017,West,1385.0,0.33,138.5,Tamil Nadu
+OD4530,Aditi,Oil & Masala,Spices,,9/15/2017,West,794.0,0.2,,Tamil Nadu
+OD4531,Aditi,Bakery,Cakes,Trichy,,West,,0.24,703.76,Tamil Nadu
+OD4532,,Snacks,Noodles,Chennai,02-09-2018,West,2399.0,0.16,815.66,
+OD4533,Willams,Food Grains,,,8/28/2016,West,,0.18,885.8,Tamil Nadu
+OD4534,Arvind,Fruits & Veggies,Organic Fruits,Ramanadhapuram,11/17/2016,West,1752.0,0.12,297.84,Tamil Nadu
+,Krithika,Beverages,Health Drinks,Krishnagiri,1/13/2015,West,,,243.2,Tamil Nadu
+OD4536,Suresh,Fruits & Veggies,,Chennai,9/22/2015,West,527.0,,94.86,
+,,Food Grains,Atta & Flour,Madurai,12/28/2018,West,735.0,0.23,95.55,Tamil Nadu
+OD4540,,,,,3/27/2016,West,2262.0,0.31,,Tamil Nadu
+OD4541,Ram,Bakery,Biscuits,Dindigul,12/28/2015,West,729.0,0.25,313.47,Tamil Nadu
+,,,Health Drinks,Krishnagiri,5/30/2018,West,810.0,0.18,,Tamil Nadu
+OD4543,Vince,Beverages,Health Drinks,Ooty,3/25/2015,West,1539.0,0.29,200.07,Tamil Nadu
+OD4544,,Food Grains,Rice,Ooty,12/29/2015,West,1947.0,0.12,739.86,Tamil Nadu
+OD4545,,Bakery,Cakes,,10/30/2018,West,1640.0,0.34,,Tamil Nadu
+,,Snacks,Cookies,Dharmapuri,2/23/2018,West,2315.0,0.11,625.05,
+,Hafiz,Snacks,Noodles,,6/18/2018,West,,,157.1,
+OD4548,Yadav,Beverages,Soft Drinks,Tirunelveli,01-03-2018,West,2376.0,0.12,974.16,Tamil Nadu
+OD4549,Veena,"Eggs, Meat & Fish",Eggs,Karur,3/19/2016,West,2149.0,0.14,537.25,
+OD4550,,,Chocolates,,11-03-2018,West,1419.0,0.32,454.08,Tamil Nadu
+,Arutra,Fruits & Veggies,Fresh Vegetables,,05-12-2016,West,,0.15,41.36,Tamil Nadu
+OD4552,Shree,Oil & Masala,Spices,Ooty,,West,661.0,0.18,171.86,Tamil Nadu
+OD4553,Ram,Bakery,Biscuits,Pudukottai,1/23/2015,West,,0.14,529.32,Tamil Nadu
+OD4554,Amrish,Bakery,Breads & Buns,Virudhunagar,8/23/2017,West,1252.0,0.23,212.84,Tamil Nadu
+OD4555,Shah,Food Grains,Dals & Pulses,Namakkal,,West,607.0,0.34,91.05,Tamil Nadu
+OD4556,,"Eggs, Meat & Fish",Eggs,,12/24/2018,West,,0.18,180.95,Tamil Nadu
+OD4557,Vidya,Food Grains,,Krishnagiri,9/21/2016,West,1349.0,0.2,364.23,
+,Akash,,Edible Oil & Ghee,Pudukottai,05-10-2015,West,851.0,0.25,,Tamil Nadu
+OD4559,Yadav,Bakery,Biscuits,Tenkasi,7/14/2017,West,1988.0,0.34,,
+OD4560,,Beverages,Health Drinks,,,West,841.0,0.32,,Tamil Nadu
+OD4561,Mathew,Food Grains,Dals & Pulses,Tenkasi,,West,548.0,0.27,186.32,Tamil Nadu
+OD4562,Shah,Bakery,Cakes,Tenkasi,04-11-2018,West,1559.0,0.19,592.42,Tamil Nadu
+OD4563,Anu,Beverages,Soft Drinks,,,West,1511.0,,120.88,Tamil Nadu
+,Jackson,Bakery,Cakes,Pudukottai,,West,920.0,0.33,340.4,Tamil Nadu
+OD4566,Sheeba,Fruits & Veggies,Organic Vegetables,Ooty,12/27/2016,West,,0.16,,
+OD4568,Arutra,Oil & Masala,Edible Oil & Ghee,,12-01-2018,West,1466.0,,557.08,Tamil Nadu
+OD4569,Arvind,Fruits & Veggies,Fresh Fruits,Bodi,11/13/2016,West,,0.2,,Tamil Nadu
+OD4570,Komal,"Eggs, Meat & Fish",Mutton,Perambalur,,West,2365.0,0.1,,Tamil Nadu
+OD4572,Krithika,"Eggs, Meat & Fish",Mutton,Ramanadhapuram,5/26/2017,West,,0.21,700.7,Tamil Nadu
+OD4574,Veronica,Oil & Masala,Edible Oil & Ghee,Tirunelveli,09-08-2017,West,,0.31,70.56,
+,Veena,Bakery,Cakes,Viluppuram,12-06-2017,West,1929.0,0.2,,Tamil Nadu
+OD4578,Hafiz,Bakery,Breads & Buns,Tirunelveli,11/24/2016,West,549.0,0.27,,Tamil Nadu
+,Vidya,Oil & Masala,,,5/22/2016,West,1536.0,,491.52,
+OD4580,Roshan,Fruits & Veggies,Fresh Fruits,Dindigul,11/17/2016,West,2433.0,0.18,486.6,Tamil Nadu
+OD4581,Sheeba,Bakery,,Coimbatore,04-11-2015,West,1359.0,0.32,149.49,Tamil Nadu
+OD4582,Shree,,,,9/29/2018,West,2290.0,0.27,618.3,Tamil Nadu
+OD4583,Veena,Oil & Masala,Spices,Trichy,11/14/2018,West,697.0,0.27,55.76,Tamil Nadu
+,Sabeela,Bakery,Biscuits,Ooty,12-03-2017,West,2111.0,0.19,337.76,Tamil Nadu
+OD4585,Muneer,"Eggs, Meat & Fish",,Tenkasi,09-08-2015,West,2227.0,0.18,155.89,Tamil Nadu
+OD4586,,,Health Drinks,Chennai,1/26/2018,West,,0.23,264.6,Tamil Nadu
+OD4587,Vidya,Snacks,Noodles,,,West,1072.0,0.1,300.16,Tamil Nadu
+OD4588,Jackson,Bakery,Breads & Buns,Vellore,11-10-2015,West,653.0,0.12,267.73,Tamil Nadu
+OD4589,Harish,Bakery,Cakes,Kanyakumari,07-08-2018,West,2117.0,0.26,402.23,
+OD4590,Sheeba,Snacks,Cookies,Theni,5/28/2017,West,1892.0,0.27,775.72,Tamil Nadu
+,Aditi,Beverages,Health Drinks,Perambalur,9/23/2018,West,1432.0,,400.96,Tamil Nadu
+OD4592,Krithika,Fruits & Veggies,Organic Fruits,Viluppuram,11-10-2015,West,,0.24,172.48,Tamil Nadu
+OD4593,Vidya,"Eggs, Meat & Fish",Mutton,Karur,09-08-2017,West,879.0,,,Tamil Nadu
+OD4594,,Snacks,Chocolates,Pudukottai,,West,,0.34,449.01,Tamil Nadu
+,Krithika,Oil & Masala,,Pudukottai,11/16/2018,West,1205.0,0.32,542.25,Tamil Nadu
+,,Fruits & Veggies,Organic Fruits,Viluppuram,,West,2450.0,0.31,833.0,Tamil Nadu
+,Hafiz,Fruits & Veggies,,Dharmapuri,,West,,0.25,211.05,Tamil Nadu
+OD4599,Hafiz,Food Grains,Organic Staples,Viluppuram,12-06-2016,West,716.0,,,Tamil Nadu
+,Arvind,,Noodles,Dindigul,11/24/2016,West,2162.0,0.24,324.3,Tamil Nadu
+,Amrish,Bakery,Biscuits,Salem,9/21/2015,West,2489.0,0.14,945.82,Tamil Nadu
+OD4606,Sharon,Oil & Masala,Edible Oil & Ghee,,04-10-2017,West,1851.0,,333.18,Tamil Nadu
+OD4608,,Food Grains,,Kanyakumari,10-07-2017,West,1073.0,0.1,,Tamil Nadu
+OD4609,Sundar,Snacks,Cookies,Dindigul,10/30/2018,West,,0.14,305.1,Tamil Nadu
+OD4610,,,Health Drinks,Coimbatore,4/14/2016,West,2188.0,0.21,700.16,
+,,Snacks,Noodles,Coimbatore,8/16/2016,West,1396.0,0.26,544.44,
+OD4612,Verma,Beverages,,Cumbum,04-12-2017,West,2299.0,0.19,459.8,Tamil Nadu
+,Shah,Beverages,,Tirunelveli,09-02-2017,West,,0.31,179.01,Tamil Nadu
+OD4614,,"Eggs, Meat & Fish",Chicken,Karur,,West,676.0,,223.08,
+OD4615,,Food Grains,Organic Staples,Perambalur,9/15/2018,West,1920.0,0.29,403.2,
+OD4616,Verma,Beverages,Soft Drinks,Trichy,04-11-2015,West,,,446.0,Tamil Nadu
+OD4617,Ridhesh,Snacks,Noodles,Virudhunagar,11-10-2018,West,,,359.8,Tamil Nadu
+,Yusuf,,Cookies,Kanyakumari,8/21/2018,West,515.0,0.3,30.9,Tamil Nadu
+,Veronica,,Dals & Pulses,,11/24/2017,West,2177.0,0.31,544.25,Tamil Nadu
+OD4622,Komal,,Spices,Viluppuram,4/13/2016,West,2081.0,0.1,749.16,Tamil Nadu
+OD4623,Adavan,Oil & Masala,Edible Oil & Ghee,Chennai,,West,2410.0,0.21,964.0,Tamil Nadu
+,Mathew,Oil & Masala,Spices,Kanyakumari,,West,2430.0,0.28,388.8,Tamil Nadu
+OD4625,Krithika,Bakery,,,,West,1172.0,0.19,457.08,Tamil Nadu
+OD4627,Sudha,Beverages,,Dindigul,9/17/2015,West,1706.0,0.11,562.98,
+OD4628,,Beverages,Soft Drinks,Chennai,09-04-2018,West,2322.0,0.26,,Tamil Nadu
+OD4629,Jonas,Bakery,Biscuits,Ramanadhapuram,12-01-2018,West,1579.0,0.25,300.01,Tamil Nadu
+OD4630,Surya,Food Grains,Dals & Pulses,Chennai,11/24/2016,West,784.0,0.17,,Tamil Nadu
+OD4631,Suresh,,,Chennai,10-07-2017,West,2173.0,0.35,,Tamil Nadu
+OD4632,,Oil & Masala,Masalas,Namakkal,,West,2425.0,0.25,218.25,Tamil Nadu
+OD4633,,"Eggs, Meat & Fish",,Vellore,3/19/2016,West,,0.13,482.89,Tamil Nadu
+,Esther,Snacks,Noodles,,11/13/2016,West,1543.0,0.16,,Tamil Nadu
+OD4635,Haseena,,Cookies,,07-10-2016,West,1747.0,0.2,401.81,
+OD4636,Ravi,Bakery,Cakes,Viluppuram,08-07-2018,West,1285.0,,514.0,Tamil Nadu
+OD4638,Sharon,Snacks,Noodles,Chennai,09-08-2015,West,,0.18,261.29,Tamil Nadu
+OD4640,Alan,Fruits & Veggies,Fresh Vegetables,,1/30/2017,West,2207.0,0.32,176.56,Tamil Nadu
+OD4641,Yusuf,Beverages,,Salem,11-07-2017,West,851.0,0.14,51.06,
+OD4642,Sheeba,"Eggs, Meat & Fish",,Perambalur,09-11-2017,West,931.0,,335.16,Tamil Nadu
+OD4643,Yusuf,Snacks,Cookies,Dharmapuri,10-04-2015,West,867.0,0.26,190.74,
+OD4645,Ramesh,,Cakes,,12/31/2016,West,,0.2,546.82,Tamil Nadu
+OD4646,Amrish,Bakery,,Namakkal,5/20/2018,West,610.0,0.28,207.4,
+OD4647,Ganesh,Bakery,,Krishnagiri,3/14/2015,West,,,334.95,Tamil Nadu
+OD4648,,Snacks,Cookies,Tirunelveli,07-08-2018,West,1752.0,0.23,,Tamil Nadu
+,,Snacks,Cookies,,12-01-2016,West,2165.0,0.22,,Tamil Nadu
+OD4651,Surya,Oil & Masala,,Madurai,9/29/2015,West,2072.0,0.3,704.48,Tamil Nadu
+OD4654,Arutra,Oil & Masala,Edible Oil & Ghee,Pudukottai,6/15/2016,West,1807.0,,795.08,Tamil Nadu
+,Harish,"Eggs, Meat & Fish",Fish,Madurai,09-09-2018,West,2285.0,,388.45,Tamil Nadu
+OD4656,Harish,,Soft Drinks,Vellore,7/18/2018,West,,0.12,294.58,Tamil Nadu
+OD4657,Hafiz,,Cakes,,12-08-2015,West,,0.11,119.4,Tamil Nadu
+,,,Fresh Fruits,Coimbatore,06-08-2018,West,2061.0,0.27,370.98,Tamil Nadu
+OD4661,Vidya,,Chicken,Dindigul,,West,2293.0,0.25,,Tamil Nadu
+,Veronica,,Noodles,Dindigul,3/13/2018,West,938.0,0.16,206.36,
+OD4663,Vidya,,Health Drinks,,10-02-2016,West,,0.21,335.75,Tamil Nadu
+OD4665,Jackson,Oil & Masala,Edible Oil & Ghee,Tirunelveli,12-11-2016,West,1742.0,0.31,661.96,Tamil Nadu
+,,Bakery,Breads & Buns,Krishnagiri,9/17/2015,West,596.0,0.25,,
+OD4668,Sabeela,Bakery,Biscuits,Salem,1/13/2016,West,,,266.31,Tamil Nadu
+OD4669,Yusuf,,Noodles,Dharmapuri,4/25/2018,West,1255.0,0.14,338.85,Tamil Nadu
+,Mathew,Fruits & Veggies,Fresh Fruits,Ramanadhapuram,9/23/2018,West,2254.0,0.31,698.74,Tamil Nadu
+,Sudeep,Bakery,Biscuits,Pudukottai,,West,1993.0,0.12,358.74,
+OD4672,Shree,"Eggs, Meat & Fish",Chicken,Viluppuram,12/29/2017,West,,,161.73,
+OD4673,Malik,Fruits & Veggies,,Dindigul,11-04-2015,West,1122.0,,415.14,Tamil Nadu
+OD4674,Muneer,Snacks,Noodles,Perambalur,10/24/2015,West,2383.0,0.19,714.9,Tamil Nadu
+,Krithika,Snacks,Cookies,Theni,7/21/2018,West,1111.0,0.12,488.84,Tamil Nadu
+,,Food Grains,Organic Staples,Dharmapuri,11-02-2016,West,1062.0,0.17,74.34,Tamil Nadu
+,,Bakery,Breads & Buns,Bodi,12/31/2017,West,625.0,0.11,200.0,Tamil Nadu
+,Krithika,Beverages,Health Drinks,Dharmapuri,8/15/2015,West,1302.0,0.3,221.34,Tamil Nadu
+OD4679,Ganesh,Snacks,Cookies,,10/19/2018,West,2246.0,0.27,157.22,Tamil Nadu
+OD4680,,Bakery,Breads & Buns,Ramanadhapuram,08-07-2018,West,1729.0,0.34,743.47,Tamil Nadu
+OD4682,,"Eggs, Meat & Fish",Fish,Theni,11/17/2017,West,1005.0,0.14,412.05,
+OD4683,Amy,Snacks,Chocolates,Namakkal,8/19/2018,West,1512.0,0.33,408.24,Tamil Nadu
+,,Snacks,Cookies,Bodi,12-05-2018,West,701.0,0.1,126.18,Tamil Nadu
+OD4685,Jonas,Oil & Masala,Masalas,Pudukottai,09-10-2017,West,1536.0,,460.8,Tamil Nadu
+,Shah,Bakery,,Vellore,09-10-2017,West,1541.0,,77.05,
+,Hussain,Food Grains,,Virudhunagar,12-10-2017,West,884.0,,141.44,Tamil Nadu
+OD4688,Krithika,Food Grains,Organic Staples,Dharmapuri,07-08-2017,West,2269.0,0.34,839.53,
+OD4690,Aditi,Beverages,Health Drinks,Pudukottai,12-06-2017,West,,,54.0,Tamil Nadu
+,Shree,Oil & Masala,,Madurai,10/30/2018,West,1626.0,0.27,439.02,Tamil Nadu
+OD4692,,Snacks,Cookies,Virudhunagar,05-12-2016,West,712.0,0.33,,Tamil Nadu
+OD4693,Esther,Food Grains,Organic Staples,Salem,,West,1821.0,,,Tamil Nadu
+,,Bakery,,Tirunelveli,9/28/2016,West,1965.0,0.28,393.0,Tamil Nadu
+OD4697,,Beverages,Soft Drinks,Ramanadhapuram,12/30/2018,West,1690.0,0.19,,Tamil Nadu
+,Ridhesh,Oil & Masala,Spices,Salem,12-11-2016,West,,0.23,67.62,Tamil Nadu
+OD4699,Vince,Oil & Masala,Masalas,Bodi,12-11-2016,West,2141.0,,942.04,Tamil Nadu
+OD4700,Sudeep,Bakery,Breads & Buns,Tenkasi,8/23/2015,West,1250.0,0.35,,Tamil Nadu
+OD4702,Alan,,Chocolates,Pudukottai,2/24/2015,West,946.0,0.15,,Tamil Nadu
+OD4703,Ridhesh,Beverages,Soft Drinks,Coimbatore,11/26/2015,West,,0.24,623.79,Tamil Nadu
+,Veena,Snacks,Noodles,Chennai,03-10-2015,West,2076.0,0.1,,Tamil Nadu
+OD4705,Adavan,Oil & Masala,Spices,Karur,8/21/2018,West,1847.0,0.35,,Tamil Nadu
+OD4706,Kumar,"Eggs, Meat & Fish",Chicken,Chennai,09-07-2018,West,1337.0,0.1,,Tamil Nadu
+OD4707,Hussain,"Eggs, Meat & Fish",,Karur,12-08-2015,West,1568.0,0.33,360.64,Tamil Nadu
+OD4708,Shah,Food Grains,Rice,Tenkasi,,West,1706.0,0.33,716.52,
+OD4709,,Beverages,Soft Drinks,,08-10-2016,West,1514.0,0.1,439.06,Tamil Nadu
+OD4710,Willams,,Fresh Fruits,Karur,4/25/2018,West,2158.0,,,Tamil Nadu
+OD4711,Jonas,"Eggs, Meat & Fish",,Cumbum,03-10-2015,West,,0.16,,Tamil Nadu
+OD4712,Esther,,,Nagercoil,5/28/2017,West,2283.0,0.28,639.24,Tamil Nadu
+OD4716,,Food Grains,Dals & Pulses,Theni,11-07-2018,West,,0.35,483.57,
+OD4717,Anu,,Chocolates,Dindigul,11/21/2016,West,,0.12,415.1,Tamil Nadu
+,Peer,Fruits & Veggies,,Dindigul,3/14/2015,West,,0.11,468.54,Tamil Nadu
+,Sudeep,Beverages,Soft Drinks,Namakkal,09-12-2017,West,2433.0,0.32,340.62,Tamil Nadu
+OD4720,,Fruits & Veggies,,Perambalur,5/28/2015,West,901.0,0.19,,
+OD4721,,Food Grains,Rice,Vellore,8/17/2017,West,1680.0,,537.6,
+OD4722,Muneer,Food Grains,Rice,Bodi,07-12-2015,West,2050.0,,,
+,,Beverages,Soft Drinks,Pudukottai,05-06-2018,West,,0.11,285.94,Tamil Nadu
+OD4725,,Bakery,Breads & Buns,Vellore,11/27/2017,West,1077.0,,129.24,Tamil Nadu
+OD4726,Verma,,Breads & Buns,Krishnagiri,,West,,0.22,138.72,Tamil Nadu
+OD4727,Amy,Bakery,Breads & Buns,Madurai,,West,2279.0,0.31,592.54,Tamil Nadu
+,,Food Grains,,Vellore,4/21/2015,West,1344.0,0.16,497.28,
+OD4729,Sharon,Beverages,,Bodi,03-09-2018,West,2438.0,0.11,365.7,
+OD4730,,,,,11-11-2018,West,530.0,0.21,121.9,Tamil Nadu
+OD4732,Adavan,,Spices,Nagercoil,09-02-2018,West,1988.0,0.11,357.84,
+OD4734,Sharon,Food Grains,Rice,Viluppuram,5/19/2018,West,1788.0,0.24,464.88,Tamil Nadu
+OD4736,Sheeba,Beverages,Health Drinks,Viluppuram,09-01-2018,West,611.0,0.3,140.53,
+OD4737,Suresh,Oil & Masala,Spices,Krishnagiri,11/21/2018,West,925.0,,314.5,Tamil Nadu
+OD4738,Veena,Beverages,Health Drinks,Chennai,9/17/2015,West,2063.0,0.14,144.41,Tamil Nadu
+OD4739,Vinne,Bakery,,Vellore,12-08-2015,West,2094.0,0.31,104.7,Tamil Nadu
+OD4740,Amy,Food Grains,Organic Staples,Dindigul,12-06-2016,West,1569.0,0.29,,Tamil Nadu
+,,Beverages,Soft Drinks,Tenkasi,9/17/2015,West,,0.32,718.96,Tamil Nadu
+OD4742,Alan,Food Grains,,Virudhunagar,,West,1500.0,0.21,,Tamil Nadu
+OD4743,Adavan,Beverages,Soft Drinks,Theni,11-01-2015,West,2100.0,0.34,,Tamil Nadu
+OD4744,Mathew,Snacks,Noodles,Salem,,West,,0.3,445.0,Tamil Nadu
+OD4746,,,Eggs,Salem,12-06-2016,West,537.0,0.34,150.36,
+OD4748,Haseena,Bakery,Breads & Buns,Karur,9/23/2018,West,1199.0,,,Tamil Nadu
+OD4749,Shree,,Eggs,Bodi,12-05-2018,West,2060.0,0.14,206.0,Tamil Nadu
+OD4750,,,Edible Oil & Ghee,Krishnagiri,08-12-2018,West,,,927.9,Tamil Nadu
+,Shree,Bakery,,Bodi,8/23/2015,West,509.0,0.26,25.45,Tamil Nadu
+OD4752,Muneer,Oil & Masala,Edible Oil & Ghee,Trichy,9/17/2015,West,1907.0,0.16,324.19,Tamil Nadu
+OD4753,Sharon,Oil & Masala,Spices,Madurai,,West,883.0,0.22,247.24,Tamil Nadu
+OD4754,,Bakery,,Krishnagiri,10-02-2018,West,2018.0,,,Tamil Nadu
+,,Beverages,Soft Drinks,,10-02-2018,West,777.0,0.16,,
+,Sharon,Bakery,Biscuits,,11/25/2015,West,,0.23,266.4,Tamil Nadu
+OD4757,,Food Grains,Organic Staples,Namakkal,11/27/2018,West,776.0,0.34,155.2,Tamil Nadu
+OD4758,,Beverages,Soft Drinks,Trichy,,West,1552.0,,450.08,Tamil Nadu
+OD4760,Rumaiza,Fruits & Veggies,Organic Fruits,Coimbatore,11-02-2016,West,,0.27,79.53,
+OD4761,Muneer,Oil & Masala,Edible Oil & Ghee,Tenkasi,11-07-2015,West,605.0,0.11,260.15,Tamil Nadu
+,Willams,Fruits & Veggies,Organic Fruits,Chennai,,West,666.0,0.14,286.38,Tamil Nadu
+OD4763,Yusuf,,Fresh Vegetables,Viluppuram,08-09-2015,West,2199.0,0.13,,Tamil Nadu
+OD4764,James,Food Grains,,,9/30/2015,West,1684.0,0.31,,Tamil Nadu
+OD4766,,Fruits & Veggies,Fresh Fruits,Vellore,,West,,,134.4,Tamil Nadu
+OD4767,,Fruits & Veggies,Organic Fruits,Virudhunagar,09-10-2015,West,1107.0,0.23,221.4,Tamil Nadu
+,,,Fresh Fruits,Coimbatore,,West,,0.31,107.2,Tamil Nadu
+OD4769,Vinne,Bakery,Biscuits,Trichy,8/17/2016,West,794.0,0.28,230.26,Tamil Nadu
+OD4770,Mathew,Snacks,Cookies,Vellore,12/24/2016,West,2223.0,0.2,222.3,Tamil Nadu
+OD4771,Shree,"Eggs, Meat & Fish",Eggs,,07-08-2017,West,2094.0,0.33,167.52,
+OD4772,Kumar,Food Grains,,Viluppuram,11/30/2015,West,665.0,0.19,259.35,Tamil Nadu
+OD4773,Ramesh,,Chocolates,,11/24/2016,West,1908.0,0.27,534.24,Tamil Nadu
+OD4774,Ravi,Bakery,Biscuits,Chennai,,West,2494.0,,648.44,Tamil Nadu
+OD4775,Amrish,Oil & Masala,Edible Oil & Ghee,Dharmapuri,,West,,0.29,399.68,Tamil Nadu
+OD4776,Peer,Snacks,Cookies,,8/16/2016,West,542.0,0.16,184.28,Tamil Nadu
+OD4778,Esther,Beverages,Soft Drinks,Dindigul,6/29/2018,West,,0.29,740.08,Tamil Nadu
+,Ram,Beverages,Soft Drinks,Tirunelveli,,West,860.0,,275.2,
+,Arutra,Bakery,Breads & Buns,Dindigul,9/20/2016,West,862.0,0.32,379.28,Tamil Nadu
+OD4782,Surya,Oil & Masala,Spices,Kanyakumari,11/13/2018,West,1237.0,0.15,457.69,Tamil Nadu
+,Willams,Bakery,Cakes,Trichy,5/25/2016,West,2498.0,0.15,524.58,Tamil Nadu
+OD4785,Amrish,"Eggs, Meat & Fish",Chicken,Bodi,04-01-2018,West,562.0,0.24,,Tamil Nadu
+,Esther,Snacks,Noodles,Vellore,,West,,0.18,894.9,
+OD4789,Sharon,Beverages,Soft Drinks,Kanyakumari,9/28/2016,West,1454.0,,,Tamil Nadu
+OD4790,Amy,Snacks,,Perambalur,07-08-2017,West,2352.0,,1058.4,Tamil Nadu
+OD4791,Sundar,,Biscuits,Tenkasi,9/19/2018,West,,0.28,90.22,Tamil Nadu
+OD4792,Ram,,Dals & Pulses,Bodi,7/18/2018,West,2430.0,0.29,170.1,Tamil Nadu
+,Vince,"Eggs, Meat & Fish",Fish,Karur,07-08-2017,West,616.0,0.23,215.6,Tamil Nadu
+,Arutra,"Eggs, Meat & Fish",Mutton,Krishnagiri,12-08-2015,West,1482.0,0.3,652.08,Tamil Nadu
+OD4795,,Fruits & Veggies,Fresh Fruits,,11-12-2017,West,876.0,0.31,122.64,Tamil Nadu
+OD4796,Roshan,Snacks,Noodles,Ramanadhapuram,08-09-2015,West,533.0,,143.91,Tamil Nadu
+OD4797,Krithika,,Spices,,12/27/2015,West,,0.18,267.09,
+OD4799,,Beverages,Soft Drinks,,,West,753.0,,75.3,Tamil Nadu
+OD4800,Sundar,Oil & Masala,,,10-02-2018,West,,0.21,212.64,Tamil Nadu
+OD4801,Rumaiza,,Cookies,Namakkal,8/22/2017,West,,0.14,351.27,Tamil Nadu
+OD4802,Verma,Beverages,Health Drinks,Trichy,,West,1277.0,0.35,242.63,Tamil Nadu
+OD4894,Jackson,,,,12/13/2016,West,,0.18,217.68,
+OD4895,Sheeba,Bakery,Breads & Buns,Ramanadhapuram,4/21/2018,West,1036.0,0.27,269.36,Tamil Nadu
+OD4896,Aditi,Food Grains,Organic Staples,Salem,10-05-2015,West,998.0,0.13,,Tamil Nadu
+OD4897,Shree,Oil & Masala,Edible Oil & Ghee,Madurai,3/19/2018,West,862.0,0.35,293.08,
+OD4898,Yusuf,Snacks,Noodles,,9/21/2018,West,2313.0,0.22,578.25,Tamil Nadu
+,Akash,Beverages,Soft Drinks,Chennai,9/21/2018,West,2266.0,0.32,997.04,Tamil Nadu
+OD4900,,Bakery,Biscuits,Theni,11/15/2015,West,868.0,,373.24,Tamil Nadu
+OD4901,Alan,,Mutton,Madurai,6/29/2018,West,1275.0,0.13,433.5,
+OD4902,Muneer,"Eggs, Meat & Fish",,Nagercoil,,West,1853.0,0.24,148.24,Tamil Nadu
+OD4903,Veronica,Oil & Masala,,Trichy,,West,2226.0,0.16,511.98,Tamil Nadu
+OD4904,Aditi,"Eggs, Meat & Fish",Mutton,Bodi,3/19/2018,West,1514.0,0.32,514.76,Tamil Nadu
+OD4905,,Fruits & Veggies,Fresh Vegetables,Dindigul,11/18/2018,West,1663.0,0.11,432.38,Tamil Nadu
+,Surya,Bakery,Cakes,,3/23/2018,West,2099.0,,,
+OD4907,Kumar,Beverages,Health Drinks,Virudhunagar,12/22/2018,West,1036.0,,,Tamil Nadu
+OD4908,,"Eggs, Meat & Fish",,Viluppuram,11-03-2017,West,2432.0,0.34,,Tamil Nadu
+,Arvind,Food Grains,,,12-03-2017,West,2283.0,0.13,890.37,Tamil Nadu
+,Aditi,Bakery,Biscuits,Tenkasi,12/13/2016,West,2212.0,0.2,243.32,Tamil Nadu
+OD4912,Sheeba,Oil & Masala,Edible Oil & Ghee,Viluppuram,11/28/2015,West,1299.0,0.31,558.57,
+OD4916,Muneer,Fruits & Veggies,Fresh Fruits,Nagercoil,10-01-2016,West,600.0,0.25,120.0,Tamil Nadu
+OD4917,Arvind,Beverages,Soft Drinks,Salem,09-07-2018,West,1928.0,,674.8,Tamil Nadu
+OD4918,,Bakery,Breads & Buns,,,West,981.0,0.21,441.45,Tamil Nadu
+OD4919,,"Eggs, Meat & Fish",Chicken,Cumbum,10-02-2016,West,,0.18,,Tamil Nadu
+,Suresh,Snacks,,Pudukottai,5/27/2018,West,1135.0,0.25,329.15,Tamil Nadu
+OD4922,Vince,,,Trichy,,West,2051.0,0.26,922.95,Tamil Nadu
+OD4923,Ridhesh,Oil & Masala,Spices,Nagercoil,3/25/2018,West,1712.0,,154.08,Tamil Nadu
+OD4924,Akash,"Eggs, Meat & Fish",Chicken,,8/21/2018,West,2200.0,,396.0,
+,Krithika,Bakery,Breads & Buns,Bodi,,West,1160.0,0.27,,Tamil Nadu
+,Ravi,,Dals & Pulses,Madurai,10-02-2016,West,1306.0,0.34,261.2,Tamil Nadu
+OD4928,Hafiz,,Soft Drinks,Perambalur,4/28/2015,West,2018.0,0.18,161.44,Tamil Nadu
+OD4929,Verma,,Masalas,Cumbum,3/19/2018,West,807.0,,112.98,
+OD4930,Alan,Fruits & Veggies,Fresh Fruits,,6/20/2016,West,,0.31,,
+OD4932,Alan,,Cookies,Dindigul,11-03-2017,West,,0.25,190.65,Tamil Nadu
+,,Beverages,,Dindigul,10/24/2017,West,2348.0,,986.16,Tamil Nadu
+OD4976,Yadav,Bakery,Cakes,Pudukottai,,West,2268.0,0.19,476.28,Tamil Nadu
+OD4977,Akash,,Atta & Flour,Viluppuram,9/13/2015,West,1898.0,0.31,512.46,Tamil Nadu
+OD4980,,Fruits & Veggies,Organic Fruits,Viluppuram,,West,2388.0,0.28,214.92,Tamil Nadu
+OD4981,Alan,Food Grains,Dals & Pulses,Tirunelveli,04-05-2016,West,2484.0,0.16,869.4,Tamil Nadu
+OD4983,Alan,Food Grains,Rice,Madurai,3/30/2018,West,1123.0,0.31,,Tamil Nadu
+,Vidya,Oil & Masala,Masalas,Karur,09-04-2017,West,1532.0,0.32,91.92,Tamil Nadu
+,Sudha,,Spices,Tirunelveli,7/21/2018,West,1836.0,0.28,385.56,Tamil Nadu
+OD5097,Malik,Oil & Masala,Spices,,12/21/2016,West,,0.2,168.28,Tamil Nadu
+OD5098,,Beverages,Health Drinks,Kanyakumari,,West,1867.0,0.34,317.39,Tamil Nadu
+OD5099,,Snacks,Cookies,,06-04-2016,West,639.0,0.21,,Tamil Nadu
+OD5101,Veronica,,Chocolates,Nagercoil,7/27/2015,West,2050.0,0.12,676.5,Tamil Nadu
+OD5102,Alan,Oil & Masala,Spices,,09-12-2016,West,2498.0,0.29,,Tamil Nadu
+OD5103,Sudeep,"Eggs, Meat & Fish",Mutton,,,West,,0.35,214.2,Tamil Nadu
+,Esther,Snacks,Chocolates,Ooty,3/29/2016,West,1789.0,0.29,178.9,Tamil Nadu
+,,,Rice,Viluppuram,4/25/2018,West,1736.0,,711.76,Tamil Nadu
+OD5106,Suresh,"Eggs, Meat & Fish",Chicken,Ramanadhapuram,7/17/2017,West,2399.0,0.13,359.85,Tamil Nadu
+OD5107,Sudeep,Bakery,,Pudukottai,,West,2191.0,0.24,832.58,
+OD5108,,Oil & Masala,Masalas,Kanyakumari,11-05-2017,West,2114.0,0.15,486.22,Tamil Nadu
+OD5109,Vince,Oil & Masala,Spices,,11/13/2018,West,1040.0,0.1,52.0,Tamil Nadu
+OD5110,Mathew,Fruits & Veggies,,Kanyakumari,,West,1957.0,0.29,743.66,
+,Jackson,Bakery,Cakes,Nagercoil,5/22/2018,West,,0.33,773.19,Tamil Nadu
+OD5112,Sudeep,"Eggs, Meat & Fish",Eggs,Krishnagiri,10/23/2016,West,1748.0,0.2,87.4,Tamil Nadu
+OD5115,Mathew,Snacks,,Bodi,11/27/2017,West,,0.11,,Tamil Nadu
+OD5116,Alan,Snacks,Cookies,Madurai,,West,1360.0,0.33,340.0,Tamil Nadu
+OD5117,Veena,Fruits & Veggies,Organic Fruits,,,West,1699.0,0.21,84.95,Tamil Nadu
+OD5118,Vinne,Fruits & Veggies,,Namakkal,,West,1183.0,,485.03,Tamil Nadu
+OD5119,Sabeela,Snacks,Noodles,Ooty,4/13/2016,West,862.0,0.29,103.44,
+,,"Eggs, Meat & Fish",Mutton,Bodi,,West,538.0,,118.36,
+,Harish,Bakery,Biscuits,,6/27/2017,West,644.0,0.22,167.44,
+,Suresh,Bakery,,,7/17/2017,West,2025.0,0.16,405.0,Tamil Nadu
+OD5123,Esther,Bakery,Cakes,Perambalur,06-09-2016,West,1889.0,,113.34,Tamil Nadu
+OD5124,,"Eggs, Meat & Fish",Fish,Virudhunagar,12/29/2015,West,,,334.95,Tamil Nadu
+OD5126,Muneer,Oil & Masala,Edible Oil & Ghee,Tirunelveli,04-11-2016,West,1212.0,0.12,109.08,Tamil Nadu
+OD5127,,Bakery,,Vellore,6/24/2017,West,2039.0,,876.77,Tamil Nadu
+,,,Health Drinks,Bodi,07-07-2017,West,,0.16,280.84,Tamil Nadu
+OD5132,Surya,Beverages,Soft Drinks,Virudhunagar,,West,,0.25,457.56,Tamil Nadu
+OD5133,,Oil & Masala,Edible Oil & Ghee,Viluppuram,06-11-2018,West,2115.0,0.3,803.7,Tamil Nadu
+OD5134,,Fruits & Veggies,Fresh Fruits,Cumbum,4/19/2017,West,2373.0,0.16,355.95,Tamil Nadu
+,Sudeep,,Soft Drinks,Karur,08-04-2015,West,2238.0,,447.6,Tamil Nadu
+OD5136,Amrish,,,Coimbatore,10/26/2015,West,,0.25,515.41,
+OD5137,Haseena,Snacks,Cookies,,12-03-2018,West,1056.0,0.14,359.04,Tamil Nadu
+OD5138,Esther,Beverages,,Salem,3/23/2015,West,1813.0,,,
+OD5139,Amrish,Snacks,,Perambalur,6/23/2017,West,1052.0,0.19,252.48,Tamil Nadu
+OD5140,Amrish,Food Grains,Atta & Flour,,,West,1722.0,0.18,,Tamil Nadu
+,Hussain,"Eggs, Meat & Fish",Mutton,,5/27/2015,West,1841.0,,644.35,Tamil Nadu
+OD5489,Hussain,,Organic Staples,Nagercoil,9/29/2017,West,2332.0,0.33,559.68,Tamil Nadu
+OD5490,,"Eggs, Meat & Fish",Fish,Virudhunagar,2/22/2017,West,,0.29,,Tamil Nadu
+OD5491,,Fruits & Veggies,Fresh Fruits,Tenkasi,11-10-2015,West,2337.0,,140.22,Tamil Nadu
+OD5492,Roshan,Fruits & Veggies,,Tirunelveli,,West,2125.0,0.32,,Tamil Nadu
+OD5493,Ramesh,Oil & Masala,Spices,,09-01-2018,West,1045.0,0.35,83.6,Tamil Nadu
+OD5494,,Fruits & Veggies,Organic Vegetables,Kanyakumari,08-12-2018,West,2480.0,0.23,694.4,Tamil Nadu
+OD5495,Krithika,Oil & Masala,Spices,Krishnagiri,,West,1952.0,0.16,,Tamil Nadu
+OD5496,Amy,Fruits & Veggies,Organic Fruits,Vellore,11-08-2016,West,1431.0,0.28,,Tamil Nadu
+,Harish,,Organic Vegetables,Ramanadhapuram,09-02-2017,West,1491.0,0.26,357.84,Tamil Nadu
+OD5502,Vince,Food Grains,,Karur,,West,,,194.76,Tamil Nadu
+,Kumar,Fruits & Veggies,,Karur,,West,919.0,0.13,330.84,Tamil Nadu
+OD5504,Hussain,Beverages,Health Drinks,Salem,5/16/2015,West,582.0,,197.88,Tamil Nadu
+,Sundar,Oil & Masala,Masalas,Dindigul,4/17/2016,West,2064.0,0.15,123.84,Tamil Nadu
+,Aditi,,,,7/14/2018,West,,,508.41,Tamil Nadu
+OD5507,Hafiz,Fruits & Veggies,Fresh Fruits,,7/26/2015,West,959.0,,76.72,
+OD5509,,Fruits & Veggies,,Kanyakumari,,West,839.0,,318.82,Tamil Nadu
+OD5511,,"Eggs, Meat & Fish",Chicken,Kanyakumari,,West,2078.0,0.32,,Tamil Nadu
+,Anu,Bakery,,Dindigul,7/18/2016,West,,0.13,470.19,Tamil Nadu
+OD5513,Haseena,Beverages,Health Drinks,Salem,10/14/2018,West,1088.0,0.31,402.56,
+OD5514,,Fruits & Veggies,Fresh Vegetables,Nagercoil,3/25/2015,West,,0.34,543.36,
+OD5516,,,Soft Drinks,Karur,,West,648.0,0.31,,
+OD5517,Surya,Beverages,Health Drinks,Ramanadhapuram,2/13/2018,West,990.0,,445.5,Tamil Nadu
+OD5518,,Beverages,Soft Drinks,Dharmapuri,,West,1354.0,0.2,,Tamil Nadu
+OD5519,Yusuf,,Chocolates,Trichy,04-11-2018,West,1169.0,0.15,409.15,Tamil Nadu
+OD5520,Kumar,Food Grains,Atta & Flour,Vellore,11/18/2017,West,1252.0,0.14,112.68,
+OD5521,Jonas,Snacks,Chocolates,Chennai,08-12-2018,West,883.0,0.24,114.79,Tamil Nadu
+OD5522,,,Biscuits,,12-10-2017,West,1545.0,0.35,247.2,Tamil Nadu
+OD5525,Mathew,,Noodles,Dharmapuri,5/28/2017,West,2259.0,,,Tamil Nadu
+OD5526,Kumar,Snacks,Noodles,Dharmapuri,,West,1485.0,0.25,668.25,Tamil Nadu
+OD5527,Suresh,Bakery,,,03-03-2018,West,1841.0,0.27,589.12,Tamil Nadu
+,Komal,Food Grains,Rice,Trichy,10-07-2018,West,,0.27,403.67,Tamil Nadu
+OD5529,Amy,Snacks,Noodles,Kanyakumari,8/31/2015,West,886.0,0.1,380.98,Tamil Nadu
+,Amy,Bakery,Cakes,Dharmapuri,4/17/2018,West,771.0,0.11,,
+OD5531,,"Eggs, Meat & Fish",Fish,Ooty,3/14/2015,West,1414.0,0.1,,Tamil Nadu
+OD5532,,Food Grains,,Namakkal,11/24/2018,West,1825.0,0.29,237.25,Tamil Nadu
+,Sudha,Fruits & Veggies,Organic Fruits,Cumbum,11/21/2018,West,,0.13,,
+OD5534,Arutra,Oil & Masala,Edible Oil & Ghee,Virudhunagar,,West,2367.0,0.27,284.04,Tamil Nadu
+,,Bakery,Cakes,Vellore,09-04-2018,West,1576.0,0.3,677.68,Tamil Nadu
+OD5536,Hafiz,Bakery,Breads & Buns,Nagercoil,10-09-2015,West,1463.0,0.17,526.68,Tamil Nadu
+OD5537,Yusuf,Fruits & Veggies,Fresh Fruits,Bodi,07-08-2017,West,1460.0,0.27,481.8,Tamil Nadu
+OD5539,Verma,,Fish,Tirunelveli,11-12-2017,West,,0.21,194.31,Tamil Nadu
+OD5540,Muneer,"Eggs, Meat & Fish",Eggs,Krishnagiri,8/17/2016,West,,0.18,784.04,Tamil Nadu
+OD5541,,"Eggs, Meat & Fish",Eggs,Coimbatore,9/19/2018,West,1001.0,,400.4,Tamil Nadu
+OD5542,Vidya,Snacks,Chocolates,Vellore,9/23/2018,West,2378.0,0.11,428.04,Tamil Nadu
+OD5543,Jonas,Oil & Masala,Masalas,Viluppuram,03-09-2018,West,,0.3,616.64,Tamil Nadu
+OD5544,Veronica,Oil & Masala,Spices,,,West,1927.0,0.11,,Tamil Nadu
+,Shah,Fruits & Veggies,Fresh Vegetables,Krishnagiri,9/29/2015,West,1879.0,0.22,,Tamil Nadu
+OD5547,Veronica,Snacks,Cookies,Ooty,11-04-2017,West,767.0,0.15,168.74,Tamil Nadu
+,,,Spices,Perambalur,,West,,0.23,872.09,Tamil Nadu
+OD5549,Hussain,Oil & Masala,Spices,Chennai,,West,1238.0,,247.6,Tamil Nadu
+OD5550,Vince,Beverages,,Tirunelveli,12/24/2016,West,1307.0,,,Tamil Nadu
+,,Oil & Masala,,Namakkal,09-02-2018,West,1863.0,0.29,577.53,Tamil Nadu
+,Sundar,Fruits & Veggies,,Ramanadhapuram,,West,800.0,0.2,,Tamil Nadu
+OD5553,Verma,"Eggs, Meat & Fish",Mutton,,6/23/2016,West,1094.0,,,
+OD5554,,"Eggs, Meat & Fish",,Vellore,12-06-2016,West,1378.0,,537.42,Tamil Nadu
+OD5555,Roshan,Bakery,Breads & Buns,,9/21/2015,West,,,150.5,Tamil Nadu
+,Sabeela,Snacks,Chocolates,Bodi,,West,2432.0,0.1,608.0,Tamil Nadu
+OD5557,Sudha,Fruits & Veggies,Organic Vegetables,Bodi,10/30/2018,West,2053.0,0.33,554.31,
+OD5559,Sheeba,,Fresh Fruits,,9/18/2017,West,,0.29,580.8,Tamil Nadu
+OD5560,,Fruits & Veggies,Organic Vegetables,Salem,05-12-2016,West,,,693.42,Tamil Nadu
+,James,"Eggs, Meat & Fish",Fish,,,West,1559.0,0.17,498.88,Tamil Nadu
+OD5563,Ram,Food Grains,,Trichy,9/27/2017,West,1759.0,,422.16,Tamil Nadu
+,Surya,"Eggs, Meat & Fish",Chicken,Vellore,10/18/2016,West,,0.15,711.9,
+OD5565,Sundar,Bakery,Biscuits,Bodi,08-08-2015,West,,0.27,166.72,
+OD5566,Mathew,Beverages,Health Drinks,Tirunelveli,9/25/2017,West,1017.0,0.24,355.95,
+,Amrish,Beverages,Health Drinks,Ooty,1/30/2016,West,1296.0,0.23,259.2,Tamil Nadu
+OD5568,Yadav,Bakery,Cakes,Perambalur,,West,2295.0,0.11,780.3,Tamil Nadu
+OD5570,Jonas,Snacks,,Chennai,,West,513.0,0.35,87.21,
+,,Snacks,,,,West,,0.31,,
+OD5574,Suresh,"Eggs, Meat & Fish",Mutton,Dindigul,8/15/2017,West,522.0,,,Tamil Nadu
+OD5575,Hafiz,Oil & Masala,Edible Oil & Ghee,Vellore,4/22/2016,West,855.0,0.34,136.8,Tamil Nadu
+OD5576,Akash,Fruits & Veggies,,Dharmapuri,,West,2311.0,0.28,323.54,Tamil Nadu
+OD5578,,Snacks,Cookies,Karur,8/28/2016,West,1938.0,0.14,542.64,Tamil Nadu
+OD5579,,Food Grains,Organic Staples,Dharmapuri,12/30/2016,West,2194.0,0.33,,
+OD5580,Sundar,"Eggs, Meat & Fish",Fish,,,West,1575.0,0.35,504.0,Tamil Nadu
+OD5581,Yusuf,Food Grains,Organic Staples,Pudukottai,11-08-2015,West,2021.0,0.32,727.56,Tamil Nadu
+OD5582,,Snacks,Noodles,Cumbum,7/14/2017,West,,,140.4,Tamil Nadu
+OD5583,Veena,Snacks,Cookies,Tenkasi,1/20/2018,West,2392.0,0.19,765.44,Tamil Nadu
+OD5584,Alan,,Cakes,Namakkal,08-07-2018,West,2398.0,0.24,407.66,Tamil Nadu
+OD5585,Sudeep,,Atta & Flour,Trichy,7/14/2018,West,1063.0,,457.09,Tamil Nadu
+OD5587,Alan,,Organic Staples,Cumbum,11-01-2015,West,1709.0,0.35,683.6,Tamil Nadu
+,Jonas,Beverages,Soft Drinks,Tenkasi,06-10-2018,West,799.0,0.15,287.64,Tamil Nadu
+OD5590,Muneer,Fruits & Veggies,Fresh Vegetables,Ramanadhapuram,12-06-2017,West,533.0,0.23,186.55,Tamil Nadu
+OD5591,,Fruits & Veggies,Fresh Fruits,,11/30/2015,West,1236.0,0.34,395.52,Tamil Nadu
+OD5592,Jonas,,Breads & Buns,,8/17/2016,West,1450.0,0.34,522.0,Tamil Nadu
+OD5593,Anu,Fruits & Veggies,Organic Vegetables,Chennai,12-11-2016,West,2274.0,0.24,159.18,Tamil Nadu
+OD5594,Malik,"Eggs, Meat & Fish",Mutton,Krishnagiri,05-10-2016,West,2316.0,0.12,,Tamil Nadu
+OD5595,Peer,Fruits & Veggies,,Tenkasi,11-04-2015,West,2436.0,0.11,,Tamil Nadu
+,James,Beverages,Health Drinks,,4/18/2015,West,2095.0,,,
+OD5598,Vidya,,Spices,Krishnagiri,08-06-2017,West,,0.32,747.84,Tamil Nadu
+,Sundar,Oil & Masala,Masalas,Nagercoil,09-02-2017,West,,0.26,42.36,Tamil Nadu
+,,Food Grains,Atta & Flour,Dharmapuri,6/24/2017,West,1585.0,0.1,713.25,
+OD5602,Veena,Beverages,Soft Drinks,Namakkal,,West,1975.0,0.27,,Tamil Nadu
+,,Oil & Masala,Edible Oil & Ghee,,11/17/2016,West,,0.28,,Tamil Nadu
+OD5604,Verma,Oil & Masala,,Krishnagiri,5/26/2017,West,2128.0,0.24,,
+,Vinne,,Cookies,Viluppuram,11/26/2015,West,2185.0,0.18,174.8,Tamil Nadu
+,Alan,"Eggs, Meat & Fish",Eggs,,04-02-2016,West,570.0,0.14,119.7,Tamil Nadu
+OD5609,Ram,Fruits & Veggies,Organic Vegetables,Madurai,11/13/2018,West,868.0,0.26,78.12,Tamil Nadu
+,,Beverages,,Theni,11/25/2015,West,,0.1,794.88,Tamil Nadu
+,Yusuf,,Fresh Vegetables,Theni,,West,2411.0,0.29,675.08,Tamil Nadu
+OD5613,Muneer,"Eggs, Meat & Fish",Eggs,Tirunelveli,6/18/2015,West,1151.0,0.22,253.22,Tamil Nadu
+OD5614,Arutra,,,Madurai,2/22/2017,West,1419.0,0.22,170.28,
+,Shree,,Breads & Buns,Trichy,,West,2248.0,0.32,112.4,Tamil Nadu
+OD5616,,Snacks,,,,West,1241.0,0.27,322.66,Tamil Nadu
+,Sudha,,Fresh Vegetables,Bodi,4/17/2016,West,1594.0,0.18,318.8,Tamil Nadu
+OD5618,Arutra,Oil & Masala,Spices,Theni,,West,1561.0,,156.1,Tamil Nadu
+OD5619,Jonas,,,Dindigul,05-10-2015,West,2442.0,,634.92,Tamil Nadu
+OD5620,Sharon,Fruits & Veggies,Fresh Fruits,Ramanadhapuram,8/14/2017,West,770.0,0.12,53.9,Tamil Nadu
+OD5621,Peer,Snacks,Cookies,Nagercoil,12/30/2016,West,2340.0,0.21,468.0,Tamil Nadu
+OD5623,Alan,"Eggs, Meat & Fish",Fish,Vellore,,West,1353.0,0.19,,
+OD5624,Muneer,,Cakes,Bodi,09-07-2018,West,2333.0,0.13,839.88,Tamil Nadu
+OD5625,Vince,,Organic Staples,,5/22/2016,West,1653.0,0.18,743.85,
+OD5626,Ram,Beverages,Health Drinks,Madurai,10-07-2018,West,2442.0,0.15,805.86,Tamil Nadu
+OD5628,Sudha,Fruits & Veggies,Fresh Fruits,,9/15/2018,West,1140.0,0.32,478.8,
+OD5629,,,,Dindigul,,West,2369.0,0.17,829.15,Tamil Nadu
+,Vinne,Bakery,Breads & Buns,Theni,,West,1042.0,0.11,166.72,Tamil Nadu
+OD5632,Akash,Food Grains,Rice,Ooty,8/25/2015,West,1120.0,0.19,67.2,Tamil Nadu
+OD5633,,Beverages,Soft Drinks,,9/25/2017,West,,0.28,599.9,Tamil Nadu
+OD5634,Yusuf,Fruits & Veggies,,Nagercoil,11-10-2015,West,1024.0,0.16,286.72,
+OD5635,Esther,Food Grains,,Cumbum,08-12-2015,West,944.0,0.35,94.4,Tamil Nadu
+OD5636,Ramesh,,Eggs,,08-12-2018,West,1154.0,0.23,346.2,Tamil Nadu
+OD5637,Ram,Food Grains,Atta & Flour,Ramanadhapuram,6/26/2018,West,,,314.36,Tamil Nadu
+OD5639,Verma,Food Grains,Dals & Pulses,,5/20/2018,West,2406.0,0.11,312.78,Tamil Nadu
+OD5640,Muneer,,,Namakkal,12-08-2015,West,,,,Tamil Nadu
+OD5641,,Bakery,Cakes,,9/17/2015,West,1187.0,0.13,189.92,Tamil Nadu
+OD5643,,Snacks,Cookies,Tenkasi,,West,1712.0,0.14,650.56,Tamil Nadu
+OD5707,Jonas,Oil & Masala,,Nagercoil,01-08-2018,West,743.0,0.19,118.88,Tamil Nadu
+OD5708,Ram,Bakery,Cakes,Tenkasi,9/13/2016,West,,0.26,249.48,Tamil Nadu
+OD5710,Sundar,Oil & Masala,Masalas,Bodi,9/13/2016,West,680.0,0.22,292.4,
+OD5711,Akash,Snacks,,Coimbatore,4/15/2018,West,1298.0,0.25,272.58,
+OD5712,Arutra,Fruits & Veggies,Fresh Fruits,,09-06-2015,West,1762.0,,176.2,
+OD5714,Ram,Food Grains,Atta & Flour,Coimbatore,9/13/2016,West,2398.0,0.23,167.86,
+OD5716,Ridhesh,,,Salem,05-04-2015,West,933.0,0.25,121.29,Tamil Nadu
+OD5718,Sudha,Bakery,,,11/16/2015,West,563.0,0.29,180.16,Tamil Nadu
+OD5719,Ridhesh,Beverages,Health Drinks,Chennai,,West,1615.0,0.16,,Tamil Nadu
+OD5721,Haseena,Food Grains,Organic Staples,Theni,8/31/2016,West,,0.13,389.07,Tamil Nadu
+OD5722,Veena,Fruits & Veggies,Fresh Vegetables,,04-01-2018,West,1061.0,0.25,435.01,Tamil Nadu
+OD5723,Vince,Bakery,Breads & Buns,Tenkasi,10-10-2017,West,,0.21,435.82,Tamil Nadu
+OD5724,Suresh,Food Grains,Rice,,10/27/2018,West,,0.12,262.08,Tamil Nadu
+OD5726,Ridhesh,"Eggs, Meat & Fish",Eggs,Chennai,10/21/2018,West,1629.0,0.23,488.7,Tamil Nadu
+OD5727,Verma,Food Grains,Rice,,,West,1424.0,0.14,185.12,
+,Malik,"Eggs, Meat & Fish",Chicken,Virudhunagar,8/16/2017,West,,0.3,147.52,Tamil Nadu
+OD5729,Sudeep,,Masalas,Cumbum,9/13/2016,West,701.0,0.14,35.05,Tamil Nadu
+OD5730,Krithika,Bakery,Cakes,,,West,2229.0,0.18,222.9,Tamil Nadu
+OD5731,,Bakery,Biscuits,Vellore,,West,1322.0,,,Tamil Nadu
+OD5732,Mathew,Snacks,,Namakkal,10/15/2018,West,2154.0,0.31,,Tamil Nadu
+OD5734,Yadav,Beverages,Soft Drinks,Trichy,8/26/2017,West,2191.0,,525.84,Tamil Nadu
+OD5736,Sudeep,"Eggs, Meat & Fish",Fish,,09-11-2016,West,1784.0,0.35,,Tamil Nadu
+OD5737,Arutra,"Eggs, Meat & Fish",Fish,Dharmapuri,6/25/2015,West,2072.0,0.24,890.96,Tamil Nadu
+OD5738,Sharon,"Eggs, Meat & Fish",Fish,,12/28/2018,West,2351.0,0.16,1057.95,Tamil Nadu
+OD5739,Haseena,Fruits & Veggies,Fresh Fruits,Krishnagiri,10-10-2017,West,1466.0,0.13,234.56,Tamil Nadu
+OD5740,Haseena,Food Grains,Rice,Trichy,05-11-2018,West,1600.0,,288.0,Tamil Nadu
+OD5756,Muneer,Oil & Masala,,Chennai,9/26/2018,West,2091.0,0.3,,Tamil Nadu
+OD5757,Arutra,Bakery,,Dindigul,03-03-2017,West,1546.0,0.25,386.5,Tamil Nadu
+OD5759,Veena,Food Grains,Atta & Flour,Nagercoil,09-01-2018,West,1141.0,,102.69,
+OD5760,Arvind,Food Grains,,Vellore,,West,2108.0,0.32,927.52,Tamil Nadu
+,Sharon,"Eggs, Meat & Fish",Eggs,Nagercoil,09-10-2018,West,1659.0,0.16,663.6,Tamil Nadu
+OD5762,Sundar,Snacks,Noodles,Cumbum,,West,,0.22,,Tamil Nadu
+OD5763,Arutra,Fruits & Veggies,Fresh Vegetables,,7/16/2016,West,1483.0,0.35,652.52,Tamil Nadu
+,Kumar,Beverages,Health Drinks,Dharmapuri,,West,1792.0,0.2,645.12,Tamil Nadu
+,Sharon,Oil & Masala,,Salem,10/25/2016,West,2229.0,0.29,958.47,Tamil Nadu
+OD5841,Veronica,Beverages,,Viluppuram,12/16/2018,West,1646.0,0.22,197.52,Tamil Nadu
+OD5842,Jackson,"Eggs, Meat & Fish",Mutton,Pudukottai,,West,,0.31,255.24,Tamil Nadu
+OD5843,Suresh,Food Grains,Dals & Pulses,Pudukottai,,West,573.0,0.25,126.06,Tamil Nadu
+OD5845,Sudeep,,Noodles,Coimbatore,9/17/2018,West,1603.0,0.25,112.21,Tamil Nadu
+OD5846,Muneer,Bakery,Cakes,Salem,11/25/2015,West,1958.0,0.12,313.28,Tamil Nadu
+OD5848,Ganesh,Fruits & Veggies,Fresh Vegetables,,02-09-2018,West,588.0,,170.52,Tamil Nadu
+OD5850,Vince,Beverages,Health Drinks,Krishnagiri,3/24/2016,West,1364.0,0.26,422.84,Tamil Nadu
+OD5851,Vidya,"Eggs, Meat & Fish",Fish,Tirunelveli,,West,1212.0,0.35,278.76,Tamil Nadu
+,Sudeep,Oil & Masala,Masalas,,8/19/2015,West,976.0,0.33,97.6,Tamil Nadu
+OD5853,Roshan,Fruits & Veggies,,Ooty,,West,1223.0,0.13,61.15,Tamil Nadu
+OD5854,Sharon,Oil & Masala,,Virudhunagar,07-02-2017,West,1053.0,0.25,294.84,Tamil Nadu
+OD5855,James,Beverages,Soft Drinks,,11-04-2017,West,2039.0,,570.92,
+OD5856,Komal,,Biscuits,Pudukottai,,West,853.0,0.25,93.83,Tamil Nadu
+,Krithika,Snacks,Noodles,Viluppuram,12/16/2018,West,2450.0,,1053.5,Tamil Nadu
+,Verma,Beverages,Soft Drinks,Tirunelveli,12/16/2018,West,,0.13,363.22,
+,,"Eggs, Meat & Fish",Mutton,,,West,,0.35,,
+OD5860,,,Soft Drinks,,08-02-2017,West,787.0,,165.27,Tamil Nadu
+OD5861,,Oil & Masala,Masalas,Ooty,12/14/2016,West,,0.3,153.7,
+OD5862,Esther,Beverages,Soft Drinks,,,West,1489.0,0.11,253.13,Tamil Nadu
+OD5863,Ravi,Fruits & Veggies,Fresh Fruits,,10/19/2018,West,,0.21,271.26,
+OD5864,Hafiz,"Eggs, Meat & Fish",Chicken,Coimbatore,8/27/2018,West,,0.21,105.84,Tamil Nadu
+OD5865,Veronica,Fruits & Veggies,,Trichy,,West,797.0,0.11,47.82,Tamil Nadu
+,,Beverages,Health Drinks,Perambalur,,West,,0.33,78.87,Tamil Nadu
+OD5868,Anu,Beverages,,Perambalur,11-04-2017,West,1070.0,0.18,,
+OD5870,Jonas,Beverages,Health Drinks,Ooty,,West,930.0,0.2,,Tamil Nadu
+OD5871,,,Health Drinks,Namakkal,10/30/2016,West,1278.0,0.23,383.4,Tamil Nadu
+OD5872,Arvind,Oil & Masala,Spices,Nagercoil,8/21/2018,West,2174.0,0.25,,Tamil Nadu
+OD6122,,Oil & Masala,Masalas,Dharmapuri,3/16/2016,West,2163.0,0.25,800.31,Tamil Nadu
+OD6123,,,Spices,,,West,1568.0,0.35,,Tamil Nadu
+OD6124,Veena,Oil & Masala,Masalas,,,West,1093.0,,109.3,Tamil Nadu
+OD6125,Peer,Fruits & Veggies,Fresh Fruits,Dharmapuri,04-06-2015,West,1146.0,,252.12,Tamil Nadu
+OD6127,Peer,Fruits & Veggies,,Perambalur,3/22/2016,West,,0.35,534.6,Tamil Nadu
+OD6128,Hafiz,,Organic Fruits,,02-02-2018,West,2091.0,0.11,334.56,Tamil Nadu
+OD6129,Ram,,Organic Staples,,12-05-2016,West,1003.0,,451.35,Tamil Nadu
+OD6130,Haseena,Oil & Masala,Spices,Theni,,West,517.0,0.29,,Tamil Nadu
+OD6131,Arutra,Fruits & Veggies,Fresh Vegetables,Virudhunagar,4/30/2018,West,1804.0,0.23,306.68,Tamil Nadu
+,James,Oil & Masala,,Krishnagiri,12/28/2018,West,1934.0,0.1,464.16,Tamil Nadu
+OD6134,,Bakery,Breads & Buns,Viluppuram,11/19/2017,West,,0.33,56.88,Tamil Nadu
+OD6136,Veena,Oil & Masala,Spices,,11/16/2016,West,,0.25,168.66,Tamil Nadu
+OD6137,Malik,Food Grains,Rice,,5/14/2016,West,2444.0,0.23,,
+OD6138,Akash,Food Grains,Dals & Pulses,,9/24/2016,West,1958.0,0.2,665.72,Tamil Nadu
+,,,Atta & Flour,Dindigul,,West,2212.0,0.35,995.4,Tamil Nadu
+OD6140,Verma,Bakery,,Virudhunagar,11-07-2017,West,636.0,0.29,,Tamil Nadu
+,Ridhesh,"Eggs, Meat & Fish",Mutton,,12-08-2015,West,,0.2,178.92,Tamil Nadu
+OD6142,Shree,"Eggs, Meat & Fish",,,12-02-2017,West,825.0,,49.5,Tamil Nadu
+OD6143,Shree,Oil & Masala,Edible Oil & Ghee,,8/18/2018,West,529.0,0.1,111.09,Tamil Nadu
+OD6144,,,Organic Vegetables,,9/15/2017,West,1011.0,,333.63,Tamil Nadu
+,Muneer,,Soft Drinks,Dindigul,,West,1024.0,0.31,378.88,Tamil Nadu
+OD6146,,Fruits & Veggies,Organic Vegetables,Tirunelveli,,West,1226.0,0.28,,Tamil Nadu
+OD6147,,Snacks,Chocolates,Cumbum,11/18/2015,West,1515.0,0.32,212.1,Tamil Nadu
+OD6148,Akash,Beverages,Soft Drinks,Tirunelveli,10-05-2018,West,,0.35,199.87,Tamil Nadu
+OD6149,,,Health Drinks,Tenkasi,12/29/2015,West,1483.0,0.31,533.88,Tamil Nadu
+OD6150,Yadav,Snacks,,Virudhunagar,1/22/2017,West,2112.0,0.31,232.32,
+OD6151,Amrish,Food Grains,Atta & Flour,Tirunelveli,09-10-2016,West,1001.0,,340.34,Tamil Nadu
+OD6152,Rumaiza,Fruits & Veggies,,Dharmapuri,10/20/2016,West,1083.0,0.19,292.41,Tamil Nadu
+OD6154,Amrish,Snacks,Cookies,,04-06-2015,West,,0.26,160.0,Tamil Nadu
+OD6155,Veronica,,Atta & Flour,,6/14/2017,West,1414.0,0.1,,Tamil Nadu
+OD6156,James,Snacks,,,7/30/2015,West,1275.0,0.3,63.75,Tamil Nadu
+,Peer,,Eggs,Ooty,5/30/2017,West,1852.0,0.3,629.68,Tamil Nadu
+OD6160,,Bakery,Cakes,,3/26/2016,West,,,335.94,Tamil Nadu
+,,Bakery,Breads & Buns,Nagercoil,12-01-2018,West,1250.0,0.32,187.5,Tamil Nadu
+OD6162,Alan,Snacks,Cookies,Coimbatore,5/26/2015,West,720.0,,64.8,Tamil Nadu
+OD6163,,Food Grains,,Ramanadhapuram,9/16/2017,West,1808.0,0.16,379.68,
+OD6164,Aditi,Fruits & Veggies,Organic Vegetables,Virudhunagar,04-12-2015,West,1890.0,0.18,680.4,Tamil Nadu
+OD6165,,Beverages,Health Drinks,Ramanadhapuram,9/23/2015,West,659.0,0.16,250.42,
+,Ram,Oil & Masala,Masalas,Cumbum,5/14/2016,West,777.0,0.2,108.78,Tamil Nadu
+OD6167,Vidya,Beverages,Soft Drinks,Coimbatore,9/26/2017,West,1465.0,0.22,205.1,Tamil Nadu
+OD6168,Sudha,,,,8/21/2016,West,1154.0,0.22,323.12,Tamil Nadu
+OD6169,Sundar,Bakery,Breads & Buns,Kanyakumari,,West,1060.0,0.22,434.6,Tamil Nadu
+,,Beverages,Health Drinks,Salem,,West,,0.22,556.65,Tamil Nadu
+OD6172,Ganesh,Beverages,Soft Drinks,,5/14/2016,West,808.0,0.34,266.64,Tamil Nadu
+OD6173,Sundar,"Eggs, Meat & Fish",Eggs,Karur,4/28/2017,West,,,235.9,Tamil Nadu
+OD6174,Malik,Fruits & Veggies,Organic Vegetables,Perambalur,9/18/2017,West,,0.26,224.28,Tamil Nadu
+OD6175,,Beverages,Health Drinks,Pudukottai,7/21/2015,West,703.0,,,Tamil Nadu
+OD6176,Ganesh,"Eggs, Meat & Fish",Eggs,Ramanadhapuram,03-07-2015,West,823.0,,370.35,Tamil Nadu
+OD6177,Amrish,Food Grains,Atta & Flour,Nagercoil,7/26/2016,West,1841.0,0.2,128.87,
+OD6178,Verma,,Fresh Vegetables,Trichy,3/22/2015,West,,0.31,86.84,Tamil Nadu
+,Amy,Oil & Masala,,Tirunelveli,,West,1701.0,,680.4,Tamil Nadu
+OD6180,Kumar,Bakery,Biscuits,Bodi,12/26/2017,West,,0.15,497.65,Tamil Nadu
+OD6181,Ram,Fruits & Veggies,Fresh Fruits,Krishnagiri,04-05-2016,West,1755.0,0.16,403.65,Tamil Nadu
+OD6182,Jackson,"Eggs, Meat & Fish",Fish,Salem,7/26/2018,West,721.0,0.31,281.19,Tamil Nadu
+,,,Organic Staples,Madurai,4/26/2015,West,828.0,0.24,,
+OD6185,Muneer,Bakery,Cakes,Tenkasi,4/26/2016,West,602.0,0.34,,Tamil Nadu
+OD6186,Akash,Bakery,Biscuits,Dharmapuri,11-09-2018,West,2207.0,0.17,617.96,Tamil Nadu
+OD6187,,,Chocolates,Tenkasi,,West,836.0,,259.16,
+OD6188,Adavan,,Dals & Pulses,Dindigul,7/18/2017,West,2353.0,,188.24,Tamil Nadu
+OD6189,Hussain,Oil & Masala,,Dindigul,12-10-2015,West,,0.32,596.0,Tamil Nadu
+OD6190,,Bakery,Biscuits,,,West,1563.0,,296.97,
+OD6192,,Food Grains,Dals & Pulses,Perambalur,12/13/2015,West,1719.0,0.24,618.84,Tamil Nadu
+OD6193,Kumar,,Spices,Theni,,West,916.0,0.25,,Tamil Nadu
+OD6195,Yusuf,Snacks,Chocolates,Vellore,,West,2416.0,,507.36,
+OD6196,Jackson,,,,,West,1700.0,,629.0,Tamil Nadu
+OD6197,Roshan,"Eggs, Meat & Fish",Chicken,Namakkal,12/26/2017,West,1681.0,0.28,,
+OD6198,Akash,Bakery,Cakes,Ramanadhapuram,9/14/2016,West,1544.0,0.2,,Tamil Nadu
+OD6200,Ridhesh,"Eggs, Meat & Fish",Mutton,Pudukottai,10-03-2018,West,1350.0,0.17,486.0,Tamil Nadu
+OD6201,Haseena,,,Virudhunagar,07-08-2015,West,504.0,,171.36,Tamil Nadu
+OD6202,Mathew,Snacks,Chocolates,Tenkasi,12/24/2016,West,2198.0,0.13,945.14,Tamil Nadu
+OD6203,Vince,Oil & Masala,Masalas,Nagercoil,,West,1902.0,0.19,798.84,Tamil Nadu
+OD6204,Surya,Fruits & Veggies,Organic Fruits,Ooty,10/20/2017,West,1138.0,0.11,386.92,
+OD6206,,Beverages,Soft Drinks,Madurai,,West,,0.12,184.23,Tamil Nadu
+OD6207,Aditi,,Health Drinks,Tirunelveli,5/16/2015,West,,0.32,58.72,
+OD6208,Sudha,,,,9/24/2017,West,2168.0,0.21,498.64,Tamil Nadu
+,,Bakery,Biscuits,Perambalur,10/31/2017,West,2259.0,0.32,451.8,Tamil Nadu
+OD6211,,Fruits & Veggies,Fresh Fruits,Theni,12-02-2018,West,1802.0,0.16,90.1,Tamil Nadu
+OD6212,Ramesh,Food Grains,Organic Staples,Theni,05-12-2018,West,1074.0,0.16,,
+OD6213,Jonas,,Chocolates,Theni,4/13/2018,West,,0.25,477.7,
+OD6214,Surya,"Eggs, Meat & Fish",Mutton,Cumbum,5/13/2015,West,1568.0,0.15,329.28,Tamil Nadu
+,,Bakery,,Bodi,11/24/2017,West,,0.24,,Tamil Nadu
+OD6216,Haseena,Bakery,,,12/24/2015,West,2387.0,0.22,644.49,Tamil Nadu
+OD6217,Adavan,,Health Drinks,Bodi,03-07-2015,West,,0.14,801.5,Tamil Nadu
+OD6218,Hussain,Snacks,Cookies,Bodi,,West,786.0,0.1,86.46,Tamil Nadu
+OD6219,,"Eggs, Meat & Fish",Fish,Salem,12-08-2017,West,1225.0,0.1,196.0,Tamil Nadu
+,,"Eggs, Meat & Fish",Mutton,Madurai,4/30/2017,West,,0.19,863.1,Tamil Nadu
+OD6221,Ram,,Dals & Pulses,Kanyakumari,9/22/2017,West,,,697.2,Tamil Nadu
+OD6222,Malik,Snacks,Cookies,Namakkal,03-03-2018,West,1754.0,0.22,,Tamil Nadu
+,Akash,Food Grains,,Krishnagiri,9/19/2018,West,,,875.48,Tamil Nadu
+OD6226,,Snacks,Noodles,Tirunelveli,9/18/2017,West,2439.0,0.32,999.99,Tamil Nadu
+OD6227,Peer,Food Grains,Organic Staples,Dharmapuri,8/21/2017,West,1937.0,0.34,,Tamil Nadu
+,Amrish,Oil & Masala,Spices,,9/19/2015,West,888.0,0.1,257.52,Tamil Nadu
+OD6229,Ram,,Cakes,Viluppuram,,West,1476.0,0.22,,
+OD6231,Suresh,Bakery,Breads & Buns,Madurai,10/22/2018,West,1245.0,0.27,311.25,Tamil Nadu
+,Suresh,Food Grains,Rice,Kanyakumari,12/19/2017,West,795.0,0.15,87.45,Tamil Nadu
+OD6233,Amy,Oil & Masala,Masalas,Cumbum,9/19/2018,West,,0.21,622.96,Tamil Nadu
+,Yusuf,Food Grains,,Tenkasi,9/30/2018,West,582.0,,128.04,Tamil Nadu
+OD6412,,Food Grains,Atta & Flour,Karur,11-11-2015,West,1319.0,,527.6,
+OD6413,Vidya,Food Grains,Atta & Flour,Pudukottai,4/13/2018,West,1071.0,0.17,278.46,Tamil Nadu
+OD6414,,"Eggs, Meat & Fish",Fish,Bodi,9/21/2018,West,1189.0,0.25,487.49,
+OD6415,Harish,Bakery,Biscuits,Dindigul,9/28/2016,West,,0.12,133.98,Tamil Nadu
+OD6416,Sudeep,Food Grains,,Dharmapuri,,West,1279.0,0.26,511.6,Tamil Nadu
+OD6417,Sudha,,Atta & Flour,Perambalur,,West,1398.0,0.25,139.8,Tamil Nadu
+OD6418,Krithika,Food Grains,Atta & Flour,Salem,12/19/2015,West,1389.0,,416.7,Tamil Nadu
+OD6420,,Snacks,Noodles,Chennai,,West,1646.0,0.31,576.1,Tamil Nadu
+,Yadav,Fruits & Veggies,,Coimbatore,12-04-2018,West,519.0,0.11,,Tamil Nadu
+OD6422,,"Eggs, Meat & Fish",Fish,Trichy,7/20/2015,West,1104.0,0.25,331.2,Tamil Nadu
+,Komal,Fruits & Veggies,Organic Fruits,Theni,,West,1656.0,0.16,,Tamil Nadu
+OD6424,Komal,Oil & Masala,,Perambalur,,West,1834.0,0.1,623.56,Tamil Nadu
+OD6425,Sudha,"Eggs, Meat & Fish",,Nagercoil,9/30/2018,West,1968.0,,,Tamil Nadu
+,Rumaiza,,Cookies,Virudhunagar,3/19/2016,West,2010.0,0.21,402.0,Tamil Nadu
+OD6427,Mathew,,,Vellore,,West,2069.0,,,Tamil Nadu
+OD6430,Akash,Fruits & Veggies,,Salem,9/28/2016,West,,0.32,307.12,Tamil Nadu
+OD6433,Arvind,Fruits & Veggies,Organic Vegetables,Namakkal,10-10-2016,West,2361.0,0.11,,Tamil Nadu
+OD6434,Verma,,,Perambalur,,West,,,274.17,Tamil Nadu
+OD6435,,Fruits & Veggies,Organic Fruits,Ramanadhapuram,3/28/2018,West,,0.32,267.26,Tamil Nadu
+OD6436,Vince,Bakery,Biscuits,,,West,1339.0,0.12,307.97,Tamil Nadu
+OD6437,Harish,Snacks,Chocolates,Namakkal,11/16/2015,West,1244.0,0.35,223.92,Tamil Nadu
+,Suresh,Snacks,Cookies,Dharmapuri,7/20/2015,West,2001.0,0.34,100.05,
+OD6439,Ridhesh,Fruits & Veggies,,Virudhunagar,3/19/2016,West,2457.0,0.1,515.97,Tamil Nadu
+OD6440,Jackson,Oil & Masala,Masalas,,05-04-2015,West,590.0,,,
+,Kumar,Bakery,Cakes,,,West,,0.1,75.24,Tamil Nadu
+OD6445,Willams,Fruits & Veggies,Organic Fruits,Coimbatore,11-12-2016,West,1919.0,0.34,211.09,Tamil Nadu
+,Ganesh,Beverages,Health Drinks,Perambalur,10/15/2018,West,,0.17,349.6,
+OD6447,Shah,Snacks,Chocolates,Perambalur,,West,503.0,0.33,,
+OD6448,Roshan,,Edible Oil & Ghee,Pudukottai,,West,1073.0,0.23,375.55,Tamil Nadu
+OD6449,Shree,Fruits & Veggies,Fresh Fruits,Virudhunagar,9/25/2018,West,941.0,0.12,329.35,Tamil Nadu
+OD6451,Willams,Bakery,,,10-10-2016,West,1531.0,,382.75,Tamil Nadu
+OD6452,Sundar,Bakery,Biscuits,,11/17/2015,West,791.0,0.33,324.31,
+OD6453,Ganesh,,Organic Vegetables,Perambalur,,West,685.0,0.35,68.5,
+,Amy,,Eggs,Tenkasi,12-06-2015,West,672.0,0.28,302.4,Tamil Nadu
+OD6455,Vince,Fruits & Veggies,Organic Vegetables,,09-06-2015,West,2070.0,0.18,248.4,Tamil Nadu
+OD6456,,Oil & Masala,Masalas,Trichy,12-02-2018,West,1756.0,0.17,280.96,Tamil Nadu
+OD6457,Muneer,Oil & Masala,Edible Oil & Ghee,,12/14/2017,West,1987.0,0.31,258.31,Tamil Nadu
+OD6458,Sudha,Fruits & Veggies,Fresh Vegetables,Kanyakumari,3/23/2016,West,1115.0,0.33,,Tamil Nadu
+,Yadav,Beverages,Soft Drinks,Salem,03-08-2016,West,,0.22,194.95,
+,,Fruits & Veggies,Fresh Fruits,Krishnagiri,08-04-2018,West,752.0,0.19,90.24,Tamil Nadu
+OD6462,Vince,Bakery,Breads & Buns,Krishnagiri,07-04-2015,West,2011.0,0.2,,Tamil Nadu
+OD6464,Shah,Snacks,Cookies,Tirunelveli,04-04-2015,West,,0.29,661.33,Tamil Nadu
+OD6465,Haseena,"Eggs, Meat & Fish",Fish,Tirunelveli,,West,1640.0,0.35,639.6,Tamil Nadu
+OD6466,,"Eggs, Meat & Fish",Eggs,,3/15/2017,West,,0.27,546.12,Tamil Nadu
+OD6467,Ganesh,Snacks,Noodles,Tirunelveli,05-05-2017,West,2468.0,0.12,394.88,
+OD6468,Komal,Snacks,Chocolates,Trichy,,West,1581.0,,300.39,Tamil Nadu
+OD6469,Malik,"Eggs, Meat & Fish",Mutton,Vellore,10-02-2015,West,,0.16,179.84,Tamil Nadu
+,Verma,,,Namakkal,10-02-2015,West,546.0,0.22,212.94,Tamil Nadu
+OD6473,Krithika,,Masalas,Tirunelveli,10-02-2015,West,1170.0,0.27,,Tamil Nadu
+,Akash,Bakery,Breads & Buns,Vellore,9/13/2016,West,,0.29,571.48,Tamil Nadu
+,Hussain,Beverages,Health Drinks,Theni,11-12-2018,West,1643.0,0.26,394.32,Tamil Nadu
+OD6478,James,,Eggs,Salem,11/20/2016,West,1020.0,0.16,204.0,Tamil Nadu
+OD6480,,Fruits & Veggies,Fresh Fruits,Bodi,09-11-2017,West,1000.0,0.29,420.0,
+OD6481,Surya,Beverages,,,07-04-2015,West,632.0,0.35,,Tamil Nadu
+,,Oil & Masala,Spices,Viluppuram,8/31/2016,West,2260.0,0.15,,Tamil Nadu
+OD6483,Shree,,Edible Oil & Ghee,Coimbatore,4/13/2018,West,1929.0,0.18,327.93,
+,Hussain,Beverages,,Perambalur,11/14/2016,West,2313.0,0.25,138.78,Tamil Nadu
+OD6485,Sheeba,Snacks,Cookies,,10-02-2015,West,2078.0,0.33,914.32,Tamil Nadu
+,Adavan,Beverages,Soft Drinks,,12-09-2017,West,,0.31,708.76,
+OD6487,Vidya,Oil & Masala,Masalas,Nagercoil,1/14/2018,West,2388.0,0.14,692.52,Tamil Nadu
+,Sudha,Beverages,Soft Drinks,Dindigul,11-10-2018,West,787.0,0.19,165.27,Tamil Nadu
+OD6530,Sudeep,"Eggs, Meat & Fish",,Virudhunagar,08-01-2017,West,,0.19,,Tamil Nadu
+OD6531,James,,Edible Oil & Ghee,,,West,1431.0,0.1,558.09,
+OD6532,Krithika,"Eggs, Meat & Fish",Chicken,Namakkal,,West,,0.15,118.26,Tamil Nadu
+OD6533,Amy,"Eggs, Meat & Fish",,Chennai,,West,740.0,,148.0,Tamil Nadu
+OD6535,Akash,,Cookies,,8/29/2015,West,2439.0,0.34,634.14,Tamil Nadu
+OD6536,Rumaiza,Food Grains,Organic Staples,Ramanadhapuram,6/26/2017,West,1620.0,0.11,712.8,Tamil Nadu
+OD6537,Ridhesh,Beverages,Soft Drinks,Perambalur,12-02-2018,West,1032.0,0.23,464.4,Tamil Nadu
+OD6538,Surya,Snacks,Noodles,Krishnagiri,03-03-2017,West,1192.0,0.28,441.04,Tamil Nadu
+OD6539,Veena,Beverages,Health Drinks,Karur,09-01-2018,West,1643.0,0.35,476.47,Tamil Nadu
+OD6540,,Fruits & Veggies,Organic Fruits,Tirunelveli,6/26/2017,West,525.0,0.33,220.5,Tamil Nadu
+,,,Noodles,Dindigul,12-02-2018,West,,0.27,963.63,
+OD6542,,Snacks,Cookies,Tirunelveli,,West,1522.0,0.23,487.04,
+,Harish,,Chicken,Madurai,9/26/2018,West,1249.0,0.1,449.64,Tamil Nadu
+OD6544,Vinne,Bakery,Biscuits,Nagercoil,10-10-2015,West,,0.1,230.4,Tamil Nadu
+,,Bakery,Cakes,Nagercoil,12-02-2018,West,1900.0,0.1,722.0,Tamil Nadu
+OD6548,Akash,Beverages,Health Drinks,Ooty,6/28/2017,West,,0.17,,Tamil Nadu
+OD6549,Hussain,Beverages,,Vellore,8/24/2015,West,713.0,0.1,57.04,Tamil Nadu
+OD6550,Arutra,Beverages,,Kanyakumari,,West,1450.0,,,Tamil Nadu
+OD6551,Krithika,Bakery,Cakes,Dindigul,9/26/2018,West,2371.0,0.18,331.94,Tamil Nadu
+OD6552,Shah,"Eggs, Meat & Fish",Mutton,Theni,9/26/2018,West,993.0,0.16,307.83,Tamil Nadu
+OD6553,Veronica,Snacks,Noodles,Karur,,West,794.0,0.31,63.52,Tamil Nadu
+OD6780,Rumaiza,,Mutton,,,West,,0.25,394.38,Tamil Nadu
+OD6781,Sharon,Oil & Masala,Masalas,Namakkal,8/15/2017,West,647.0,0.3,187.63,
+OD6783,Ridhesh,Beverages,,Viluppuram,12/14/2016,West,,0.12,198.36,
+OD6784,,,Edible Oil & Ghee,Chennai,12-06-2018,West,,0.12,704.63,Tamil Nadu
+OD6785,,"Eggs, Meat & Fish",Fish,Ooty,,West,1998.0,0.21,619.38,Tamil Nadu
+OD6786,Arvind,"Eggs, Meat & Fish",,Krishnagiri,,West,,0.29,117.44,Tamil Nadu
+OD6787,,Food Grains,,Vellore,1/28/2017,West,756.0,0.3,166.32,Tamil Nadu
+OD6788,Aditi,Snacks,,Kanyakumari,8/26/2017,West,2428.0,0.15,655.56,Tamil Nadu
+,Rumaiza,Beverages,Health Drinks,Dindigul,3/26/2015,West,,0.26,,Tamil Nadu
+OD6790,Anu,"Eggs, Meat & Fish",Chicken,Cumbum,10/19/2018,West,2310.0,0.14,392.7,Tamil Nadu
+,Vidya,,Chicken,Dharmapuri,,West,,0.11,561.29,Tamil Nadu
+OD6792,Amy,,,,7/22/2017,West,,0.33,496.0,Tamil Nadu
+,Jonas,"Eggs, Meat & Fish",Chicken,Trichy,9/19/2016,West,2105.0,0.35,484.15,Tamil Nadu
+OD6794,Malik,,Masalas,Theni,,West,,,1001.63,
+OD6795,Rumaiza,,Noodles,Pudukottai,09-07-2015,West,1293.0,,478.41,Tamil Nadu
+OD6796,Komal,Fruits & Veggies,Fresh Fruits,,12-12-2016,West,2476.0,0.32,,Tamil Nadu
+OD6797,Sabeela,,Fish,Tenkasi,7/17/2018,West,2389.0,0.21,645.03,Tamil Nadu
+OD6799,Verma,"Eggs, Meat & Fish",Fish,Namakkal,9/24/2017,West,,0.2,,Tamil Nadu
+OD6800,Vidya,,,Pudukottai,7/27/2015,West,1131.0,0.31,260.13,Tamil Nadu
+OD6801,Sharon,Snacks,Cookies,Vellore,03-06-2018,West,706.0,0.31,275.34,Tamil Nadu
+OD6802,Veronica,"Eggs, Meat & Fish",Eggs,Madurai,9/17/2018,West,2367.0,,852.12,Tamil Nadu
+OD6803,,Food Grains,Organic Staples,Trichy,9/23/2017,West,1009.0,0.22,242.16,Tamil Nadu
+OD6804,Anu,Snacks,Chocolates,Trichy,,West,,0.18,426.72,Tamil Nadu
+OD6805,Shree,"Eggs, Meat & Fish",,Kanyakumari,04-06-2015,West,823.0,0.12,98.76,Tamil Nadu
+OD6807,Amrish,,Breads & Buns,Vellore,12-04-2016,West,,0.23,795.48,Tamil Nadu
+OD6810,Surya,"Eggs, Meat & Fish",Fish,Virudhunagar,4/15/2018,West,,,386.46,Tamil Nadu
+OD6811,Roshan,"Eggs, Meat & Fish",Fish,Cumbum,,West,852.0,,323.76,Tamil Nadu
+OD6812,Yusuf,,Breads & Buns,,09-11-2018,West,747.0,,,Tamil Nadu
+OD6813,Arvind,Fruits & Veggies,Fresh Fruits,Ramanadhapuram,06-09-2015,West,1355.0,0.19,,Tamil Nadu
+OD6814,,"Eggs, Meat & Fish",Eggs,Virudhunagar,9/17/2018,West,2297.0,0.17,643.16,Tamil Nadu
+OD6816,Willams,Fruits & Veggies,Fresh Vegetables,Theni,3/13/2017,West,1400.0,,196.0,Tamil Nadu
+,,Bakery,Breads & Buns,Virudhunagar,11/15/2015,West,,,135.36,Tamil Nadu
+OD6818,Malik,Food Grains,Organic Staples,Dharmapuri,8/27/2018,West,1019.0,0.27,315.89,Tamil Nadu
+OD6819,,Oil & Masala,,Trichy,03-12-2017,West,830.0,0.1,348.6,
+OD6820,,Snacks,,Bodi,11/25/2015,West,655.0,0.15,124.45,Tamil Nadu
+OD6822,Kumar,Snacks,Cookies,Nagercoil,03-12-2017,West,1359.0,0.34,,Tamil Nadu
+OD6825,James,Beverages,Soft Drinks,Tirunelveli,9/27/2016,West,1634.0,0.33,81.7,Tamil Nadu
+OD6826,Muneer,Food Grains,Rice,,,West,654.0,0.29,65.4,Tamil Nadu
+OD6827,Veronica,Beverages,,Nagercoil,,West,,0.35,285.6,Tamil Nadu
+OD6828,Ganesh,,,Chennai,10/19/2015,West,,,498.8,Tamil Nadu
+,Sundar,Snacks,Chocolates,Cumbum,9/17/2018,West,1323.0,0.15,132.3,Tamil Nadu
+OD6830,Amy,Beverages,Health Drinks,,,West,2086.0,0.32,730.1,Tamil Nadu
+OD6831,,Food Grains,Dals & Pulses,Namakkal,9/24/2017,West,1460.0,0.22,,Tamil Nadu
+OD6832,Vidya,Fruits & Veggies,Fresh Vegetables,,12-12-2016,West,2303.0,0.27,529.69,
+,Yusuf,Oil & Masala,Masalas,Pudukottai,8/27/2018,West,2026.0,0.12,810.4,Tamil Nadu
+OD6834,,"Eggs, Meat & Fish",Mutton,Nagercoil,,West,,,120.82,Tamil Nadu
+OD6835,Veena,,,Viluppuram,03-12-2017,West,931.0,0.25,65.17,Tamil Nadu
+,Amy,Fruits & Veggies,Organic Vegetables,Vellore,12-10-2018,West,1435.0,,373.1,Tamil Nadu
+OD6837,Adavan,Oil & Masala,,Kanyakumari,8/27/2018,West,2147.0,0.18,,Tamil Nadu
+OD6838,Verma,Food Grains,Organic Staples,Namakkal,,West,2163.0,0.3,475.86,Tamil Nadu
+OD6839,,Oil & Masala,Edible Oil & Ghee,Bodi,11/25/2018,West,,0.2,318.06,Tamil Nadu
+OD6840,Harish,Beverages,,Cumbum,8/21/2018,West,1325.0,,106.0,Tamil Nadu
+OD6841,,Snacks,Noodles,Trichy,,West,1675.0,0.21,569.5,Tamil Nadu
+OD6842,Sundar,,Edible Oil & Ghee,Viluppuram,06-10-2018,West,1335.0,,,Tamil Nadu
+OD6843,,"Eggs, Meat & Fish",Mutton,Tenkasi,,West,1813.0,0.28,,Tamil Nadu
+OD6844,Yusuf,Fruits & Veggies,Fresh Fruits,Bodi,11/18/2015,West,,0.22,149.85,Tamil Nadu
+OD6845,Vince,Food Grains,Dals & Pulses,,8/31/2018,West,608.0,0.18,60.8,
+OD6847,Shah,Beverages,Health Drinks,Cumbum,10/19/2018,West,1187.0,0.23,71.22,Tamil Nadu
+OD6848,Jonas,Food Grains,Dals & Pulses,,10/31/2016,West,769.0,0.16,153.8,Tamil Nadu
+OD6849,Willams,Oil & Masala,,Salem,6/25/2015,West,617.0,0.3,,Tamil Nadu
+,,Snacks,Noodles,Krishnagiri,10/19/2015,West,2313.0,0.23,763.29,Tamil Nadu
+OD6851,Veena,Bakery,,Tirunelveli,11-04-2017,West,1449.0,0.16,72.45,Tamil Nadu
+OD6853,Shree,Bakery,Breads & Buns,Nagercoil,02-04-2015,West,512.0,,220.16,Tamil Nadu
+OD6855,Hussain,Snacks,Cookies,,04-06-2015,West,1468.0,0.11,205.52,Tamil Nadu
+,Sharon,"Eggs, Meat & Fish",Chicken,,08-02-2017,West,812.0,0.13,,
+,,,Noodles,Virudhunagar,8/23/2015,West,2377.0,0.2,237.7,Tamil Nadu
+OD6858,,Oil & Masala,Masalas,Viluppuram,,West,1392.0,,459.36,
+OD6859,Muneer,Fruits & Veggies,,,,West,561.0,0.34,,Tamil Nadu
+OD6860,Willams,,,Theni,10/31/2016,West,686.0,0.19,253.82,Tamil Nadu
+OD6861,Arutra,Snacks,Cookies,Krishnagiri,08-01-2018,West,732.0,,131.76,Tamil Nadu
+OD6862,James,Snacks,Chocolates,,12/16/2018,West,1662.0,0.23,,Tamil Nadu
+OD6863,,Fruits & Veggies,Organic Vegetables,Karur,9/17/2018,West,2375.0,,,Tamil Nadu
+,Vidya,Bakery,Breads & Buns,Namakkal,08-04-2017,West,1644.0,0.12,,Tamil Nadu
+OD6866,Sharon,Beverages,,Nagercoil,08-04-2017,West,1419.0,0.21,340.56,Tamil Nadu
+OD6867,Malik,,Breads & Buns,,02-03-2016,West,1922.0,,845.68,
+OD6868,Ram,Food Grains,Organic Staples,Cumbum,,West,1296.0,,77.76,Tamil Nadu
+OD6871,,Food Grains,,Namakkal,,West,748.0,,,Tamil Nadu
+OD6872,,Snacks,Noodles,Kanyakumari,11-04-2017,West,1137.0,0.12,147.81,
+OD6873,Krithika,Food Grains,,Chennai,,West,1353.0,,514.14,Tamil Nadu
+OD6874,Arvind,Snacks,Chocolates,,,West,522.0,,,Tamil Nadu
+OD6875,Vinne,Food Grains,Rice,Trichy,2/21/2017,West,2488.0,0.15,622.0,Tamil Nadu
+OD6876,,Food Grains,Rice,Dharmapuri,3/26/2015,West,2396.0,0.3,335.44,
+OD6877,Amrish,Snacks,Cookies,Viluppuram,10/20/2018,West,1090.0,0.13,,Tamil Nadu
+,,Beverages,Soft Drinks,,,West,,,220.2,Tamil Nadu
+OD6879,Hafiz,,,,12/16/2018,West,2066.0,0.25,681.78,Tamil Nadu
+OD6880,,Snacks,Cookies,Viluppuram,10/31/2016,West,514.0,0.11,133.64,Tamil Nadu
+OD6881,Amrish,Beverages,Soft Drinks,Viluppuram,09-07-2015,West,,0.1,245.05,Tamil Nadu
+,,"Eggs, Meat & Fish",Eggs,Namakkal,11/21/2016,West,1417.0,0.23,,
+OD6884,Shree,Oil & Masala,,Tirunelveli,10/19/2015,West,587.0,0.15,46.96,Tamil Nadu
+OD6885,Muneer,Fruits & Veggies,,Kanyakumari,,West,1920.0,0.14,556.8,Tamil Nadu
+OD6886,Adavan,Snacks,Noodles,,02-11-2018,West,2058.0,0.11,720.3,Tamil Nadu
+,,Oil & Masala,Spices,Krishnagiri,11-04-2017,West,1100.0,,440.0,
+OD6890,Hafiz,Bakery,Biscuits,Namakkal,,West,2321.0,0.11,742.72,Tamil Nadu
+OD6891,Ridhesh,Bakery,,Perambalur,12/28/2018,West,,0.27,326.2,
+,Veronica,Bakery,Biscuits,,05-12-2018,West,1457.0,0.1,,Tamil Nadu
+OD7588,Harish,Oil & Masala,Spices,Theni,3/14/2015,West,,,,Tamil Nadu
+,Ramesh,,Mutton,Cumbum,11-04-2015,West,1509.0,0.26,377.25,Tamil Nadu
+,Shah,Oil & Masala,Masalas,Salem,01-12-2018,West,,0.26,,Tamil Nadu
+OD7591,Shah,Snacks,Cookies,Vellore,,West,,0.33,688.2,Tamil Nadu
+OD7593,Krithika,Bakery,Cakes,,1/23/2018,West,1133.0,0.32,226.6,
+OD7596,Malik,,Organic Fruits,Ooty,12-08-2018,West,1944.0,,855.36,
+OD7598,,Food Grains,Atta & Flour,Ooty,,West,,0.13,,Tamil Nadu
+OD7599,Adavan,Fruits & Veggies,Fresh Vegetables,Dindigul,12/17/2018,West,,0.34,64.89,Tamil Nadu
+OD7600,Arvind,,Health Drinks,Chennai,,West,1714.0,0.29,771.3,
+OD7601,Mathew,Oil & Masala,Spices,Karur,,West,994.0,0.21,119.28,Tamil Nadu
+OD7602,Jackson,Oil & Masala,,Coimbatore,4/13/2016,West,703.0,0.24,,Tamil Nadu
+OD7603,Verma,Bakery,Biscuits,Ooty,,West,,0.12,431.52,Tamil Nadu
+OD7604,,Bakery,Breads & Buns,Tirunelveli,04-12-2015,West,1074.0,0.12,,Tamil Nadu
+OD7605,Sabeela,Food Grains,Atta & Flour,Tenkasi,,West,616.0,0.25,30.8,Tamil Nadu
+,Vinne,Snacks,Cookies,,,West,1966.0,,845.38,Tamil Nadu
+OD7611,,Beverages,,Nagercoil,,West,863.0,0.23,120.82,
+OD7612,Aditi,Bakery,Biscuits,Trichy,10/15/2018,West,2479.0,0.11,371.85,Tamil Nadu
+OD7614,Roshan,"Eggs, Meat & Fish",Eggs,Bodi,3/25/2018,West,,0.13,,Tamil Nadu
+OD7615,,Beverages,Health Drinks,Pudukottai,8/17/2018,West,1920.0,0.32,,Tamil Nadu
+OD7616,Ganesh,,Soft Drinks,Pudukottai,4/25/2016,West,842.0,0.19,58.94,
+OD7618,,Snacks,,Pudukottai,,West,746.0,0.3,,Tamil Nadu
+OD7619,Sudha,Snacks,Chocolates,Salem,11/16/2015,West,750.0,0.24,315.0,Tamil Nadu
+OD7620,Arvind,Food Grains,Rice,Bodi,10/26/2016,West,,0.27,83.7,Tamil Nadu
+OD7621,Sundar,,,Vellore,9/25/2016,West,,0.26,122.15,Tamil Nadu
+OD7622,Mathew,,Spices,Virudhunagar,04-10-2017,West,,0.35,648.21,
+OD7623,Haseena,,,Chennai,8/17/2018,West,,0.14,425.03,
+OD7624,Sundar,Beverages,Soft Drinks,Ooty,3/14/2015,West,2018.0,0.2,565.04,Tamil Nadu
+OD7627,Veronica,Fruits & Veggies,Fresh Fruits,Virudhunagar,3/19/2016,West,985.0,0.21,413.7,
+OD7628,Haseena,Bakery,Breads & Buns,Chennai,8/21/2017,West,900.0,,333.0,
+OD7629,Ridhesh,Snacks,Chocolates,,,West,,,265.12,Tamil Nadu
+OD7630,Vidya,,,Karur,06-12-2017,West,1476.0,0.35,,Tamil Nadu
+,Rumaiza,Oil & Masala,Masalas,Ooty,9/20/2015,West,939.0,,215.97,Tamil Nadu
+OD7632,Verma,"Eggs, Meat & Fish",Chicken,Trichy,9/26/2017,West,613.0,0.3,61.3,Tamil Nadu
+OD7633,Jonas,,Spices,Ramanadhapuram,11/21/2015,West,841.0,0.18,,
+OD7634,Veena,"Eggs, Meat & Fish",Chicken,,9/20/2017,West,654.0,,130.8,Tamil Nadu
+OD7635,Surya,,Cakes,Salem,12/23/2017,West,1947.0,0.11,739.86,Tamil Nadu
+,Jonas,Oil & Masala,Masalas,Salem,11-09-2018,West,1233.0,0.25,123.3,Tamil Nadu
+OD7637,Sabeela,Snacks,Chocolates,Virudhunagar,12/25/2018,West,,0.15,84.0,Tamil Nadu
+OD7639,Mathew,"Eggs, Meat & Fish",Mutton,Nagercoil,12-08-2016,West,1784.0,0.32,642.24,Tamil Nadu
+OD7640,Willams,,Eggs,Tirunelveli,,West,502.0,0.34,120.48,Tamil Nadu
+OD7641,Jackson,,Soft Drinks,Coimbatore,02-04-2017,West,1146.0,0.13,,
+OD7642,Ganesh,Fruits & Veggies,Fresh Vegetables,Coimbatore,10-08-2018,West,1979.0,0.21,197.9,Tamil Nadu
+OD7643,Sharon,Fruits & Veggies,,Tirunelveli,12/27/2016,West,2488.0,,,
+OD7645,Amy,,Chicken,Tenkasi,11/24/2015,West,2399.0,0.23,839.65,Tamil Nadu
+OD7646,Sheeba,,Soft Drinks,Virudhunagar,,West,2266.0,,657.14,Tamil Nadu
+OD7647,Shah,,Fish,Pudukottai,9/18/2016,West,1298.0,0.1,285.56,Tamil Nadu
+OD7648,James,,Biscuits,Pudukottai,05-12-2018,West,1721.0,,,Tamil Nadu
+OD7649,Arutra,Bakery,Biscuits,Tenkasi,2/14/2015,West,1809.0,,253.26,Tamil Nadu
+,Ram,Fruits & Veggies,Organic Fruits,Namakkal,3/16/2018,West,504.0,0.34,50.4,Tamil Nadu
+OD7651,Vinne,"Eggs, Meat & Fish",Fish,Pudukottai,9/28/2016,West,2004.0,0.15,,Tamil Nadu
+OD7652,Arutra,Oil & Masala,,Karur,12-02-2017,West,1608.0,0.22,723.6,Tamil Nadu
+OD7653,Ravi,Food Grains,Organic Staples,,,West,1758.0,0.25,404.34,Tamil Nadu
+OD7655,Hussain,Bakery,Breads & Buns,Pudukottai,9/19/2018,West,1899.0,0.16,,Tamil Nadu
+OD7656,Mathew,,Mutton,Karur,6/13/2015,West,674.0,,,
+OD7657,,Beverages,,,,West,2399.0,,575.76,Tamil Nadu
+OD7658,Arvind,,Chicken,Trichy,4/26/2016,West,1277.0,0.18,421.41,Tamil Nadu
+OD7660,Arutra,Snacks,Chocolates,Krishnagiri,12/22/2018,West,,0.19,240.9,
+OD7661,Sharon,Fruits & Veggies,Fresh Fruits,Nagercoil,,West,,0.25,217.2,Tamil Nadu
+OD7662,Suresh,Oil & Masala,Spices,Pudukottai,12/23/2017,West,1092.0,0.27,414.96,Tamil Nadu
+OD7663,Krithika,Oil & Masala,Spices,Virudhunagar,5/27/2018,West,2025.0,0.18,486.0,Tamil Nadu
+OD7664,Shree,Snacks,,,10/31/2015,West,1753.0,0.28,315.54,
+OD7665,,Beverages,Health Drinks,Madurai,2/18/2016,West,728.0,0.12,254.8,Tamil Nadu
+,Aditi,Fruits & Veggies,Organic Fruits,Karur,07-11-2018,West,1251.0,0.24,250.2,
+OD7667,Ram,Fruits & Veggies,Fresh Vegetables,,3/30/2015,West,1415.0,0.26,396.2,
+OD7668,Vinne,,,Krishnagiri,11/26/2015,West,1563.0,0.14,422.01,
+OD7669,Alan,Beverages,Health Drinks,Tenkasi,04-06-2015,West,,,720.4,
+,Mathew,Snacks,Cookies,Theni,05-04-2018,West,1890.0,0.29,718.2,Tamil Nadu
+OD7672,Amy,Food Grains,Dals & Pulses,Coimbatore,8/22/2017,West,1974.0,0.14,197.4,Tamil Nadu
+,,Food Grains,Dals & Pulses,Tirunelveli,8/17/2018,West,,0.26,130.65,Tamil Nadu
+OD7676,Ramesh,Fruits & Veggies,Organic Vegetables,Theni,03-12-2018,West,1961.0,0.13,196.1,
+OD7677,Willams,Bakery,Biscuits,Kanyakumari,09-03-2016,West,,0.32,,Tamil Nadu
+,Anu,,Edible Oil & Ghee,Bodi,12/22/2018,West,888.0,0.1,399.6,Tamil Nadu
+OD7679,Kumar,Bakery,Cakes,Kanyakumari,3/30/2015,West,,0.3,,Tamil Nadu
+,Hussain,Food Grains,Organic Staples,Ramanadhapuram,3/31/2018,West,2177.0,0.12,195.93,Tamil Nadu
+OD7681,Krithika,Bakery,Biscuits,,9/28/2016,West,1787.0,0.2,,Tamil Nadu
+OD7682,Malik,"Eggs, Meat & Fish",Fish,Ramanadhapuram,8/20/2018,West,,0.15,920.7,Tamil Nadu
+OD7683,Shah,"Eggs, Meat & Fish",Mutton,Perambalur,10-05-2018,West,2286.0,,434.34,Tamil Nadu
+OD7687,Ganesh,Fruits & Veggies,Fresh Vegetables,Ramanadhapuram,,West,,,562.4,Tamil Nadu
+OD7688,,"Eggs, Meat & Fish",,Ooty,9/20/2017,West,,0.25,417.36,Tamil Nadu
+OD7689,Shah,"Eggs, Meat & Fish",Mutton,,,West,577.0,0.31,46.16,
+OD7690,Arvind,Fruits & Veggies,,,10/29/2016,West,,,250.85,Tamil Nadu
+OD7691,Jonas,Beverages,Soft Drinks,Tirunelveli,4/30/2018,West,588.0,0.23,99.96,Tamil Nadu
+OD7692,Sabeela,Snacks,Chocolates,Cumbum,12-05-2016,West,1608.0,0.35,160.8,Tamil Nadu
+OD7693,Muneer,Snacks,Noodles,Dharmapuri,5/30/2018,West,1924.0,0.3,711.88,Tamil Nadu
+,,Beverages,Soft Drinks,,8/25/2015,West,,0.17,239.51,Tamil Nadu
+OD7695,Mathew,Oil & Masala,Spices,,05-09-2017,West,1318.0,0.34,92.26,Tamil Nadu
+,Vince,Snacks,Cookies,Madurai,02-01-2017,West,1311.0,0.16,131.1,
+OD7697,Shah,Food Grains,,Theni,3/23/2016,West,1458.0,0.34,641.52,
+OD7698,Veronica,Oil & Masala,Masalas,Dindigul,3/22/2016,West,750.0,0.21,127.5,Tamil Nadu
+OD7700,Adavan,"Eggs, Meat & Fish",Fish,Chennai,12/29/2015,West,1933.0,0.2,521.91,Tamil Nadu
+OD7703,Veronica,Bakery,Biscuits,Dindigul,1/23/2018,West,,0.28,,Tamil Nadu
+,Akash,Bakery,Breads & Buns,Ooty,,West,1786.0,0.17,500.08,
+OD7705,Alan,Bakery,Biscuits,,12/17/2018,West,1609.0,0.35,,
+OD7706,Surya,Beverages,Health Drinks,,,West,1002.0,,140.28,Tamil Nadu
+,,Food Grains,,Namakkal,8/25/2015,West,1828.0,,749.48,Tamil Nadu
+OD7708,Ravi,Bakery,Breads & Buns,Bodi,10/31/2015,West,920.0,0.16,,Tamil Nadu
+OD7709,,Oil & Masala,Edible Oil & Ghee,Bodi,12/23/2017,West,594.0,,243.54,Tamil Nadu
+OD7710,Yusuf,Bakery,Biscuits,Tirunelveli,12-01-2018,West,,0.1,79.15,Tamil Nadu
+OD7713,Arutra,Beverages,Health Drinks,Salem,3/18/2018,West,985.0,0.3,206.85,Tamil Nadu
+OD7714,Hafiz,Fruits & Veggies,,,12-02-2018,West,660.0,0.2,,Tamil Nadu
+OD7716,,Food Grains,,,7/21/2015,West,2144.0,0.15,128.64,Tamil Nadu
+,Verma,,,Tenkasi,8/13/2016,West,2176.0,0.33,696.32,Tamil Nadu
+OD7719,,,Chocolates,Dharmapuri,3/18/2018,West,1390.0,0.13,125.1,Tamil Nadu
+OD7720,Amrish,Oil & Masala,Spices,,,West,568.0,0.24,45.44,Tamil Nadu
+OD7722,,"Eggs, Meat & Fish",Fish,Salem,10-05-2018,West,979.0,0.11,,Tamil Nadu
+OD7723,Jonas,"Eggs, Meat & Fish",Chicken,Tirunelveli,9/16/2018,West,,,63.9,Tamil Nadu
+OD7724,Komal,Fruits & Veggies,Fresh Fruits,Namakkal,2/23/2018,West,567.0,0.29,255.15,Tamil Nadu
+OD7725,Surya,,,,10/15/2018,West,1801.0,0.26,612.34,Tamil Nadu
+OD7726,Veronica,Snacks,Cookies,,12/22/2018,West,,0.19,300.3,Tamil Nadu
+OD7727,Ridhesh,Oil & Masala,Edible Oil & Ghee,Salem,,West,1593.0,,461.97,Tamil Nadu
+OD7728,Krithika,,,Karur,,West,1173.0,0.18,316.71,Tamil Nadu
+OD7729,Sabeela,Bakery,Biscuits,Tenkasi,10/29/2016,West,926.0,0.24,231.5,Tamil Nadu
+OD7730,Jonas,Bakery,,Kanyakumari,11-02-2018,West,1069.0,0.14,,Tamil Nadu
+OD7731,,,,,10/31/2015,West,2180.0,0.2,305.2,Tamil Nadu
+OD7732,,"Eggs, Meat & Fish",Chicken,Virudhunagar,03-07-2015,West,997.0,0.21,179.46,Tamil Nadu
+OD7733,Vidya,"Eggs, Meat & Fish",Chicken,Dharmapuri,12/18/2017,West,2110.0,,759.6,Tamil Nadu
+OD7734,Roshan,Snacks,,Ramanadhapuram,7/23/2015,West,826.0,0.18,82.6,Tamil Nadu
+OD7735,Arutra,Fruits & Veggies,Fresh Vegetables,Madurai,5/14/2018,West,786.0,,322.26,Tamil Nadu
+,Arutra,,Soft Drinks,Trichy,12/18/2017,West,844.0,0.34,211.0,
+OD7738,,,,Dharmapuri,8/20/2018,West,2411.0,0.15,120.55,Tamil Nadu
+OD7741,,Snacks,Noodles,Krishnagiri,06-05-2017,West,2305.0,0.27,276.6,Tamil Nadu
+OD7742,Sabeela,Food Grains,Atta & Flour,Krishnagiri,3/19/2018,West,,0.27,209.58,Tamil Nadu
+OD7743,Komal,"Eggs, Meat & Fish",Mutton,,09-11-2016,West,1692.0,0.28,236.88,
+OD7744,Adavan,Food Grains,Organic Staples,,,West,1269.0,0.33,139.59,Tamil Nadu
+OD7745,Aditi,"Eggs, Meat & Fish",Mutton,Salem,10/31/2017,West,1942.0,0.28,291.3,
+OD7746,Sudha,Food Grains,,Karur,12/21/2018,West,,0.14,101.86,
+,Anu,Food Grains,Rice,Nagercoil,8/18/2018,West,1016.0,0.15,,Tamil Nadu
+OD7748,Ganesh,,Soft Drinks,,5/19/2017,West,1984.0,0.29,277.76,
+OD7749,Vinne,,Eggs,Perambalur,12-01-2017,West,,0.23,413.1,
+OD7750,,,Fish,,6/24/2018,West,1448.0,0.29,622.64,Tamil Nadu
+OD7751,Alan,,Soft Drinks,Madurai,1/26/2016,West,583.0,0.13,198.22,Tamil Nadu
+OD7752,Vince,Bakery,Cakes,Kanyakumari,8/17/2018,West,714.0,0.14,64.26,Tamil Nadu
+OD7753,Harish,Beverages,Health Drinks,Pudukottai,6/24/2018,West,1562.0,0.33,609.18,Tamil Nadu
+OD7754,,,Rice,Karur,12/29/2015,West,1460.0,0.3,540.2,Tamil Nadu
+OD7756,Sudeep,Oil & Masala,Spices,,9/18/2017,West,575.0,0.24,92.0,Tamil Nadu
+OD7757,,"Eggs, Meat & Fish",Mutton,Nagercoil,9/20/2017,West,1142.0,,102.78,Tamil Nadu
+OD7758,Roshan,Beverages,Health Drinks,Cumbum,5/14/2018,West,2252.0,0.33,337.8,Tamil Nadu
+,Veena,,Soft Drinks,Viluppuram,11/20/2017,West,1754.0,0.31,666.52,Tamil Nadu
+OD7760,,,Chocolates,Theni,,West,2238.0,0.32,939.96,Tamil Nadu
+OD7762,Veronica,Bakery,,Namakkal,11/26/2015,West,544.0,,136.0,
+OD7765,Willams,Food Grains,Rice,,12-08-2018,West,,0.31,,
+OD7766,,,Breads & Buns,Ramanadhapuram,,West,2325.0,0.15,581.25,Tamil Nadu
+OD7767,Adavan,Bakery,Cakes,Karur,12/17/2017,West,1189.0,,321.03,Tamil Nadu
+,Hafiz,Beverages,Soft Drinks,Ramanadhapuram,,West,702.0,,49.14,Tamil Nadu
+OD7769,Komal,,Health Drinks,Virudhunagar,10/23/2016,West,2413.0,,434.34,
+OD7770,Rumaiza,Bakery,,,12-02-2018,West,2374.0,0.22,735.94,
+OD7771,,Beverages,Soft Drinks,Theni,9/26/2016,West,2341.0,0.19,655.48,Tamil Nadu
+OD7772,,Beverages,Health Drinks,,12/26/2017,West,646.0,0.33,103.36,Tamil Nadu
+OD7773,Hafiz,,,Dharmapuri,12/18/2016,West,,0.33,154.24,Tamil Nadu
+OD7775,,Oil & Masala,,Bodi,,West,997.0,0.2,438.68,
+OD7776,Anu,"Eggs, Meat & Fish",Fish,Madurai,8/21/2017,West,779.0,,,
+OD7778,,Fruits & Veggies,Organic Vegetables,Viluppuram,10/31/2015,West,1243.0,,186.45,Tamil Nadu
+OD7779,Shah,Food Grains,Organic Staples,,,West,700.0,0.12,105.0,
+OD7780,Amrish,Snacks,Noodles,Bodi,12-10-2018,West,2355.0,0.14,1012.65,Tamil Nadu
+OD7781,Muneer,"Eggs, Meat & Fish",Mutton,,02-02-2018,West,2414.0,0.23,700.06,Tamil Nadu
+OD7782,Sharon,,Masalas,Ooty,9/19/2017,West,1645.0,,658.0,Tamil Nadu
+OD7784,James,,Fresh Fruits,Theni,9/20/2017,West,,0.23,297.99,Tamil Nadu
+OD7786,Yusuf,"Eggs, Meat & Fish",Fish,Dharmapuri,12-02-2017,West,1099.0,,285.74,Tamil Nadu
+OD7787,Vidya,"Eggs, Meat & Fish",Fish,Vellore,1/24/2018,West,,0.19,526.38,Tamil Nadu
+OD7788,,"Eggs, Meat & Fish",,Vellore,12/17/2017,West,,0.32,153.54,Tamil Nadu
+OD7789,,Fruits & Veggies,Organic Vegetables,Dindigul,11/17/2018,West,682.0,0.12,54.56,Tamil Nadu
+OD7791,Yadav,Snacks,Chocolates,Vellore,04-08-2015,West,640.0,0.18,32.0,Tamil Nadu
+OD7792,Veronica,,Chicken,,6/28/2016,West,829.0,0.28,,Tamil Nadu
+OD7794,Malik,Snacks,,,9/19/2018,West,1613.0,0.27,209.69,Tamil Nadu
+OD7795,Adavan,Beverages,Health Drinks,Tenkasi,8/17/2018,West,2353.0,0.12,611.78,Tamil Nadu
+OD7796,Sundar,Snacks,,Dindigul,11/26/2015,West,2239.0,0.21,626.92,Tamil Nadu
+OD7797,Ramesh,Beverages,Health Drinks,Chennai,12/25/2018,West,1606.0,0.31,321.2,Tamil Nadu
+OD7798,Veena,,Chocolates,Viluppuram,10/31/2015,West,696.0,0.21,313.2,Tamil Nadu
+,,Beverages,Soft Drinks,Tenkasi,09-04-2018,West,,0.13,999.24,Tamil Nadu
+OD7800,Vinne,Food Grains,Atta & Flour,Namakkal,,West,716.0,,93.08,Tamil Nadu
+OD7802,Aditi,"Eggs, Meat & Fish",Mutton,Krishnagiri,8/13/2018,West,1706.0,0.28,,Tamil Nadu
+OD7804,Akash,Bakery,Cakes,,12-08-2018,West,732.0,0.2,212.28,
+OD7805,Veronica,Snacks,,Namakkal,12/29/2015,West,1268.0,0.3,,Tamil Nadu
+OD7807,,Beverages,,,12-02-2017,West,2089.0,0.35,814.71,Tamil Nadu
+,,Bakery,Cakes,Dharmapuri,12/24/2018,West,2204.0,0.16,528.96,Tamil Nadu
+OD7809,,Oil & Masala,,Bodi,10-12-2018,West,,0.22,78.12,
+OD7810,Sabeela,"Eggs, Meat & Fish",Fish,,06-02-2017,West,1536.0,,537.6,
+,Anu,,Noodles,,5/28/2018,West,2414.0,0.15,217.26,
+OD7813,Arutra,Oil & Masala,Masalas,Salem,,West,2140.0,0.17,428.0,Tamil Nadu
+OD7815,Willams,"Eggs, Meat & Fish",Eggs,Bodi,11/17/2018,West,1078.0,0.26,485.1,
+OD7816,Willams,Food Grains,Dals & Pulses,Coimbatore,10/26/2016,West,,0.24,,
+OD7817,Amy,Beverages,,Ooty,7/18/2017,West,1168.0,0.12,198.56,
+OD7819,Vidya,Snacks,,,7/28/2018,West,,0.12,413.54,
+OD7820,,,Chicken,Kanyakumari,05-12-2018,West,2304.0,0.1,,Tamil Nadu
+OD7821,,Snacks,,Krishnagiri,9/15/2017,West,1482.0,0.24,192.66,Tamil Nadu
+OD7822,Alan,Food Grains,Organic Staples,Theni,11-03-2018,West,2124.0,0.15,,Tamil Nadu
+OD7823,Esther,,Cakes,Vellore,5/21/2016,West,,0.32,509.96,Tamil Nadu
+OD7824,Akash,,Biscuits,Viluppuram,9/23/2017,West,2089.0,0.25,814.71,Tamil Nadu
+OD7825,,Food Grains,Dals & Pulses,,9/26/2016,West,559.0,0.26,44.72,Tamil Nadu
+OD7826,Yadav,Oil & Masala,Edible Oil & Ghee,Perambalur,,West,1877.0,0.18,375.4,Tamil Nadu
+OD7827,,Food Grains,Dals & Pulses,Krishnagiri,10-01-2016,West,1701.0,0.33,,Tamil Nadu
+OD7828,Malik,Bakery,Biscuits,Salem,10/26/2016,West,1947.0,,,Tamil Nadu
+OD7829,Malik,Bakery,Biscuits,Coimbatore,04-10-2017,West,,,,Tamil Nadu
+OD7830,Shah,Snacks,Cookies,Nagercoil,3/16/2018,West,1543.0,0.14,524.62,Tamil Nadu
+OD7831,Arvind,Fruits & Veggies,Fresh Vegetables,Ramanadhapuram,,West,1832.0,0.16,567.92,Tamil Nadu
+,Amrish,Snacks,Noodles,Salem,,West,774.0,,85.14,Tamil Nadu
+OD7833,Ram,,Soft Drinks,,1/23/2018,West,2149.0,0.17,,Tamil Nadu
+OD7835,Suresh,Snacks,Chocolates,Krishnagiri,12-01-2018,West,891.0,0.29,89.1,Tamil Nadu
+OD7836,Sudeep,Snacks,Cookies,Kanyakumari,12-09-2018,West,1549.0,0.23,356.27,Tamil Nadu
+OD7837,Krithika,Bakery,Cakes,Dharmapuri,01-06-2016,West,1820.0,0.1,782.6,Tamil Nadu
+OD7838,Arvind,Fruits & Veggies,Organic Vegetables,Dharmapuri,7/15/2017,West,1668.0,0.29,,Tamil Nadu
+OD7839,Komal,Snacks,,Dharmapuri,9/13/2015,West,1671.0,0.14,,Tamil Nadu
+,Anu,"Eggs, Meat & Fish",Chicken,Cumbum,7/18/2017,West,2190.0,,788.4,Tamil Nadu
+,Ramesh,,Cakes,Nagercoil,3/16/2018,West,1826.0,0.26,529.54,Tamil Nadu
+OD7842,Sharon,,Edible Oil & Ghee,Namakkal,,West,1306.0,0.24,156.72,
+,Sabeela,Snacks,,Salem,4/26/2015,West,1184.0,0.2,390.72,Tamil Nadu
+,Sudeep,Snacks,Cookies,Theni,,West,,0.26,429.45,Tamil Nadu
+OD7845,Shree,"Eggs, Meat & Fish",Mutton,Bodi,3/14/2017,West,698.0,0.1,76.78,Tamil Nadu
+,Krithika,Fruits & Veggies,Fresh Vegetables,Vellore,10-02-2016,West,1361.0,,149.71,Tamil Nadu
+OD7847,Suresh,Fruits & Veggies,Organic Fruits,,07-08-2015,West,2455.0,0.28,343.7,Tamil Nadu
+OD7849,,,Cookies,Tirunelveli,,West,,0.29,276.21,Tamil Nadu
+OD7850,,Snacks,Chocolates,Tenkasi,12-09-2015,West,1190.0,0.19,380.8,
+OD7851,Ramesh,Fruits & Veggies,,Tirunelveli,9/26/2016,West,,0.16,371.46,Tamil Nadu
+OD7852,,Food Grains,,Krishnagiri,12/21/2016,West,660.0,0.26,112.2,Tamil Nadu
+OD7853,Yusuf,Oil & Masala,Edible Oil & Ghee,Theni,,West,1059.0,0.3,,Tamil Nadu
+OD7854,Vinne,"Eggs, Meat & Fish",Eggs,Dindigul,12/31/2017,West,1602.0,0.33,672.84,Tamil Nadu
+OD7855,Verma,Bakery,Cakes,,11/24/2015,West,,,160.7,Tamil Nadu
+OD7856,Amy,Beverages,Health Drinks,Ooty,10/16/2018,West,2313.0,0.28,601.38,Tamil Nadu
+OD7857,Jackson,Oil & Masala,Edible Oil & Ghee,Krishnagiri,8/17/2018,West,1680.0,0.34,,Tamil Nadu
+OD7858,Hussain,Beverages,Soft Drinks,Nagercoil,04-09-2017,West,2166.0,0.34,108.3,Tamil Nadu
+OD7859,Aditi,Oil & Masala,,Kanyakumari,8/18/2018,West,1677.0,0.19,,Tamil Nadu
+OD7860,Komal,Fruits & Veggies,Fresh Vegetables,Kanyakumari,9/25/2017,West,1369.0,,,Tamil Nadu
+OD7861,Yadav,Food Grains,,Dindigul,10/26/2016,West,1705.0,0.22,647.9,Tamil Nadu
+,Sudha,Food Grains,Organic Staples,Nagercoil,,West,,0.26,412.11,Tamil Nadu
+OD7863,Ram,Food Grains,Dals & Pulses,Tenkasi,9/25/2017,West,1982.0,0.31,515.32,
+OD7865,Harish,Food Grains,Organic Staples,Cumbum,12/13/2015,West,,0.33,139.25,
+OD7866,Rumaiza,,Dals & Pulses,Theni,12/19/2017,West,1616.0,0.17,323.2,
+OD7867,Ridhesh,Food Grains,Atta & Flour,Virudhunagar,01-06-2016,West,1479.0,0.18,103.53,Tamil Nadu
+OD7868,Esther,Bakery,Breads & Buns,Perambalur,,West,501.0,,170.34,Tamil Nadu
+OD7870,Veronica,Bakery,Cakes,Karur,,West,2462.0,0.25,984.8,Tamil Nadu
+OD7871,Muneer,"Eggs, Meat & Fish",Chicken,Namakkal,12/30/2015,West,1601.0,0.27,,Tamil Nadu
+OD7873,Verma,Beverages,Soft Drinks,Kanyakumari,,West,623.0,,112.14,Tamil Nadu
+OD7875,Sabeela,,Health Drinks,Madurai,,West,1312.0,0.16,524.8,
+,,Oil & Masala,Spices,Virudhunagar,,West,2347.0,0.28,281.64,
+OD7927,Amy,Food Grains,Atta & Flour,Nagercoil,,West,,0.28,574.56,
+OD7929,Veena,"Eggs, Meat & Fish",,Dindigul,,West,1703.0,,,
+OD7930,Surya,Fruits & Veggies,Organic Vegetables,Coimbatore,3/23/2016,West,2008.0,0.13,,Tamil Nadu
+OD7931,Alan,"Eggs, Meat & Fish",Mutton,Salem,09-06-2016,West,,,43.62,Tamil Nadu
+OD7932,,Oil & Masala,Edible Oil & Ghee,Karur,12/25/2017,West,501.0,0.14,200.4,Tamil Nadu
+OD7933,Hafiz,"Eggs, Meat & Fish",Eggs,Perambalur,11-11-2015,West,718.0,,244.12,
+OD7935,Arvind,"Eggs, Meat & Fish",Mutton,Vellore,10-02-2015,West,,0.21,,Tamil Nadu
+OD7936,,Oil & Masala,,Ramanadhapuram,10-10-2017,West,2078.0,0.15,228.58,Tamil Nadu
+OD7937,Willams,Oil & Masala,Masalas,Dindigul,10/21/2018,West,2157.0,0.31,172.56,Tamil Nadu
+OD7938,,"Eggs, Meat & Fish",Fish,Krishnagiri,,West,2056.0,0.12,719.6,Tamil Nadu
+OD7939,Peer,Food Grains,Dals & Pulses,Nagercoil,04-01-2018,West,1750.0,0.34,577.5,Tamil Nadu
+OD7940,Vidya,Fruits & Veggies,,Madurai,10-02-2015,West,2344.0,0.22,398.48,Tamil Nadu
+OD7941,James,Snacks,Cookies,Dharmapuri,11-10-2018,West,1477.0,0.21,561.26,Tamil Nadu
+,Hafiz,Beverages,Soft Drinks,Viluppuram,11/14/2016,West,830.0,0.22,,Tamil Nadu
+OD7943,James,,Fresh Vegetables,Trichy,8/31/2016,West,1440.0,0.26,144.0,Tamil Nadu
+OD7945,,Fruits & Veggies,Fresh Vegetables,Krishnagiri,10-02-2015,West,702.0,0.35,,Tamil Nadu
+,Sundar,,Breads & Buns,Dharmapuri,11/14/2016,West,711.0,0.18,56.88,
+,,,Noodles,Bodi,11/16/2015,West,1357.0,0.32,583.51,Tamil Nadu
+OD7949,Sudeep,Fruits & Veggies,Fresh Vegetables,Nagercoil,10/27/2018,West,1993.0,0.13,,Tamil Nadu
+OD7950,Aditi,Oil & Masala,,Virudhunagar,,West,,0.22,491.66,Tamil Nadu
+OD7951,Vince,Beverages,Health Drinks,,,West,1331.0,,439.23,Tamil Nadu
+OD7952,Hussain,Food Grains,Atta & Flour,Namakkal,11-10-2018,West,1406.0,0.14,365.56,
+OD7953,,Bakery,Cakes,Theni,1/14/2018,West,2204.0,0.32,220.4,
+OD7954,Suresh,Snacks,Chocolates,Viluppuram,12/25/2017,West,,0.11,310.52,Tamil Nadu
+OD7955,Veena,Beverages,Soft Drinks,,12/18/2017,West,2147.0,,,Tamil Nadu
+,Vinne,Bakery,Cakes,Pudukottai,08-01-2017,West,1229.0,,,
+OD7971,Amy,Snacks,Cookies,,,West,1611.0,0.16,,Tamil Nadu
+OD7972,Muneer,Snacks,Noodles,Namakkal,5/14/2017,West,1637.0,,491.1,Tamil Nadu
+OD8035,Komal,,,Theni,01-02-2018,West,1716.0,,154.44,
+OD8037,Sharon,Snacks,Noodles,Dharmapuri,10/24/2017,West,,0.3,,Tamil Nadu
+OD8038,Veena,Beverages,Soft Drinks,Virudhunagar,,West,,0.27,182.75,Tamil Nadu
+OD8039,Haseena,Food Grains,Organic Staples,,11-02-2015,West,,,,Tamil Nadu
+OD8040,Sudha,Snacks,Noodles,Krishnagiri,04-06-2015,West,,,300.81,Tamil Nadu
+OD8041,Ganesh,Bakery,Cakes,Karur,2/18/2018,West,,0.14,381.7,Tamil Nadu
+OD8042,Adavan,,,Coimbatore,,West,1252.0,0.27,363.08,Tamil Nadu
+OD8044,Shah,Beverages,Soft Drinks,Dharmapuri,05-02-2018,West,806.0,,177.32,Tamil Nadu
+OD8045,Akash,Bakery,Biscuits,Krishnagiri,03-10-2018,West,,,193.92,Tamil Nadu
+OD8046,Aditi,,Chicken,Trichy,,West,1132.0,0.25,,Tamil Nadu
+OD8047,Yusuf,Fruits & Veggies,Fresh Fruits,,12/16/2018,West,2141.0,0.24,256.92,Tamil Nadu
+OD8048,Esther,,Cookies,,6/27/2018,West,1168.0,,140.16,
+OD8049,Kumar,,,Vellore,12/27/2016,West,,,388.93,
+OD8050,Komal,"Eggs, Meat & Fish",Fish,,,West,1979.0,0.21,356.22,Tamil Nadu
+OD8052,Roshan,Food Grains,Organic Staples,Theni,10/17/2018,West,1805.0,0.35,649.8,Tamil Nadu
+OD8053,Veronica,Beverages,Soft Drinks,Nagercoil,11-02-2015,West,1765.0,,,Tamil Nadu
+OD8054,Veronica,"Eggs, Meat & Fish",,Theni,11/21/2016,West,745.0,0.35,111.75,
+OD8055,,Bakery,Breads & Buns,Theni,8/27/2018,West,1960.0,0.19,627.2,Tamil Nadu
+OD8056,Hussain,,Fish,Ooty,10/26/2016,West,2282.0,0.27,844.34,
+OD8058,Sabeela,Snacks,Noodles,Salem,03-01-2016,West,1386.0,0.18,318.78,Tamil Nadu
+OD8060,Adavan,,Health Drinks,,,West,697.0,0.11,202.13,Tamil Nadu
+OD8061,,Fruits & Veggies,Organic Fruits,,08-02-2017,West,1943.0,0.33,796.63,
+,Sheeba,Beverages,,Perambalur,2/18/2018,West,1766.0,0.17,406.18,Tamil Nadu
+OD8065,Veena,"Eggs, Meat & Fish",Mutton,,10/19/2015,West,730.0,0.19,131.4,Tamil Nadu
+,Sudeep,"Eggs, Meat & Fish",Fish,Ramanadhapuram,6/20/2016,West,1906.0,,648.04,
+OD8068,Suresh,,Soft Drinks,,11/25/2018,West,,,726.08,Tamil Nadu
+,Roshan,Snacks,Cookies,Karur,,West,1253.0,0.13,,Tamil Nadu
+OD8071,Verma,Beverages,,Ooty,6/25/2015,West,691.0,0.35,124.38,Tamil Nadu
+OD8072,Komal,,Rice,,09-11-2018,West,1489.0,0.3,282.91,Tamil Nadu
+OD8073,Peer,Beverages,,Salem,,West,,0.32,134.64,Tamil Nadu
+,Vinne,Food Grains,Atta & Flour,Chennai,10/30/2016,West,2353.0,0.33,211.77,Tamil Nadu
+,Arvind,,Biscuits,Dindigul,,West,1656.0,,579.6,Tamil Nadu
+OD8277,Alan,"Eggs, Meat & Fish",Eggs,,,West,2209.0,0.1,,Tamil Nadu
+,Hafiz,"Eggs, Meat & Fish",Fish,Perambalur,11/24/2017,West,690.0,0.2,172.5,Tamil Nadu
+,Adavan,Oil & Masala,Spices,Dharmapuri,11/20/2017,West,1492.0,0.17,149.2,Tamil Nadu
+,Esther,Oil & Masala,Masalas,Karur,10-08-2018,West,868.0,0.21,,Tamil Nadu
+OD8281,Amy,,Health Drinks,Salem,02-09-2017,West,671.0,0.25,201.3,Tamil Nadu
+OD8282,Verma,Beverages,Soft Drinks,,03-09-2018,West,521.0,0.24,182.35,Tamil Nadu
+,Veena,Fruits & Veggies,Fresh Fruits,,09-03-2016,West,1715.0,,343.0,Tamil Nadu
+OD8284,Komal,"Eggs, Meat & Fish",Chicken,,,West,1189.0,0.22,475.6,Tamil Nadu
+OD8285,Komal,,Spices,,,West,,0.14,,
+,Veena,Snacks,Noodles,Dindigul,01-10-2017,West,,,,Tamil Nadu
+OD8287,Surya,Fruits & Veggies,Fresh Fruits,Pudukottai,04-06-2015,West,2259.0,0.11,971.37,
+OD8288,Komal,,Cookies,Ramanadhapuram,,West,,0.32,321.64,Tamil Nadu
+OD8289,Ridhesh,Fruits & Veggies,Organic Fruits,Trichy,04-03-2015,West,,,437.0,Tamil Nadu
+OD8290,Muneer,,Organic Vegetables,Trichy,,West,1056.0,0.13,411.84,
+OD8291,,Fruits & Veggies,Fresh Fruits,Coimbatore,3/26/2015,West,1449.0,0.33,,Tamil Nadu
+,Yadav,Bakery,Breads & Buns,Pudukottai,12-05-2016,West,2493.0,0.19,1022.13,Tamil Nadu
+OD8293,Hafiz,"Eggs, Meat & Fish",,Dharmapuri,10/20/2016,West,667.0,0.25,193.43,Tamil Nadu
+OD8294,,Fruits & Veggies,Fresh Fruits,Namakkal,,West,1500.0,0.35,360.0,Tamil Nadu
+OD8296,Muneer,Oil & Masala,Spices,Perambalur,,West,2331.0,0.25,,
+,Arvind,,Cakes,Dharmapuri,2/14/2015,West,1275.0,0.3,,Tamil Nadu
+OD8301,,Food Grains,Dals & Pulses,Karur,,West,1253.0,0.13,451.08,Tamil Nadu
+,,Bakery,Breads & Buns,Kanyakumari,01-09-2017,West,1174.0,0.11,457.86,Tamil Nadu
+,Anu,Beverages,Health Drinks,,,West,1525.0,0.12,198.25,Tamil Nadu
+,Kumar,,Masalas,Pudukottai,8/25/2015,West,1647.0,0.1,,
+OD8308,Shree,,Soft Drinks,Cumbum,06-03-2018,West,1366.0,0.15,368.82,Tamil Nadu
+OD8309,,"Eggs, Meat & Fish",Fish,Chennai,07-11-2018,West,1015.0,0.15,436.45,Tamil Nadu
+OD8310,Verma,Fruits & Veggies,Organic Vegetables,,09-03-2016,West,2182.0,0.31,414.58,Tamil Nadu
+OD8311,Sudha,Fruits & Veggies,,Madurai,10-12-2018,West,,0.25,732.2,Tamil Nadu
+,Yadav,Snacks,Chocolates,Ramanadhapuram,03-02-2018,West,1730.0,0.31,86.5,Tamil Nadu
+,Surya,Fruits & Veggies,Organic Fruits,,5/27/2018,West,2150.0,0.25,903.0,
+OD8316,,Bakery,Biscuits,Bodi,3/20/2018,West,1276.0,0.27,242.44,
+OD8317,Mathew,Food Grains,Atta & Flour,Virudhunagar,11/24/2017,West,1851.0,0.1,148.08,Tamil Nadu
+,,Food Grains,Organic Staples,Namakkal,09-05-2017,West,1647.0,0.13,,Tamil Nadu
+OD8319,,,Chocolates,Viluppuram,11/27/2018,West,1215.0,0.21,,Tamil Nadu
+OD8321,Akash,Food Grains,Atta & Flour,Dindigul,8/18/2018,West,2065.0,0.2,,Tamil Nadu
+OD8323,Sabeela,Fruits & Veggies,,Trichy,10-05-2018,West,1199.0,0.35,,
+OD8325,Shah,"Eggs, Meat & Fish",Mutton,Viluppuram,10-08-2018,West,,,118.8,Tamil Nadu
+,Harish,Beverages,Health Drinks,Madurai,12/26/2017,West,,0.29,217.0,Tamil Nadu
+,Verma,,,Bodi,5/26/2015,West,,0.35,,Tamil Nadu
+OD8331,Amrish,,Fresh Vegetables,Namakkal,5/26/2015,West,1309.0,0.34,65.45,Tamil Nadu
+OD8332,,,,Tenkasi,9/28/2016,West,1349.0,0.34,,Tamil Nadu
+OD8333,Arutra,,Fresh Vegetables,Vellore,4/13/2016,West,,0.3,299.0,Tamil Nadu
+,Yadav,Bakery,Biscuits,Pudukottai,10/13/2018,West,997.0,0.26,,Tamil Nadu
+OD8336,Surya,Snacks,Cookies,Krishnagiri,11/15/2017,West,1573.0,,157.3,Tamil Nadu
+OD8337,Jackson,Snacks,Noodles,Vellore,,West,2253.0,,,Tamil Nadu
+OD8338,,Fruits & Veggies,,,12-02-2018,West,,0.18,432.51,Tamil Nadu
+OD8339,Mathew,"Eggs, Meat & Fish",Fish,Pudukottai,,West,1156.0,0.11,,Tamil Nadu
+OD8340,Malik,Bakery,Breads & Buns,Cumbum,,West,511.0,0.14,86.87,Tamil Nadu
+OD8341,Hafiz,,Atta & Flour,Nagercoil,12-02-2017,West,2318.0,,370.88,Tamil Nadu
+,Shree,,,Coimbatore,8/17/2018,West,,0.33,181.44,
+OD8345,Akash,"Eggs, Meat & Fish",Eggs,Vellore,,West,,0.26,173.76,Tamil Nadu
+,Willams,Food Grains,Atta & Flour,Virudhunagar,03-02-2018,West,1907.0,,362.33,Tamil Nadu
+OD8348,Hafiz,Oil & Masala,,Virudhunagar,3/22/2016,West,2380.0,0.35,999.6,Tamil Nadu
+OD8349,,Oil & Masala,Edible Oil & Ghee,Trichy,,West,,0.34,937.46,Tamil Nadu
+OD8350,,Beverages,Health Drinks,Virudhunagar,8/20/2018,West,1359.0,0.2,95.13,Tamil Nadu
+OD8351,Veronica,Beverages,Soft Drinks,Salem,12/29/2015,West,996.0,0.27,199.2,
+OD8352,Amy,Bakery,,Theni,7/23/2015,West,,0.17,,Tamil Nadu
+OD8353,Sudha,Food Grains,Organic Staples,Dindigul,1/24/2018,West,,0.13,96.57,Tamil Nadu
+OD8358,Mathew,"Eggs, Meat & Fish",,Bodi,5/28/2018,West,1457.0,,,Tamil Nadu
+OD8359,Krithika,Beverages,Health Drinks,Chennai,04-12-2015,West,,,699.3,
+,Ram,Beverages,Health Drinks,Pudukottai,,West,785.0,0.27,47.1,
+,Amrish,Snacks,Cookies,Virudhunagar,9/26/2016,West,2275.0,0.23,295.75,Tamil Nadu
+OD8364,Sundar,,Soft Drinks,Perambalur,5/28/2018,West,1919.0,0.35,307.04,Tamil Nadu
+,Vidya,Oil & Masala,Masalas,Ramanadhapuram,8/21/2017,West,1790.0,0.14,411.7,Tamil Nadu
+OD8367,Ridhesh,,Health Drinks,Ramanadhapuram,4/30/2016,West,1205.0,0.26,144.6,Tamil Nadu
+OD8368,,Fruits & Veggies,Fresh Fruits,Kanyakumari,02-05-2018,West,2413.0,,,Tamil Nadu
+OD8369,Veena,,Chocolates,Madurai,2/23/2018,West,746.0,0.32,104.44,
+,Willams,,,Vellore,12/29/2015,West,1811.0,0.11,742.51,Tamil Nadu
+OD8373,Vidya,"Eggs, Meat & Fish",Mutton,Ramanadhapuram,,West,2278.0,,637.84,Tamil Nadu
+OD8374,Krithika,"Eggs, Meat & Fish",Mutton,Pudukottai,12-02-2018,West,,,210.56,Tamil Nadu
+OD8375,Sabeela,Fruits & Veggies,Organic Fruits,Nagercoil,1/23/2018,West,2217.0,0.26,554.25,
+OD8376,,Oil & Masala,Spices,Vellore,,West,2115.0,0.35,,Tamil Nadu
+OD8377,Malik,Food Grains,Organic Staples,Viluppuram,,West,1757.0,0.35,,Tamil Nadu
+OD8378,Ridhesh,Snacks,Chocolates,Karur,12/27/2016,West,1350.0,0.33,432.0,Tamil Nadu
+OD8379,Ganesh,Food Grains,Organic Staples,Krishnagiri,5/21/2017,West,2176.0,,,Tamil Nadu
+OD8380,Ravi,Oil & Masala,Masalas,,04-12-2015,West,1200.0,,240.0,Tamil Nadu
+OD8381,Vince,Food Grains,,Trichy,12/25/2017,West,,0.1,,Tamil Nadu
+OD8415,Aditi,Food Grains,,,,West,,,386.1,Tamil Nadu
+,Sheeba,,Eggs,Kanyakumari,12/16/2015,West,1014.0,0.25,283.92,Tamil Nadu
+,,Snacks,Chocolates,Vellore,02-08-2015,West,,0.3,276.08,Tamil Nadu
+OD8418,Sundar,Fruits & Veggies,Organic Fruits,Kanyakumari,,West,2153.0,0.16,602.84,Tamil Nadu
+OD8421,Esther,"Eggs, Meat & Fish",Fish,Tenkasi,,West,1787.0,0.15,696.93,
+,Komal,Oil & Masala,Masalas,Viluppuram,12-05-2018,West,1583.0,0.29,253.28,Tamil Nadu
+OD8423,Ravi,Bakery,Biscuits,Tirunelveli,3/23/2018,West,,0.31,119.17,Tamil Nadu
+,Vinne,,Organic Vegetables,,06-08-2018,West,1341.0,0.3,187.74,Tamil Nadu
+OD8425,Vidya,,Breads & Buns,Tirunelveli,06-11-2018,West,,0.23,487.2,Tamil Nadu
+OD8426,Adavan,Snacks,Noodles,Bodi,9/28/2018,West,,0.24,518.4,Tamil Nadu
+OD8427,Jonas,Fruits & Veggies,Fresh Fruits,Bodi,12/16/2015,West,1869.0,0.18,411.18,Tamil Nadu
+OD8429,Kumar,Snacks,Noodles,Tenkasi,8/22/2017,West,,0.33,318.68,Tamil Nadu
+OD8430,Vinne,Bakery,,Vellore,11-12-2017,West,912.0,0.28,,Tamil Nadu
+OD8432,Rumaiza,,Health Drinks,Tenkasi,12-11-2017,West,966.0,,86.94,
+,Yusuf,Beverages,Soft Drinks,Virudhunagar,10/24/2016,West,1403.0,0.22,238.51,Tamil Nadu
+OD8434,Komal,,Fish,Dindigul,11-03-2018,West,633.0,0.17,,Tamil Nadu
+OD8435,Ravi,Oil & Masala,,Tirunelveli,12/18/2017,West,798.0,0.14,135.66,Tamil Nadu
+OD8448,Sundar,Fruits & Veggies,Fresh Fruits,Bodi,,West,819.0,0.27,303.03,
+OD8449,Veena,"Eggs, Meat & Fish",Mutton,Namakkal,4/15/2015,West,2329.0,0.16,675.41,Tamil Nadu
+OD8451,Roshan,Beverages,,Kanyakumari,,West,1184.0,,485.44,Tamil Nadu
+OD8452,Malik,,Breads & Buns,Perambalur,6/14/2017,West,1637.0,,,Tamil Nadu
+OD8453,Ravi,Oil & Masala,Spices,,11-12-2018,West,2110.0,0.29,611.9,Tamil Nadu
+OD8454,,,,Ramanadhapuram,11-12-2018,West,2408.0,0.32,192.64,Tamil Nadu
+,Arvind,Food Grains,,Tenkasi,10-10-2015,West,,0.25,421.26,Tamil Nadu
+OD8456,Sudeep,"Eggs, Meat & Fish",,,,West,918.0,0.35,229.5,Tamil Nadu
+,Surya,,,Pudukottai,09-12-2017,West,1186.0,0.26,59.3,Tamil Nadu
+OD8501,Ridhesh,Beverages,,Ramanadhapuram,9/29/2015,West,,0.32,75.35,Tamil Nadu
+,Roshan,Food Grains,Dals & Pulses,,11/19/2016,West,,0.2,,Tamil Nadu
+OD8503,,Beverages,Health Drinks,Vellore,12-03-2018,West,,,586.0,
+OD8504,Rumaiza,,Spices,Krishnagiri,,West,,,387.94,Tamil Nadu
+OD8505,,Food Grains,Atta & Flour,Tenkasi,11-02-2018,West,1471.0,0.18,88.26,Tamil Nadu
+OD8509,,,Health Drinks,Vellore,09-02-2018,West,,0.24,,Tamil Nadu
+OD8510,Rumaiza,Oil & Masala,Masalas,Dharmapuri,3/13/2016,West,,0.17,551.04,Tamil Nadu
+OD8511,,,Mutton,Ramanadhapuram,12-01-2016,West,1848.0,,739.2,Tamil Nadu
+,Ravi,Bakery,Cakes,Perambalur,9/29/2015,West,2324.0,0.26,,Tamil Nadu
+OD8513,Haseena,Snacks,Noodles,Virudhunagar,12-09-2018,West,1280.0,0.16,537.6,Tamil Nadu
+OD8514,,Snacks,Chocolates,Madurai,3/18/2015,West,,0.31,,Tamil Nadu
+OD8515,Vidya,Fruits & Veggies,Organic Fruits,Kanyakumari,9/15/2018,West,,0.23,574.78,
+OD8516,Arutra,Beverages,,Chennai,2/26/2018,West,2371.0,0.19,308.23,Tamil Nadu
+OD8517,Krithika,Fruits & Veggies,Fresh Vegetables,Ooty,3/13/2016,West,1261.0,0.12,340.47,Tamil Nadu
+OD8519,James,Oil & Masala,Masalas,Nagercoil,,West,1839.0,0.34,183.9,
+OD8520,Jackson,Oil & Masala,Edible Oil & Ghee,Pudukottai,,West,1123.0,0.26,325.67,Tamil Nadu
+OD8646,Krithika,Fruits & Veggies,Organic Fruits,Namakkal,5/20/2018,West,1836.0,0.19,165.24,Tamil Nadu
+OD8647,Arutra,,Breads & Buns,,12/24/2015,West,,0.1,91.96,Tamil Nadu
+OD8648,Roshan,Bakery,Biscuits,Dindigul,11-10-2017,West,828.0,0.2,215.28,Tamil Nadu
+OD8649,Shah,"Eggs, Meat & Fish",Chicken,Krishnagiri,06-06-2018,West,,0.27,427.2,Tamil Nadu
+OD8650,Arvind,Fruits & Veggies,,,11/13/2017,West,1087.0,0.26,391.32,Tamil Nadu
+OD8652,Ravi,Snacks,Chocolates,,3/18/2015,West,1534.0,,,Tamil Nadu
+OD8653,Vinne,Bakery,,Chennai,11/24/2017,West,884.0,0.14,,
+OD8654,Amy,Beverages,Soft Drinks,Coimbatore,10-06-2018,West,2132.0,0.13,703.56,Tamil Nadu
+OD8655,,Bakery,Biscuits,Kanyakumari,11/13/2017,West,564.0,0.33,118.44,Tamil Nadu
+OD8656,,,Breads & Buns,Tenkasi,11-03-2016,West,,0.22,478.71,Tamil Nadu
+OD8657,Hussain,"Eggs, Meat & Fish",Mutton,Chennai,12/14/2016,West,1318.0,0.23,79.08,
+OD8660,Sundar,,Fish,Nagercoil,09-06-2016,West,1896.0,0.27,189.6,Tamil Nadu
+OD8662,Ganesh,Food Grains,Rice,Cumbum,3/21/2018,West,2192.0,0.12,,Tamil Nadu
+OD8663,Aditi,Food Grains,Atta & Flour,Virudhunagar,,West,,0.24,,Tamil Nadu
+OD8664,Anu,,,Karur,12/15/2018,West,2037.0,0.12,305.55,Tamil Nadu
+,Veena,Food Grains,Dals & Pulses,Tenkasi,07-08-2018,West,1135.0,0.31,147.55,Tamil Nadu
+OD8666,,"Eggs, Meat & Fish",Chicken,Madurai,4/25/2015,West,1108.0,0.26,365.64,Tamil Nadu
+OD8667,Sabeela,Food Grains,Rice,Theni,8/28/2018,West,2285.0,0.31,251.35,Tamil Nadu
+OD8668,Surya,Bakery,Cakes,,05-03-2016,West,624.0,,274.56,Tamil Nadu
+OD8669,Vinne,Snacks,Chocolates,,11-05-2015,West,1157.0,,,Tamil Nadu
+OD8670,Kumar,Bakery,Biscuits,Chennai,,West,911.0,,209.53,Tamil Nadu
+OD8671,,Bakery,Biscuits,Karur,11-06-2018,West,,0.29,767.6,Tamil Nadu
+OD8672,Anu,,Chicken,Ramanadhapuram,12-01-2018,West,2263.0,0.19,,Tamil Nadu
+,Jackson,Fruits & Veggies,,Dharmapuri,07-09-2015,West,1764.0,,,Tamil Nadu
+OD8675,,"Eggs, Meat & Fish",Eggs,Trichy,10/17/2017,West,1236.0,0.33,197.76,
+OD8676,Amrish,Beverages,Soft Drinks,Coimbatore,02-10-2018,West,685.0,0.23,219.2,Tamil Nadu
+OD8678,Aditi,Beverages,Health Drinks,Ramanadhapuram,1/30/2018,West,1920.0,0.34,268.8,Tamil Nadu
+OD8679,Shree,Fruits & Veggies,Fresh Vegetables,Krishnagiri,01-05-2016,West,508.0,0.28,76.2,Tamil Nadu
+OD8680,Aditi,Oil & Masala,Masalas,Coimbatore,5/30/2018,West,2386.0,0.33,835.1,Tamil Nadu
+,Shah,,Soft Drinks,Pudukottai,04-08-2015,West,1659.0,0.34,,Tamil Nadu
+OD8684,Sharon,"Eggs, Meat & Fish",Chicken,Bodi,09-03-2016,West,,0.23,87.08,
+OD8685,Sharon,Food Grains,Rice,Madurai,9/17/2017,West,,0.24,543.18,Tamil Nadu
+,,"Eggs, Meat & Fish",Fish,,11-06-2018,West,,0.1,583.84,Tamil Nadu
+OD8687,,Food Grains,Organic Staples,Nagercoil,2/20/2018,West,2286.0,0.23,114.3,
+OD8688,James,Food Grains,,Namakkal,,West,846.0,,118.44,Tamil Nadu
+,Arutra,,,,9/24/2017,West,,0.2,,Tamil Nadu
+OD8690,,,Health Drinks,Karur,08-08-2017,West,,0.17,142.5,Tamil Nadu
+,,,Atta & Flour,Krishnagiri,,West,,0.21,428.85,Tamil Nadu
+,Hussain,Oil & Masala,Masalas,Theni,10-03-2017,West,1274.0,0.2,407.68,Tamil Nadu
+OD8693,Peer,Food Grains,Dals & Pulses,Perambalur,6/13/2018,West,1063.0,0.27,265.75,Tamil Nadu
+OD8695,Ridhesh,Snacks,Chocolates,Tirunelveli,12/24/2018,West,838.0,0.12,268.16,Tamil Nadu
+OD8697,Mathew,Fruits & Veggies,Organic Fruits,Bodi,6/18/2016,West,1952.0,0.13,683.2,Tamil Nadu
+,Yadav,"Eggs, Meat & Fish",Fish,Theni,4/24/2017,West,525.0,0.34,168.0,
+OD8700,Roshan,"Eggs, Meat & Fish",Mutton,Theni,10-10-2015,West,,0.16,,Tamil Nadu
+,Vinne,Food Grains,Atta & Flour,,12-01-2016,West,1537.0,0.26,599.43,
+OD8703,,"Eggs, Meat & Fish",Eggs,Karur,12/15/2017,West,1820.0,0.35,600.6,Tamil Nadu
+OD8704,,,Masalas,Krishnagiri,2/20/2018,West,642.0,,44.94,Tamil Nadu
+OD8787,Haseena,Beverages,Health Drinks,Madurai,3/26/2018,West,2124.0,0.11,743.4,Tamil Nadu
+,Surya,,,Salem,09-05-2018,West,1394.0,,153.34,Tamil Nadu
+,Sundar,Fruits & Veggies,Fresh Vegetables,Cumbum,11/29/2016,West,1516.0,0.24,515.44,
+OD8790,Alan,Snacks,Cookies,Cumbum,9/21/2016,West,,,,Tamil Nadu
+OD8791,Sudha,Snacks,Noodles,Nagercoil,09-04-2018,West,1288.0,0.26,,Tamil Nadu
+,Jonas,Bakery,,,2/19/2018,West,767.0,0.16,,Tamil Nadu
+OD8793,,Snacks,Cookies,Theni,,West,,0.12,301.28,Tamil Nadu
+OD8794,Jackson,Fruits & Veggies,,Ooty,9/26/2015,West,1144.0,0.19,446.16,Tamil Nadu
+OD8795,Alan,Food Grains,Dals & Pulses,,,West,1279.0,0.21,,
+OD8796,Hussain,"Eggs, Meat & Fish",,,09-02-2017,West,2369.0,0.18,876.53,
+OD8797,Sabeela,Beverages,Health Drinks,,,West,,,465.8,Tamil Nadu
+OD8798,Veena,,Health Drinks,Kanyakumari,6/14/2017,West,621.0,0.28,260.82,Tamil Nadu
+OD8799,Kumar,Fruits & Veggies,Organic Vegetables,Chennai,,West,2226.0,0.23,400.68,Tamil Nadu
+OD8800,Yusuf,Bakery,Cakes,,03-10-2017,West,2186.0,,174.88,Tamil Nadu
+,Suresh,,,Nagercoil,11-10-2017,West,2325.0,,627.75,Tamil Nadu
+OD8804,Vidya,"Eggs, Meat & Fish",Eggs,Tenkasi,,West,,,178.65,Tamil Nadu
+OD8805,,Food Grains,,Kanyakumari,,West,1077.0,0.19,226.17,Tamil Nadu
+OD8806,Veronica,Snacks,Cookies,Viluppuram,9/26/2018,West,1268.0,,63.4,
+OD8807,Komal,Snacks,,Pudukottai,07-01-2017,West,1319.0,0.1,131.9,Tamil Nadu
+OD8808,Akash,Fruits & Veggies,Organic Fruits,Karur,9/28/2018,West,,0.12,865.1,
+OD8810,James,,Cakes,,,West,1307.0,0.26,483.59,Tamil Nadu
+,,Fruits & Veggies,Organic Fruits,Namakkal,9/28/2018,West,1808.0,0.25,452.0,Tamil Nadu
+OD8813,Vidya,"Eggs, Meat & Fish",Mutton,Chennai,12/24/2018,West,,0.3,211.2,Tamil Nadu
+OD8814,,,Breads & Buns,Virudhunagar,05-03-2016,West,2295.0,0.13,481.95,
+OD8815,Veena,Fruits & Veggies,Fresh Vegetables,,9/23/2018,West,507.0,,147.03,
+OD8816,Surya,Beverages,Soft Drinks,Madurai,4/13/2016,West,2390.0,0.12,,
+OD8818,Aditi,Bakery,Cakes,,06-11-2018,West,860.0,0.19,352.6,Tamil Nadu
+OD8819,Muneer,,Breads & Buns,,12/18/2017,West,,0.13,498.8,Tamil Nadu
+OD8820,Vince,Bakery,Breads & Buns,Cumbum,11-10-2017,West,,0.11,554.04,
+OD8821,Mathew,,Organic Staples,Dindigul,12/18/2017,West,608.0,0.14,,Tamil Nadu
+,Haseena,Snacks,Chocolates,Coimbatore,06-11-2018,West,1775.0,0.18,355.0,Tamil Nadu
+OD8823,Adavan,Fruits & Veggies,Organic Vegetables,Bodi,06-11-2018,West,2379.0,0.3,785.07,Tamil Nadu
+OD8824,Willams,Bakery,Cakes,Pudukottai,10-12-2018,West,1418.0,,,Tamil Nadu
+OD8825,Jonas,,,Viluppuram,,West,867.0,,164.73,Tamil Nadu
+OD8826,Alan,Snacks,Cookies,Karur,05-09-2018,West,2361.0,0.3,802.74,Tamil Nadu
+,Sundar,,Soft Drinks,Tirunelveli,3/23/2018,West,1295.0,0.25,142.45,
+OD8829,Anu,"Eggs, Meat & Fish",Chicken,Salem,12-05-2018,West,791.0,,55.37,Tamil Nadu
+,,Food Grains,Dals & Pulses,Pudukottai,,West,2286.0,0.16,,Tamil Nadu
+OD8831,Sheeba,Bakery,Breads & Buns,,09-07-2018,West,,0.13,481.78,Tamil Nadu
+OD8832,Yusuf,,Breads & Buns,Ramanadhapuram,,West,590.0,0.34,247.8,Tamil Nadu
+,,Oil & Masala,,Krishnagiri,,West,,0.19,84.5,
+,Krithika,Beverages,Health Drinks,Perambalur,10-06-2017,West,1730.0,0.27,363.3,Tamil Nadu
+OD8835,Arutra,Food Grains,,,12/18/2017,West,,0.17,686.01,Tamil Nadu
+OD8836,Sudha,Fruits & Veggies,,,5/20/2017,West,1458.0,0.12,320.76,Tamil Nadu
+OD8878,,Snacks,Cookies,Dharmapuri,12-01-2017,West,2390.0,0.3,669.2,Tamil Nadu
+OD8879,Harish,Oil & Masala,Masalas,Chennai,4/15/2015,West,2286.0,,640.08,Tamil Nadu
+OD8881,Surya,Fruits & Veggies,Fresh Vegetables,Bodi,10-10-2015,West,2151.0,,817.38,Tamil Nadu
+OD8883,Sudha,Food Grains,Organic Staples,Madurai,11/28/2015,West,,0.25,420.0,Tamil Nadu
+,,,,Karur,9/19/2015,West,,0.35,450.74,Tamil Nadu
+OD8887,Verma,Beverages,,,,West,,0.21,205.9,Tamil Nadu
+,Ridhesh,Snacks,Chocolates,,12-01-2017,West,,0.29,359.38,Tamil Nadu
+OD8889,Veronica,Bakery,Breads & Buns,Trichy,11-03-2015,West,906.0,0.1,108.72,Tamil Nadu
+OD8890,,Food Grains,Dals & Pulses,Namakkal,11/28/2015,West,692.0,0.26,193.76,Tamil Nadu
+OD8892,Hussain,,Soft Drinks,,11-06-2018,West,1941.0,0.19,543.48,Tamil Nadu
+OD8894,Yusuf,Fruits & Veggies,Fresh Fruits,Cumbum,11-06-2018,West,958.0,0.34,249.08,
+OD8895,Roshan,Beverages,Soft Drinks,Krishnagiri,7/25/2017,West,,,868.3,Tamil Nadu
+OD8896,Ram,,Health Drinks,Perambalur,12/30/2017,West,864.0,0.32,,
+OD8897,Aditi,Food Grains,,Chennai,11/29/2016,West,2444.0,,782.08,Tamil Nadu
+OD8898,Ravi,Fruits & Veggies,,,11-12-2018,West,2151.0,0.35,795.87,Tamil Nadu
+,Suresh,Snacks,Cookies,Dharmapuri,07-10-2017,West,1600.0,0.18,544.0,Tamil Nadu
+OD9009,Ramesh,Oil & Masala,Edible Oil & Ghee,Kanyakumari,12-09-2018,West,1213.0,0.21,194.08,Tamil Nadu
+OD9010,Veena,Oil & Masala,Edible Oil & Ghee,Trichy,5/19/2018,West,,0.15,231.84,Tamil Nadu
+OD9011,Shree,Food Grains,Organic Staples,Pudukottai,09-01-2017,West,1249.0,0.11,,Tamil Nadu
+,,,Masalas,Tenkasi,11-08-2016,West,1504.0,0.32,330.88,Tamil Nadu
+OD9013,,Fruits & Veggies,Organic Fruits,,7/25/2015,West,705.0,,282.0,Tamil Nadu
+OD9014,Haseena,,Organic Vegetables,,4/23/2015,West,2402.0,0.16,768.64,Tamil Nadu
+OD9015,James,Food Grains,Atta & Flour,,3/16/2018,West,1202.0,,480.8,
+OD9016,Malik,"Eggs, Meat & Fish",,Dindigul,9/27/2016,West,598.0,0.25,215.28,Tamil Nadu
+OD9017,Ganesh,Beverages,Soft Drinks,,3/16/2018,West,1598.0,0.31,575.28,Tamil Nadu
+OD9018,Krithika,Bakery,Breads & Buns,Dindigul,,West,1056.0,,211.2,Tamil Nadu
+OD9019,Verma,"Eggs, Meat & Fish",Mutton,Pudukottai,12-09-2018,West,1507.0,0.35,,Tamil Nadu
+OD9020,,Oil & Masala,Masalas,Tenkasi,5/19/2018,West,1217.0,0.31,535.48,Tamil Nadu
+OD9023,Yadav,Snacks,Chocolates,Coimbatore,9/27/2016,West,1309.0,0.24,,Tamil Nadu
+OD9024,Arvind,Snacks,Chocolates,Tenkasi,9/24/2018,West,720.0,0.33,115.2,
+OD9025,Hafiz,,,,10/21/2017,West,770.0,0.34,,Tamil Nadu
+OD9026,Hafiz,,Rice,Trichy,11-02-2018,West,2411.0,0.3,626.86,
+OD9027,Arutra,Bakery,,Tenkasi,4/15/2017,West,1483.0,,,Tamil Nadu
+OD9028,Sabeela,Fruits & Veggies,Organic Fruits,Bodi,9/27/2016,West,1334.0,0.12,333.5,Tamil Nadu
+OD9029,Esther,Fruits & Veggies,Organic Fruits,,11/19/2015,West,2444.0,0.15,513.24,Tamil Nadu
+OD9030,Adavan,Snacks,Chocolates,Tirunelveli,,West,760.0,0.18,273.6,Tamil Nadu
+OD9031,,Bakery,Breads & Buns,Tenkasi,12-01-2016,West,,0.25,415.71,
+OD9033,,Oil & Masala,Edible Oil & Ghee,Dharmapuri,2/26/2018,West,1982.0,0.34,772.98,Tamil Nadu
+OD9035,Rumaiza,Oil & Masala,Masalas,Chennai,12/27/2015,West,1961.0,0.15,647.13,Tamil Nadu
+OD9038,Ravi,Snacks,Cookies,Chennai,,West,,0.3,,Tamil Nadu
+OD9041,Peer,Fruits & Veggies,Organic Fruits,Salem,,West,,0.23,632.4,Tamil Nadu
+,Ram,Beverages,,Chennai,9/17/2016,West,629.0,,,Tamil Nadu
+OD9046,Willams,Food Grains,Dals & Pulses,Tirunelveli,9/24/2018,West,1792.0,0.28,788.48,Tamil Nadu
+OD9047,Ganesh,,Cookies,Theni,,West,964.0,0.3,106.04,Tamil Nadu
+OD9048,Suresh,"Eggs, Meat & Fish",Fish,,,West,527.0,0.13,,Tamil Nadu
+,,Beverages,Health Drinks,,11-02-2018,West,,0.35,562.52,Tamil Nadu
+OD9050,Sharon,,,Cumbum,3/13/2018,West,1801.0,0.14,,
+,Shree,Fruits & Veggies,Fresh Vegetables,Coimbatore,11-02-2018,West,1530.0,,306.0,Tamil Nadu
+OD9052,Mathew,,Soft Drinks,Virudhunagar,4/18/2016,West,727.0,0.15,109.05,Tamil Nadu
+OD9053,Yadav,,Health Drinks,Kanyakumari,,West,1935.0,0.18,135.45,Tamil Nadu
+OD9055,,Snacks,Chocolates,Perambalur,09-08-2017,West,873.0,0.27,314.28,Tamil Nadu
+OD9056,Mathew,Food Grains,Dals & Pulses,Vellore,07-04-2016,West,1430.0,0.15,400.4,Tamil Nadu
+OD9057,Ramesh,,Chocolates,Tenkasi,03-07-2015,West,1654.0,0.23,512.74,
+OD9058,Krithika,Beverages,,,,West,1524.0,,259.08,Tamil Nadu
+,Kumar,,Organic Vegetables,,,West,,,635.81,
+OD9061,Veronica,Beverages,Soft Drinks,Tenkasi,,West,,,316.51,Tamil Nadu
+OD9062,Sabeela,,Organic Vegetables,Nagercoil,,West,2003.0,,,Tamil Nadu
+,Shree,Oil & Masala,,Tirunelveli,09-02-2018,West,670.0,0.35,100.5,Tamil Nadu
+OD9064,Shree,"Eggs, Meat & Fish",Chicken,Cumbum,11-02-2018,West,1615.0,0.31,193.8,Tamil Nadu
+,Shree,Oil & Masala,Masalas,Cumbum,11/21/2018,West,1319.0,0.25,197.85,Tamil Nadu
+OD9494,Arvind,,Organic Fruits,Vellore,01-07-2017,West,1593.0,0.15,,Tamil Nadu
+,Mathew,Food Grains,Organic Staples,Coimbatore,,West,2012.0,0.3,120.72,Tamil Nadu
+OD9496,,Food Grains,Dals & Pulses,Coimbatore,5/22/2018,West,603.0,0.15,162.81,Tamil Nadu
+OD9497,Surya,Oil & Masala,Masalas,Ooty,09-01-2018,West,2480.0,0.35,669.6,
+OD9498,Harish,"Eggs, Meat & Fish",Eggs,,4/24/2018,West,1155.0,0.13,277.2,Tamil Nadu
+,James,Oil & Masala,Masalas,Ooty,10-01-2015,West,1022.0,0.18,439.46,Tamil Nadu
+OD9500,Krithika,,,Vellore,,West,,0.14,,Tamil Nadu
+OD9501,,,Fresh Vegetables,Coimbatore,06-07-2017,West,1945.0,0.16,466.8,
+OD9502,,,Spices,Namakkal,05-05-2017,West,1150.0,0.21,368.0,
+OD9503,Aditi,Bakery,Breads & Buns,Bodi,,West,2361.0,0.34,,Tamil Nadu
+OD9504,Shah,Oil & Masala,Edible Oil & Ghee,Karur,09-08-2015,West,,0.35,335.14,Tamil Nadu
+OD9506,Kumar,Bakery,Cakes,,,West,1435.0,0.26,631.4,Tamil Nadu
+OD9507,,,Mutton,,11/21/2018,West,,,156.16,
+OD9508,Willams,Beverages,Health Drinks,Dindigul,12/18/2018,West,601.0,0.15,228.38,
+OD9509,Yadav,Food Grains,,Bodi,07-09-2015,West,,0.31,,Tamil Nadu
+OD9511,Ridhesh,Bakery,Breads & Buns,,,West,2153.0,0.16,193.77,Tamil Nadu
+OD9512,Malik,Oil & Masala,Edible Oil & Ghee,Virudhunagar,11/13/2017,West,877.0,,61.39,Tamil Nadu
+OD9513,,Fruits & Veggies,,Theni,,West,1004.0,0.18,150.6,Tamil Nadu
+OD9514,Surya,"Eggs, Meat & Fish",Eggs,Salem,11/21/2018,West,2001.0,0.28,,Tamil Nadu
+OD9516,Haseena,Beverages,,,09-08-2015,West,2346.0,0.15,445.74,Tamil Nadu
+OD9517,Sharon,Food Grains,Dals & Pulses,Ooty,10-03-2017,West,1604.0,0.24,,Tamil Nadu
+,Mathew,Bakery,Biscuits,Dindigul,05-06-2015,West,1015.0,0.33,395.85,Tamil Nadu
+OD9519,Esther,Bakery,Biscuits,Tenkasi,4/26/2015,West,,,522.48,
+OD9520,Peer,Fruits & Veggies,Fresh Vegetables,Virudhunagar,1/23/2016,West,1932.0,0.18,734.16,Tamil Nadu
+,,Snacks,Noodles,Vellore,,West,2338.0,0.11,1005.34,Tamil Nadu
+OD9522,,"Eggs, Meat & Fish",Eggs,Bodi,3/27/2018,West,2238.0,0.13,850.44,Tamil Nadu
+OD9523,Veronica,Oil & Masala,Spices,Salem,9/16/2017,West,918.0,0.19,201.96,Tamil Nadu
+,Amrish,Food Grains,Rice,Trichy,10-03-2017,West,2208.0,0.33,,Tamil Nadu
+OD9525,,Oil & Masala,Edible Oil & Ghee,Dindigul,10-03-2017,West,,0.34,642.24,Tamil Nadu
+,Shree,Beverages,Soft Drinks,Krishnagiri,12-06-2017,West,1531.0,0.18,,Tamil Nadu
+OD9527,Veena,Fruits & Veggies,Fresh Fruits,Tirunelveli,,West,,0.22,,Tamil Nadu
+OD9528,Amy,,,Virudhunagar,12/25/2016,West,,0.12,76.24,Tamil Nadu
+OD9529,Kumar,Oil & Masala,Masalas,Bodi,2/20/2015,West,1319.0,0.15,342.94,Tamil Nadu
+,Yadav,"Eggs, Meat & Fish",Chicken,Chennai,11-07-2017,West,,0.19,525.33,Tamil Nadu
+OD9533,Krithika,Bakery,Cakes,Chennai,11/21/2015,West,1380.0,0.34,220.8,
+OD9534,Ganesh,Bakery,,Dindigul,10-06-2018,West,2268.0,0.24,635.04,Tamil Nadu
+,Ridhesh,Beverages,,Cumbum,10/15/2017,West,1989.0,0.25,556.92,Tamil Nadu
+OD9537,,,Cookies,,07-08-2018,West,1577.0,0.11,473.1,Tamil Nadu
+OD9538,,Snacks,,Madurai,,West,,,484.8,Tamil Nadu
+OD9539,Adavan,Food Grains,Rice,Krishnagiri,8/18/2018,West,1919.0,,211.09,Tamil Nadu
+OD9540,Sudha,Bakery,Biscuits,,,West,1121.0,0.34,67.26,Tamil Nadu
+OD9541,Shah,Fruits & Veggies,Organic Fruits,Dharmapuri,6/16/2018,West,1048.0,0.33,356.32,Tamil Nadu
+OD9542,James,"Eggs, Meat & Fish",Fish,Theni,4/16/2018,West,2451.0,0.27,1004.91,Tamil Nadu
+OD9543,Jackson,,Fresh Fruits,Nagercoil,,West,2344.0,0.21,187.52,Tamil Nadu
+OD9544,Muneer,Food Grains,Atta & Flour,Tirunelveli,5/22/2018,West,,,,Tamil Nadu
+OD9545,Peer,Beverages,Health Drinks,Madurai,1/30/2018,West,1792.0,0.14,806.4,Tamil Nadu
+,Harish,Fruits & Veggies,Organic Fruits,Vellore,07-08-2018,West,,0.22,189.44,
+OD9548,Malik,Beverages,,Krishnagiri,10-02-2018,West,522.0,0.35,109.62,Tamil Nadu
+,Vidya,,,,11-01-2015,West,1202.0,0.2,,Tamil Nadu
+OD9550,,,,Cumbum,3/27/2018,West,1892.0,0.27,321.64,Tamil Nadu
+OD9551,Arutra,Food Grains,Dals & Pulses,Karur,11/27/2016,West,664.0,0.15,159.36,Tamil Nadu
+,Vidya,Beverages,Soft Drinks,Bodi,3/13/2018,West,505.0,0.3,,Tamil Nadu
+OD9553,Jackson,Snacks,Cookies,Chennai,,West,1656.0,0.25,149.04,
+OD9554,Malik,Food Grains,Dals & Pulses,,6/16/2018,West,1763.0,0.19,334.97,Tamil Nadu
+OD9555,Surya,Oil & Masala,Edible Oil & Ghee,Vellore,4/26/2018,West,2293.0,0.14,550.32,Tamil Nadu
+OD9557,Muneer,"Eggs, Meat & Fish",Mutton,Chennai,9/26/2016,West,2444.0,0.2,366.6,Tamil Nadu
+OD9558,Peer,,Cookies,,12/17/2017,West,635.0,0.11,69.85,Tamil Nadu
+OD9559,Aditi,Bakery,Breads & Buns,Dindigul,11/24/2017,West,1618.0,0.21,420.68,Tamil Nadu
+OD9561,Sabeela,,,Vellore,8/25/2016,West,1011.0,0.12,131.43,
+OD9563,Shree,Food Grains,Dals & Pulses,Dindigul,11/16/2018,West,,0.24,255.9,Tamil Nadu
+,Arutra,Beverages,Soft Drinks,Pudukottai,,West,1087.0,0.25,86.96,Tamil Nadu
+OD9566,Akash,"Eggs, Meat & Fish",Chicken,Ramanadhapuram,,West,1185.0,,,
+OD9567,Roshan,Oil & Masala,Masalas,Cumbum,9/17/2017,West,2269.0,,816.84,Tamil Nadu
+OD9568,Verma,Oil & Masala,Spices,Pudukottai,,West,1033.0,0.23,,
+,Ram,Oil & Masala,Masalas,,4/30/2018,West,,,232.18,Tamil Nadu
+OD9571,Akash,Oil & Masala,Edible Oil & Ghee,,,West,2105.0,0.26,799.9,Tamil Nadu
+OD9572,Verma,Fruits & Veggies,Fresh Fruits,Cumbum,,West,2159.0,0.1,259.08,Tamil Nadu
+OD9574,,Oil & Masala,Spices,Salem,10/19/2016,West,,0.1,230.01,Tamil Nadu
+OD9575,Ridhesh,Fruits & Veggies,Organic Vegetables,Viluppuram,,West,1123.0,,101.07,Tamil Nadu
+OD9576,Hussain,Bakery,,Salem,1/15/2018,West,608.0,0.1,115.52,Tamil Nadu
+OD9577,Kumar,"Eggs, Meat & Fish",Eggs,,4/26/2015,West,1265.0,0.16,,Tamil Nadu
+,Arvind,"Eggs, Meat & Fish",Chicken,Coimbatore,12-01-2016,West,1492.0,0.23,552.04,Tamil Nadu
+,Malik,Oil & Masala,Spices,,02-02-2015,West,904.0,,280.24,Tamil Nadu
+OD9582,Aditi,Beverages,Health Drinks,,10/23/2017,West,1937.0,0.22,174.33,Tamil Nadu
+OD9583,Ramesh,,Breads & Buns,Trichy,06-06-2017,West,914.0,,100.54,Tamil Nadu
+OD9584,Vince,"Eggs, Meat & Fish",Mutton,,1/31/2017,West,784.0,0.14,39.2,Tamil Nadu
+OD9586,Jonas,Snacks,Noodles,,,West,1497.0,0.33,,Tamil Nadu
+OD9587,Amrish,Beverages,Health Drinks,,04-08-2018,West,1030.0,0.35,247.2,Tamil Nadu
+OD9588,Muneer,Bakery,Biscuits,Tirunelveli,07-09-2015,West,1694.0,0.17,,
+OD9589,Ganesh,Snacks,Noodles,,,West,1588.0,0.24,,Tamil Nadu
+OD9590,Alan,Snacks,,,9/26/2017,West,1808.0,0.17,614.72,Tamil Nadu
+OD9591,Verma,Snacks,Noodles,Coimbatore,06-06-2018,West,1936.0,0.31,96.8,Tamil Nadu
+OD9592,Surya,Bakery,Biscuits,Dharmapuri,7/22/2017,West,2340.0,0.14,210.6,Tamil Nadu
+,Jackson,Snacks,Noodles,Viluppuram,7/15/2017,West,1435.0,0.21,186.55,
+OD9594,Malik,"Eggs, Meat & Fish",Chicken,,08-08-2017,West,,0.23,124.95,Tamil Nadu
+,Arutra,,Fish,Cumbum,9/26/2017,West,750.0,0.29,150.0,Tamil Nadu
+OD9597,Hussain,,Spices,Bodi,05-06-2015,West,1098.0,,164.7,Tamil Nadu
+,Roshan,"Eggs, Meat & Fish",,Namakkal,,West,1667.0,0.26,733.48,
+OD9599,Sabeela,Oil & Masala,Masalas,Salem,03-06-2018,West,1132.0,0.22,396.2,Tamil Nadu
+,James,"Eggs, Meat & Fish",Eggs,Theni,04-04-2015,West,1016.0,,,
+OD9602,Arutra,Bakery,Breads & Buns,Vellore,11-04-2017,West,2313.0,0.22,,Tamil Nadu
+,Yusuf,"Eggs, Meat & Fish",Fish,Tenkasi,12-07-2018,West,2429.0,0.27,534.38,Tamil Nadu
+OD9605,Sudha,Snacks,Chocolates,Perambalur,11/20/2016,West,1324.0,,397.2,Tamil Nadu
+OD9606,Krithika,Beverages,Health Drinks,Tenkasi,,West,1103.0,0.11,286.78,Tamil Nadu
+OD9607,Amy,Snacks,Noodles,,1/30/2018,West,,0.17,254.0,Tamil Nadu
+OD9609,Yusuf,Oil & Masala,Spices,Madurai,3/21/2018,West,832.0,,266.24,
+OD9610,,Bakery,Biscuits,Karur,06-06-2017,West,2378.0,0.12,356.7,Tamil Nadu
+OD9612,Aditi,Food Grains,Dals & Pulses,Coimbatore,03-06-2018,West,799.0,0.1,279.65,Tamil Nadu
+OD9613,,Snacks,Chocolates,,3/18/2015,West,1647.0,0.25,,Tamil Nadu
+OD9614,Vidya,Food Grains,Organic Staples,Tenkasi,10-02-2018,West,637.0,,210.21,Tamil Nadu
+,Arutra,"Eggs, Meat & Fish",Eggs,Pudukottai,12-07-2015,West,705.0,,190.35,Tamil Nadu
+OD9616,Veronica,Bakery,Biscuits,,5/21/2015,West,1500.0,0.33,405.0,
+,,"Eggs, Meat & Fish",Mutton,Ooty,08-09-2015,West,2425.0,0.3,315.25,Tamil Nadu
+OD9618,Komal,Oil & Masala,Masalas,Karur,5/13/2018,West,,0.16,106.4,Tamil Nadu
+OD9619,,Beverages,Health Drinks,Virudhunagar,4/26/2018,West,1403.0,0.2,364.78,Tamil Nadu
+OD9621,Vidya,Food Grains,,Salem,10/15/2017,West,2064.0,0.15,206.4,Tamil Nadu
+OD9622,Malik,,Rice,Ramanadhapuram,07-12-2015,West,,0.25,223.33,Tamil Nadu
+,Shah,Oil & Masala,Spices,Dindigul,06-03-2018,West,1244.0,0.19,161.72,Tamil Nadu
+OD9624,Yadav,Food Grains,Rice,Viluppuram,10-09-2017,West,2071.0,0.31,455.62,
+,Veena,Snacks,Cookies,Ooty,06-07-2017,West,,0.21,1050.06,Tamil Nadu
+OD9626,Aditi,Fruits & Veggies,Fresh Vegetables,,11-04-2017,West,1254.0,0.22,250.8,Tamil Nadu
+OD9627,Yusuf,Food Grains,Atta & Flour,Theni,8/27/2016,West,1566.0,0.26,689.04,
+OD9628,Rumaiza,Oil & Masala,,Chennai,10/27/2018,West,,0.21,142.2,Tamil Nadu
+OD9629,Aditi,,Soft Drinks,Viluppuram,,West,1497.0,0.33,553.89,Tamil Nadu
+OD9630,Roshan,Snacks,Cookies,Vellore,9/25/2015,West,2420.0,0.35,193.6,Tamil Nadu
+OD9631,Hafiz,Bakery,Biscuits,Ooty,6/25/2018,West,512.0,0.23,158.72,Tamil Nadu
+OD9632,Mathew,Bakery,Biscuits,Theni,11-04-2017,West,1485.0,,103.95,Tamil Nadu
+,Ramesh,Food Grains,Rice,,7/19/2015,West,1074.0,0.33,64.44,
+OD9637,,Snacks,Noodles,Ramanadhapuram,4/27/2016,West,595.0,0.28,160.65,Tamil Nadu
+OD9640,Amrish,Fruits & Veggies,Fresh Fruits,Perambalur,,West,784.0,0.26,156.8,Tamil Nadu
+OD9641,Ramesh,Food Grains,Rice,Ramanadhapuram,12/27/2015,West,,,105.07,
+OD9642,Sheeba,,Organic Staples,Viluppuram,02-04-2015,West,1871.0,0.34,729.69,
+OD9643,Haseena,Bakery,Breads & Buns,,8/31/2018,West,,,609.14,Tamil Nadu
+,Arutra,Beverages,Health Drinks,Theni,,West,2083.0,0.21,874.86,
+,Ram,Beverages,Soft Drinks,Tirunelveli,6/18/2016,West,2262.0,0.15,271.44,Tamil Nadu
+OD9647,Surya,Snacks,Chocolates,Viluppuram,4/24/2017,West,739.0,0.1,125.63,Tamil Nadu
+OD9648,Hussain,,,Cumbum,4/28/2017,West,1886.0,,810.98,Tamil Nadu
+OD9649,Krithika,Fruits & Veggies,Fresh Fruits,,12-06-2017,West,1106.0,0.1,453.46,Tamil Nadu
+OD9650,Roshan,Fruits & Veggies,Fresh Fruits,,12-11-2016,West,1470.0,0.27,88.2,
+OD9651,Komal,Bakery,Cakes,Theni,10-05-2018,West,1979.0,0.34,692.65,Tamil Nadu
+OD9652,Adavan,Beverages,Soft Drinks,Nagercoil,10/27/2017,West,1936.0,0.14,484.0,Tamil Nadu
+OD9653,Aditi,Fruits & Veggies,Fresh Fruits,Kanyakumari,4/17/2018,West,2414.0,,386.24,Tamil Nadu
+OD9655,,Snacks,Chocolates,Trichy,09-03-2018,West,2409.0,,939.51,Tamil Nadu
+OD9657,Anu,Food Grains,Rice,Pudukottai,,West,2263.0,0.22,,
+OD9658,,Fruits & Veggies,Fresh Vegetables,Namakkal,10-02-2018,West,664.0,0.16,232.4,Tamil Nadu
+OD9659,,Food Grains,Dals & Pulses,Pudukottai,10-05-2018,West,1848.0,,702.24,Tamil Nadu
+OD9661,Ganesh,Fruits & Veggies,Fresh Vegetables,Tenkasi,10/15/2017,West,896.0,,62.72,Tamil Nadu
+,Willams,Snacks,,Dindigul,8/28/2018,West,1354.0,0.26,257.26,Tamil Nadu
+,Sabeela,Bakery,Breads & Buns,Dindigul,2/20/2018,West,527.0,,168.64,
+,Vince,Food Grains,Organic Staples,Salem,,West,1337.0,0.32,441.21,
+OD9666,Komal,,Cookies,,01-05-2016,West,706.0,0.21,,
+OD9668,Hafiz,Bakery,Biscuits,Tenkasi,3/21/2018,West,1899.0,,626.67,
+OD9669,Adavan,Bakery,Breads & Buns,,6/25/2018,West,1409.0,0.13,,Tamil Nadu
+OD9670,Verma,,Noodles,Karur,,West,648.0,,174.96,Tamil Nadu
+OD9671,Ramesh,Food Grains,,,05-06-2015,West,1398.0,,265.62,
+,Alan,Snacks,Noodles,Pudukottai,,West,978.0,0.24,420.54,Tamil Nadu
+OD9673,,,Soft Drinks,Chennai,03-06-2018,West,1406.0,0.27,421.8,
+OD9674,Kumar,Food Grains,,Namakkal,11/20/2016,West,943.0,0.25,56.58,Tamil Nadu
+OD9675,Surya,Snacks,Chocolates,,9/24/2017,West,1263.0,0.31,505.2,Tamil Nadu
+OD9676,Mathew,,Soft Drinks,Ramanadhapuram,,West,962.0,0.23,317.46,Tamil Nadu
+OD9677,Roshan,Fruits & Veggies,Fresh Fruits,Coimbatore,12/14/2018,West,557.0,0.18,,Tamil Nadu
+OD9678,,Food Grains,Dals & Pulses,Madurai,6/18/2016,West,2098.0,,,Tamil Nadu
+OD9679,Vidya,Food Grains,Dals & Pulses,,1/23/2018,West,700.0,,98.0,Tamil Nadu
+,,,,Ooty,4/24/2017,West,1332.0,0.17,,Tamil Nadu
+,Vidya,Snacks,Chocolates,Cumbum,4/17/2018,West,2114.0,,,
+OD9682,Yusuf,Food Grains,Rice,Kanyakumari,4/17/2018,West,2202.0,0.22,726.66,Tamil Nadu
+OD9683,Hussain,,Fish,,4/17/2018,West,,0.2,359.04,Tamil Nadu
+OD9716,Krithika,Oil & Masala,Edible Oil & Ghee,Coimbatore,10-12-2018,West,2055.0,0.25,472.65,Tamil Nadu
+OD9717,Muneer,Food Grains,Organic Staples,Ooty,6/14/2017,West,,0.3,238.8,Tamil Nadu
+,,Food Grains,Dals & Pulses,Tirunelveli,,West,2288.0,0.15,228.8,Tamil Nadu
+OD9719,Surya,,,Karur,03-10-2017,West,,0.35,288.73,Tamil Nadu
+OD9720,Haseena,Beverages,Health Drinks,,,West,1597.0,0.25,,Tamil Nadu
+,,Bakery,Cakes,Chennai,12/16/2015,West,,0.12,406.62,
+OD9722,Krithika,Snacks,Chocolates,Salem,11-03-2018,West,2208.0,0.23,794.88,Tamil Nadu
+OD9724,Veronica,Food Grains,Dals & Pulses,Vellore,9/28/2018,West,,0.31,328.78,Tamil Nadu
+OD9725,Vinne,"Eggs, Meat & Fish",Mutton,,10-05-2018,West,1812.0,0.23,344.28,Tamil Nadu
+OD9726,Alan,Bakery,Biscuits,Krishnagiri,,West,1386.0,0.35,110.88,Tamil Nadu
+OD9727,Krithika,Fruits & Veggies,Organic Fruits,Krishnagiri,7/19/2017,West,,0.13,105.45,Tamil Nadu
+OD9728,,Fruits & Veggies,,,12/18/2017,West,,0.1,,Tamil Nadu
+OD9730,,Bakery,Biscuits,,09-04-2018,West,,0.33,526.46,Tamil Nadu
+OD9731,Yusuf,Oil & Masala,Masalas,,11-12-2017,West,1097.0,0.34,120.67,Tamil Nadu
+OD9732,,Fruits & Veggies,Fresh Fruits,Krishnagiri,,West,1836.0,0.27,257.04,Tamil Nadu
+,Ridhesh,,Dals & Pulses,Kanyakumari,12-05-2018,West,2051.0,,102.55,Tamil Nadu
+OD9734,Sabeela,Fruits & Veggies,Organic Fruits,,,West,1171.0,0.33,281.04,Tamil Nadu
+,Vince,Snacks,Noodles,Namakkal,12/24/2018,West,,0.14,265.85,
+OD9738,Aditi,Snacks,Cookies,Dindigul,03-10-2017,West,2271.0,,522.33,Tamil Nadu
+OD9739,Ganesh,Oil & Masala,Masalas,,10-06-2017,West,,0.25,,Tamil Nadu
+OD9751,Verma,,Fresh Fruits,Trichy,,West,2174.0,0.32,543.5,Tamil Nadu
+OD9752,Vidya,Oil & Masala,Spices,,07-03-2018,West,1586.0,0.31,586.82,Tamil Nadu
+OD9753,Peer,Oil & Masala,Masalas,Coimbatore,07-03-2018,West,1400.0,0.1,336.0,Tamil Nadu
+OD9754,Kumar,Bakery,Breads & Buns,Namakkal,07-03-2018,West,,0.25,860.32,Tamil Nadu
+OD9755,Verma,Food Grains,,Nagercoil,,West,1429.0,0.32,457.28,
+OD9756,Sabeela,Bakery,Breads & Buns,Coimbatore,11-12-2018,West,,0.23,837.9,Tamil Nadu
+,Hussain,Bakery,Breads & Buns,Ooty,,West,2046.0,0.11,184.14,Tamil Nadu
+OD9758,Komal,Food Grains,Dals & Pulses,Trichy,07-04-2017,West,,0.17,789.76,Tamil Nadu
+OD9761,,Food Grains,Dals & Pulses,Chennai,07-03-2018,West,,0.13,,Tamil Nadu
+OD9762,Shree,Bakery,Cakes,Pudukottai,12/31/2015,West,681.0,0.1,,Tamil Nadu
+OD9811,Vince,Beverages,Health Drinks,Theni,5/19/2018,West,1162.0,0.11,139.44,Tamil Nadu
+OD9812,Rumaiza,,,,9/30/2018,West,1137.0,0.21,511.65,Tamil Nadu
+OD9814,Sharon,Oil & Masala,Masalas,,1/28/2018,West,1671.0,0.26,501.3,Tamil Nadu
+OD9815,Veena,,Cookies,Cumbum,11-08-2016,West,1047.0,0.27,439.74,Tamil Nadu
+OD9816,Sabeela,Food Grains,Rice,Theni,,West,1249.0,0.22,74.94,
+,,,Masalas,Pudukottai,,West,1366.0,0.11,519.08,Tamil Nadu
+OD9818,Yadav,,Fish,Kanyakumari,,West,1437.0,0.21,502.95,
+OD9819,Arutra,"Eggs, Meat & Fish",Chicken,Kanyakumari,3/16/2018,West,978.0,0.32,332.52,Tamil Nadu
+,Amy,Food Grains,,Tenkasi,11-07-2018,West,2153.0,0.33,645.9,
+OD9821,James,Fruits & Veggies,Organic Fruits,Bodi,2/26/2018,West,1876.0,0.21,525.28,Tamil Nadu
+OD9822,Sundar,Food Grains,Rice,,3/13/2018,West,1238.0,0.22,297.12,Tamil Nadu
+,Roshan,Beverages,,Kanyakumari,05-07-2018,West,2088.0,,668.16,Tamil Nadu
+OD9944,Malik,Snacks,Cookies,,11/21/2015,West,765.0,0.3,,
+OD9945,Vidya,Snacks,Cookies,,06-06-2017,West,2038.0,0.13,855.96,Tamil Nadu
+,Hafiz,Fruits & Veggies,Organic Fruits,Dindigul,09-03-2018,West,974.0,0.15,321.42,Tamil Nadu
+OD9948,Hafiz,Snacks,,Perambalur,11-03-2016,West,,0.13,882.79,Tamil Nadu
+OD9949,,Food Grains,Atta & Flour,Cumbum,10/19/2016,West,2289.0,0.35,1007.16,
+OD9950,Anu,Bakery,Breads & Buns,Virudhunagar,12/24/2015,West,1638.0,,376.74,Tamil Nadu
+,Veena,Beverages,Health Drinks,,9/26/2017,West,1693.0,,304.74,Tamil Nadu
+OD9955,Jackson,Oil & Masala,Masalas,Vellore,,West,,0.18,190.88,Tamil Nadu
+OD9956,,"Eggs, Meat & Fish",,Dharmapuri,10-01-2018,West,2325.0,0.27,558.0,Tamil Nadu
+OD9957,Aditi,Food Grains,Rice,Tenkasi,,West,2098.0,,734.3,Tamil Nadu
+OD9958,Verma,Snacks,Chocolates,Kanyakumari,12/16/2017,West,1574.0,0.1,456.46,Tamil Nadu
+OD9959,Mathew,Oil & Masala,Spices,,2/20/2018,West,1296.0,0.17,466.56,Tamil Nadu
+OD9960,Harish,Oil & Masala,,,5/20/2018,West,2122.0,0.11,,Tamil Nadu
+OD9961,Amrish,"Eggs, Meat & Fish",,Vellore,,West,2471.0,0.33,296.52,Tamil Nadu
+OD9962,Komal,Fruits & Veggies,,Virudhunagar,1/31/2017,West,1157.0,0.16,185.12,
+,,Bakery,Cakes,Nagercoil,5/30/2018,West,1005.0,,,Tamil Nadu
+,Sudeep,Snacks,,Tirunelveli,1/23/2018,West,1682.0,,336.4,Tamil Nadu
+,,Food Grains,,Tenkasi,,West,,0.32,244.8,Tamil Nadu
+OD9966,Hafiz,Snacks,Cookies,Coimbatore,,West,2068.0,0.26,124.08,Tamil Nadu
+OD9969,,,Noodles,Chennai,03-06-2018,West,,,614.11,Tamil Nadu
+,Yusuf,Bakery,Breads & Buns,Salem,08-09-2015,West,784.0,0.2,164.64,Tamil Nadu
+OD9971,,Oil & Masala,Masalas,Tirunelveli,9/17/2017,West,2132.0,0.31,383.76,Tamil Nadu
+OD9973,Vinne,,Chocolates,Perambalur,2/20/2018,West,2500.0,0.19,325.0,Tamil Nadu
+OD9974,Surya,Snacks,Cookies,,05-05-2017,West,2377.0,0.14,,Tamil Nadu
+OD9975,Arvind,Food Grains,,Kanyakumari,12/24/2015,West,1733.0,0.13,,Tamil Nadu
+OD9977,,Oil & Masala,Masalas,Salem,06-06-2017,West,,0.13,382.68,Tamil Nadu
+OD9978,,Beverages,,Chennai,3/28/2015,West,2028.0,0.11,628.68,Tamil Nadu
+OD9979,,Snacks,,,,West,1195.0,0.16,250.95,Tamil Nadu
+OD9980,Verma,Bakery,,,3/18/2015,West,1418.0,,567.2,
+OD9981,Willams,Food Grains,Dals & Pulses,Vellore,8/31/2018,West,1251.0,0.29,387.81,Tamil Nadu
+OD9982,Suresh,,,Tirunelveli,,West,1694.0,0.15,694.54,Tamil Nadu
+OD9983,Veronica,,Organic Vegetables,Tenkasi,,West,1309.0,0.33,183.26,Tamil Nadu
+OD9984,Peer,Food Grains,Rice,,12-06-2017,West,2335.0,0.17,,Tamil Nadu
+OD9985,Willams,Oil & Masala,Masalas,Trichy,8/31/2016,West,727.0,0.17,109.05,Tamil Nadu
+OD9986,Shree,"Eggs, Meat & Fish",Mutton,Kanyakumari,11/13/2016,West,1286.0,,475.82,Tamil Nadu
+OD9987,,,Biscuits,,05-08-2018,West,2199.0,,153.93,Tamil Nadu
+OD9988,Ganesh,Fruits & Veggies,Fresh Vegetables,Theni,10/19/2015,West,1350.0,0.15,67.5,Tamil Nadu
+OD9989,Jackson,Snacks,,Vellore,11-03-2016,West,1460.0,0.15,452.6,Tamil Nadu
+OD9990,Sudeep,"Eggs, Meat & Fish",,,12/24/2015,West,945.0,0.16,359.1,Tamil Nadu
+,Alan,Bakery,Biscuits,Kanyakumari,07-12-2015,West,,0.26,,Tamil Nadu
+OD9993,Peer,Oil & Masala,Spices,,10/16/2018,West,,0.15,597.24,Tamil Nadu
+,Ganesh,,Atta & Flour,Tirunelveli,4/17/2018,West,,0.28,165.44,Tamil Nadu
